@@ -1,9 +1,9 @@
 ---
 id: fundraising
-title: Member Fundraising
+title: Fundraising
 ---
 
-#Member Fundraising
+# Fundraising
 
 So, you've decided to join the team! Now comes the process of raising your monthly financial support! We hope you will find the following tips useful. Remember: God is amazingly capable of supporting you in every area of your life!
 

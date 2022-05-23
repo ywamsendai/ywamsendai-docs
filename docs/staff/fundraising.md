@@ -3,11 +3,9 @@ id: fundraising
 title: Fundraising
 ---
 
-# Fundraising
-
 So, you've decided to join the team! Now comes the process of raising your monthly financial support! We hope you will find the following tips useful. Remember: God is amazingly capable of supporting you in every area of your life!
 
-##Contact List
+#Contact List
 
 We recommend **making a list** of all your friends, family, church members and contacts, and gather their emails, social network IDs, addresses, and phone numbers. Good communication is essential for fundraising, so be ready to communicate a lot in many ways!
 

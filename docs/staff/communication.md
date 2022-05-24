@@ -5,26 +5,21 @@ title: Communication
 
 This page acts as a description of the main communication tool used within YWAM Japan that we feel is important to realize the basic operation of an efficient community.
 
-#Element
+# Element
 
-The backbone of YWAM Japan communication is the [Matrix](https://matrix.org/) protocol--an open network for secure, decentralized communication.
+The backbone of YWAM Japan communication is the [Matrix](https://matrix.org/) protocol--an open network for secure, decentralized communication. **Element** is the app we use to communicate on the Matrix protocol.
 
-To connect with our community, you can connect with us [here](https://app.element.io/#/group/+ywamsendai:matrix.org).
+## Quick Sign-up Tutorial for Element
 
-###Element tutorial for YWAM Sendai community members
+1. Install the [Element app](https://element.io/get-started) (or use the web interface) and sign up
+1. After you're logged in, join our public [General room](https://matrix.to/#/#ywamjapan-general:matrix.org) and say hello!
+1. An admin will contact you to confirm you are a YWAM Japan staff before inviting you to the [YWAM Japan Space](https://matrix.to/#/#ywamjapan:matrix.org) (to access our private rooms)
+1. Join whichever rooms you like within the Space and join the discussions!
 
-1. Log into Element or make a new user and go directly to the YWAM Sendai community.
-1. Join the YWAM Sendai community +ywamsendai:matrix.org
-1. On the community page, click the gear icon on top slightly right and enable **publish this community on your profile** (you will get a cool YWAM Sendai flair when posting in one of our rooms on Element from now on!)
-1. Join whichever rooms you like, all YWAM Sendai rooms can be found via main room search as well.
+## Element User Guide
 
-###Short Element user manual and best practices
+For more information on how to use Element, as well as to find out all of its features, check out the official [User Guide](https://element.io/user-guide).
 
-* Address all people in a room with: **@room**
-* You can share rooms in chats with #roomname.
-* With standard room settings you will be able to invite other people to the room as a user
-* To make a new-line while typing, use shift-enter
+## Support
 
-###Support
-
-If you run into any problems, or need to ask a question, pop Gary a message: @garys:matrix.org
+If you run into any problems, or need to ask a question, pop Gary a message: [@garys:matrix.org](https://matrix.to/#/@garys:matrix.org)

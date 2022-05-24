@@ -26,7 +26,7 @@ Each location/ministry in YWAM Japan may have a different process which they wil
 - You can now book your flight to Japan! (**Note: please don’t purchase your airline ticket until your visa is issued in case of unexpected delays**).
 - You must enter Japan within 3 months of receiving your visa.
 
-## Required Documents and Letters
+## Required Documentation
 
 Please find below a list of what is needed from you in order to begin the process of applying for your Certificate of Eligibility.
 

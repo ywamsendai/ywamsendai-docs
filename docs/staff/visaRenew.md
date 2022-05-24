@@ -3,8 +3,6 @@ id: visaRenew
 title: Religious Worker Visa Renewal
 ---
 
-# Religious Worker Visa Renewal
-
 If you are currently residing in Japan with a YWAM Japan issued visa, you can start the process of renewing your Religious Worker visa from **3 months** prior to it expiring. We recommend starting the process of gathering the required documents prior to this. This page details this process. **Please follow this process carefully.**
 
 ## The Process

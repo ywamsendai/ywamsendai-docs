@@ -32,6 +32,9 @@
 
 
 module.exports = {
+  aboutSidebar: [
+     'about/ywam','about/values','about/covenants','about/whyjapan','about/biblepoverty'
+   ],
   staffSidebar: [
      'staff/join','staff/onboarding','staff/finances','staff/fundraising',
       {
@@ -40,7 +43,4 @@ module.exports = {
         items: ['staff/visaApply', 'staff/visaRenew']
       },'staff/communication'
    ],
-   aboutSidebar: [
-      'about/ywam','about/values','about/covenants','about/whyjapan','about/biblepoverty'
-    ],
 }

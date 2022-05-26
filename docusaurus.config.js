@@ -65,6 +65,12 @@ const config = {
         items: [
           {
             type: 'doc',
+            docId: 'about/ywam',
+            position: 'left',
+            label: 'About',
+          },
+          {
+            type: 'doc',
             docId: 'staff/join',
             position: 'left',
             label: 'Staff',

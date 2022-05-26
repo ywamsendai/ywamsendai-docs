@@ -1,5 +1,5 @@
 ---
-id: intro
+id: join
 title: Join Us!
 ---
 

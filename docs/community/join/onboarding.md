@@ -14,6 +14,6 @@ This page outlines a general onboarding process of YWAM locations in Japan. This
 - If they feel peace about moving forward, they may send you other forms, such as a **Medical and Criminal Background Check** form.
 - Once they have received these completed forms, there may be further dialogue about any questions or concerns they have about what you submitted in order to make sure you have the support you need when serving with them.
 - If you are cleared to join them, you will then start [fundraising](fundraising.md)! You will find info about finances on the [finances page](finances.md). This is also a good time to get stuck into language study, if you haven't already.
-- Once you have reached at least the Minimum Support Level of financial support, you can join the team! If you are in need of a visa to live in Japan, we will start the [visa process](visaApply.md)!
+- Once you have reached at least the Minimum Support Level of financial support, you can join the team! If you are in need of a visa to live in Japan, we will start the [visa process](../../operations/visaApply.md)!
 
 You will be guided through this process and you are free to ask any questions anytime!

@@ -37,7 +37,7 @@ module.exports = {
      {
        type: 'category',
        label: 'Join',
-       items: ['community/join/intro', 'community/join/onboarding', 'community/join/finances', 'community/join/fundraising']
+       items: ['community/join/join', 'community/join/onboarding', 'community/join/finances', 'community/join/fundraising']
      }
    ],
   ministrySidebar: [

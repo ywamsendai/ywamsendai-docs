@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ywamjapan/ywamjapan-docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ywamjapan/ywamjapan-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,22 +65,28 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'about/ywam',
+            docId: 'community/ywam',
             position: 'left',
-            label: 'About',
+            label: 'Community',
           },
           {
             type: 'doc',
-            docId: 'staff/join',
+            docId: 'operations/visaApply',
             position: 'left',
-            label: 'Staff',
+            label: 'Operations',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            type: 'doc',
+            docId: 'ministry/whyjapan',
+            position: 'left',
+            label: 'Ministry',
           },
+        //  {to: '/blog', label: 'Blog', position: 'left'},
+        //  {
+        //    href: 'https://github.com/facebook/docusaurus',
+        //    label: 'GitHub',
+        //    position: 'right',
+        //  },
         ],
       },
       footer: {

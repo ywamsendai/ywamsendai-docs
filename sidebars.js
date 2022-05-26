@@ -32,15 +32,27 @@
 
 
 module.exports = {
-  aboutSidebar: [
-     'about/ywam','about/values','about/covenants','about/whyjapan','about/biblepoverty'
+  communitySidebar: [
+     'community/ywam','community/values','community/covenants',
+     {
+       type: 'category',
+       label: 'Join',
+       items: ['community/join/intro', 'community/join/onboarding', 'community/join/finances', 'community/join/fundraising']
+     }
    ],
-  staffSidebar: [
-     'staff/join','staff/onboarding','staff/finances','staff/fundraising',
+  ministrySidebar: [
+     'ministry/whyjapan',
+      {
+        type: 'category',
+        label: 'Evangelism',
+        items: ['ministry/biblepoverty']
+      }
+   ],
+   operationsSidebar: [
       {
         type: 'category',
         label: 'Visa',
-        items: ['staff/visaApply', 'staff/visaRenew']
-      },'staff/communication'
-   ],
+        items: ['operations/visaApply', 'operations/visaRenew']
+      }
+    ],
 }

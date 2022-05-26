@@ -1,6 +1,6 @@
 ---
 id: values
-title: The Statement of Purpose, Core Beliefs and Foundational Values of YWAM
+title: Purpose, Core Beliefs and Foundational Values of YWAM
 ---
 
 This document presents YWAM’s sincerely held purpose, core beliefs, and foundational values which have been compiled in response to specific directives given by God since YWAM’s beginning in 1960. They are recorded here in order to pass on to successive generations that which God has emphasized to us.

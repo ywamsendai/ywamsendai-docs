@@ -127,7 +127,7 @@ const config = {
             items: [
               {
                 label: 'Join',
-                to: '/docs/community/join/join',
+                to: '/docs/community/join',
               },
               {
                 label: 'GitHub',

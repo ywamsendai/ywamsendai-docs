@@ -96,8 +96,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'What is YWAM?',
+                to: '/docs/community/ywam',
+              },
+              {
+                label: 'Visa Renewals',
+                to: '/docs/operations/visaRenew',
+              },
+              {
+                label: 'Why Japan?',
+                to: '/docs/ministry/whyjapan',
               },
             ],
           },
@@ -105,8 +113,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Join',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Chat',
+                to: '/docs/community/communication',
               },
               {
                 label: 'Twitter',
@@ -118,12 +126,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Join',
+                to: '/docs/community/join/join',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ywamjapan/ywamjapan-docs',
               },
             ],
           },

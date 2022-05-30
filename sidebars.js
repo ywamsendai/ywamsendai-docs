@@ -37,7 +37,7 @@ module.exports = {
       type: 'category',
       label: 'What is YWAM?',
       items: ['community/ywam', 'community/values', 'community/covenants', 'community/history']
-    },
+    },'community/communication',
      {
        type: 'category',
        label: 'Join',

@@ -3,7 +3,7 @@ id: communication
 title: Communication
 ---
 
-This page describes how YWAMers in Japn communicate with each other.
+This page describes how YWAMers in Japan communicate with each other.
 
 ## Chat
 

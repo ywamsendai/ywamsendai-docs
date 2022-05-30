@@ -60,7 +60,7 @@ const config = {
         title: 'YWAM Japan Documentation',
         logo: {
           alt: 'YWAM Japan Logo',
-          src: 'img/logo.svg',
+          src: 'img/LogoywamRed.png',
         },
         items: [
           {

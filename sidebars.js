@@ -37,11 +37,11 @@ module.exports = {
       type: 'category',
       label: 'What is YWAM?',
       items: ['community/ywam', 'community/values', 'community/covenants', 'community/history']
-    },'community/communication',
+    },'community/communication', 'community/visaRenew',
      {
        type: 'category',
        label: 'Join',
-       items: ['community/join/join', 'community/join/onboarding', 'community/join/finances', 'community/join/fundraising']
+       items: ['community/join/join', 'community/join/onboarding', 'community/join/finances', 'community/join/fundraising', 'community/join/visaApply']
      }
    ],
   ministrySidebar: [

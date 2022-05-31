@@ -5,7 +5,7 @@ title: New Religious Worker Visa
 
 As YWAM Japan is a registered Religious Corporation, we can assist foreign YWAMers who do not already have residency in Japan in receiving a Religious Worker visa. Please note that we can only offer this to those who will be, or are already, **connected with an existing YWAM location or ministry that is part of YWAM Japan's Religious Corporation**.
 
-If you do not yet have residency permission to live in Japan, part of your [process to join as YWAM Japan staff](../community/join/join.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
+If you do not yet have residency permission to live in Japan, part of your [process to join as YWAM Japan staff](join.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
 
 Please stay in touch with your receiving location/ministry throughout the process so they know how you are doing, and ask any questions anytime.
 
@@ -15,7 +15,7 @@ We look forward to your arrival and serving alongside you in reaching the Japane
 
 Each location/ministry in YWAM Japan may have a different process which they will communicate with you. The following is a general process to help you.
 
-- Inform your receiving location/ministry that you have reached at least the [Minimum Support Level](../community/join/finances.md) of financial support and would like to begin this process.
+- Inform your receiving location/ministry that you have reached at least the [Minimum Support Level](finances.md) of financial support and would like to begin this process.
 - You will work with your receiving location/ministry in filling out the Certificate of Eligibility (CoE) Application form.
 - You send your receiving location/ministry **all required documents** via **both** email and physical mail (detailed below).
 - Your receiving location/ministry will then apply for a CoE from Japanese Immigration once your documents have been received (can take 6 to 12 weeks).

@@ -36,5 +36,5 @@ If you have any questions about anything on this page, please communicate with t
 - **Application form**
 - **Envelope** with your address and **404 yen postage stamp** (simplified registered mail)
 - **Invitation/Warranty** letter - from National Office
-- A letter (in Japanese) explaining **why we do not have employment insurance**, as requested in question number 3 on the application form. We do not provide a salary, and living expenses are covered by sending church. (This may not be necessary, but was requested by at least one immigration office.)
 - **Japanese translations** of the Letter of Dispatch and Letter of Release
+- A letter (in Japanese) explaining **why we do not have employment insurance**, as requested in question number 3 on page 3 of the application form. We do not provide a salary, and living expenses are covered by sending church. (This may not be necessary, but was requested by at least one immigration office.)

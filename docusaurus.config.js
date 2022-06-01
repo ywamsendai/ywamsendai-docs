@@ -65,21 +65,21 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'community/ywam',
+            docId: 'about/ywam',
             position: 'left',
-            label: 'Community',
+            label: 'What is YWAM Japan?',
           },
           {
             type: 'doc',
-            docId: 'operations/visaApply',
+            docId: 'staff/communication',
+            position: 'left',
+            label: 'Staff',
+          },
+          {
+            type: 'doc',
+            docId: 'opperations/visaApply',
             position: 'left',
             label: 'Operations',
-          },
-          {
-            type: 'doc',
-            docId: 'ministry/whyjapan',
-            position: 'left',
-            label: 'Ministry',
           },
         //  {to: '/blog', label: 'Blog', position: 'left'},
         //  {
@@ -96,16 +96,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'What is YWAM?',
-                to: '/docs/community/ywam',
+                label: 'What is YWAM Japan?',
+                to: '/docs/about/ywam',
               },
               {
-                label: 'Visa Renewals',
-                to: '/docs/operations/visaRenew',
+                label: 'Staff',
+                to: '/docs/staff/communication',
               },
               {
-                label: 'Why Japan?',
-                to: '/docs/ministry/whyjapan',
+                label: 'Operations',
+                to: '/docs/operations/visaApply',
               },
             ],
           },
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: 'Chat',
-                to: '/docs/community/communication',
+                to: '/docs/staff/communication',
               },
               {
                 label: 'Twitter',
@@ -127,7 +127,7 @@ const config = {
             items: [
               {
                 label: 'Join',
-                to: '/docs/community/join',
+                to: '/docs/staff/join',
               },
               {
                 label: 'GitHub',

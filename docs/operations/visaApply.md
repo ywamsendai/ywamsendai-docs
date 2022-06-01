@@ -7,13 +7,13 @@ title: New Religious Worker Visa
 
 As YWAM Japan is a registered Religious Corporation, we can assist foreign YWAMers who do not already have residency in Japan in receiving a Religious Worker visa.
 
-If you have a new staff member joining you who do not yet have residency permission to live in Japan, part of their [process to join as YWAM Japan staff](../community/join/join.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
+If you have a new staff member joining you who do not yet have residency permission to live in Japan, part of their [process to join as YWAM Japan staff](../staff/join.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
 
 If you have any questions about anything on this page, please communicate with the National Office.
 
 ## The Process
 
-- The incoming staff member will inform you that they have reached at least the [Minimum Support Level](../community/join/finances.md) of financial support you have agreed upon and would like to begin this process.
+- The incoming staff member will inform you that they have reached at least the [Minimum Support Level](../staff/finances.md) of financial support you have agreed upon and would like to begin this process.
 - Request **required documentation** from the applicant via **both** email and physical mail (detailed below).
 - Fill out the [Certificate of Eligibility (CoE) Application form](https://www.moj.go.jp/isa/content/930004037.pdf) (As found on the [Immigration website](https://www.isa.go.jp/en/applications/procedures/16-1.html)). You may need further information from the applicant to help you.
 - Inform the National Office of this visa application and request an **Invitation/Warranty** letter, which they will mail to you.

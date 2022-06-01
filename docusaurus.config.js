@@ -77,7 +77,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'opperations/visaApply',
+            docId: 'operations/visaApply',
             position: 'left',
             label: 'Operations',
           },

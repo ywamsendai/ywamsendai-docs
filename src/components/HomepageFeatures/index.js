@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'What is YWAM Japan?',
-    address: '/about/ywam.md',
+    address: '/docs/about/ywam.md',
     description: (
       <>
         Everything you need to know about how we do things at YWAM Japan. If you're a new staff, start here!
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Staff',
-    address: 'staff/communication',
+    address: '/docs/staff/communication',
     description: (
       <>
         All you need to know about the different ministries we do in Japan.

@@ -13,4 +13,4 @@ You can find a general outline of what an onboarding process can look like [here
 
 ## Pioneering Something New?
 
-If you feel called to pioneer a new YWAM minsitry or location in Japan, please visit [this page](..operations/pioneering.md)
+If you feel called to pioneer a new YWAM minsitry or location in Japan, please visit [this page](../operations/pioneering.md)

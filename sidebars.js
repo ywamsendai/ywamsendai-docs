@@ -48,6 +48,6 @@ module.exports = {
         type: 'category',
         label: 'Visa',
         items: ['operations/visaApply', 'operations/visaRenew']
-      }
+      }, 'operations/pioneering'
     ],
 }

@@ -5,8 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'What is YWAM Japan?',
-    slug: 'ywam/',
-    id: 'ywam',
+    address: 'about/ywam',
     description: (
       <>
         Everything you need to know about how we do things at YWAM Japan. If you're a new staff, start here!
@@ -14,7 +13,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'YWAM Ministries',
+    title: 'Staff',
+    address: 'staff/communication',
     description: (
       <>
         All you need to know about the different ministries we do in Japan.
@@ -23,6 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Operations',
+    address: 'operations/visaApply',
     description: (
       <>
         All you need to know about how to function as a YWAM location in Japan, as well as info related to our legal entity.
@@ -31,11 +32,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({title, description}) {
+function Feature({title, address, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <Link className={styles.formatLink} to={(address)}><h3>{title}</Link></h3>
         <p>{description}</p>
       </div>
     </div>

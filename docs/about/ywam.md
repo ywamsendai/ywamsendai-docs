@@ -1,6 +1,5 @@
 ---
 id: ywam
-slug: ywam/
 title: About YWAM International
 ---
 

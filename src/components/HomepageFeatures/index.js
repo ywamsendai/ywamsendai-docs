@@ -36,7 +36,11 @@ function Feature({title, address, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
-        <Link className={styles.formatLink} to={(address)}><h3>{title}</Link></h3>
+        <h3>
+          <Link className={styles.formatLink} to={(address)}>
+            {title}
+          </Link>
+        </h3>
         <p>{description}</p>
       </div>
     </div>

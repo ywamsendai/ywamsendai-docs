@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'What is YWAM Japan?',
-    address: 'about/ywam',
+    address: '/about/ywam.md',
     description: (
       <>
         Everything you need to know about how we do things at YWAM Japan. If you're a new staff, start here!

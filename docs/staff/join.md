@@ -7,7 +7,7 @@ If you feel you may be called to reach and love the Japanese in Japan, then we w
 
 ## Choosing a Ministry Location
 
-First, you will need to choose a location! You can find a list of YWAM locations on our [website](https://www.ywamjapan.org/). Please prayfully explore the different locations and ministries and get in touch with them about their application process.
+First, you will need to choose a location! You can find a list of YWAM locations on our [website](https://www.ywamjapan.org/). Please prayerfully explore the different locations and ministries and get in touch with them about their application process.
 
 You can find a general outline of what an onboarding process can look like [here](onboarding.md).
 

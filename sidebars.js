@@ -45,16 +45,16 @@ module.exports = {
    ],
    operationsSidebar: [
      'operations/pioneering',
-      {
+     {
         type: 'category',
         label: 'Legal Entity',
-        items: ['operations/religiouscorporation',
+        items: ['operations/religiouscorporation', 'operations/guarantors',
         {
           type: 'category',
           label: 'Visas',
           items: ['operations/visaApply', 'operations/visaRenew']
-        ]
         }
+      ]
       }
     ],
 }

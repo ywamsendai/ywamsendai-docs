@@ -44,10 +44,17 @@ module.exports = {
       }
    ],
    operationsSidebar: [
+     'operations/pioneering',
       {
         type: 'category',
-        label: 'Visa',
-        items: ['operations/visaApply', 'operations/visaRenew']
-      }, 'operations/religiouscorporation', 'operations/pioneering'
+        label: 'Legal Entity',
+        items: ['operations/religiouscorporation',
+        {
+          type: 'category',
+          label: 'Visas',
+          items: ['operations/visaApply', 'operations/visaRenew']
+        ]
+        }
+      }
     ],
 }

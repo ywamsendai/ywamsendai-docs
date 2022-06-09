@@ -93,6 +93,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'lifeinjapan/gettingsettled',
+            position: 'left',
+            label: 'Life in Japan',
+          },
+          {
+            type: 'doc',
             docId: 'operations/visaApply',
             position: 'left',
             label: 'Operations',

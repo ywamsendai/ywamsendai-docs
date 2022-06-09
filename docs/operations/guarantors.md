@@ -1,15 +1,15 @@
 ---
 id: guarantors
-title: Guaranteeing YWAM Teams
+title: Guaranteeing New YWAM Teams
 ---
 
-A YWAM team may ask existing YWAM ministries to be their guarantor when applying to join YWAM Japan's legal entity. This could be:
+A YWAM team may ask an existing YWAM Japan ministry (who is within the legal entity) to be their guarantor when applying to join YWAM Japan's legal entity. This could be:
 
 - a team sent out from this location
 - a team coming from outside Japan
 - a team already in Japan (but not within the legal entity)
 
-This page details the expectations on a ministry acting as a guarantor for a team.
+This page details the process and expectations of a ministry acting as a guarantor for a new team.
 
 
 ## Process
@@ -26,7 +26,7 @@ In order for the team's ministry to join the legal entity, we have the following
 
 Here are some expectations we have on ministries who guarantee teams who join the legal entity:
 
-- take responsibility for any issues the team makes regarding legal matters
+- take responsibility for any issues arising from the new team regarding legal matters
 - train the team to correctly keep financial records and how to send records to the National Office
 - train the team on how to apply for and renew Religious Worker visas
 - keep the team accountable moving forward, both with legal responsibilities and pastorally

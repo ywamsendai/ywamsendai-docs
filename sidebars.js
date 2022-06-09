@@ -43,6 +43,9 @@ module.exports = {
         items: ['staff/join', 'staff/onboarding', 'staff/fundraising', 'staff/visaApply']
       }
    ],
+   lifeinjapanSidebar: [
+     'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/phones', 'lifeinjapan/friendshipwithgod'
+    ],
    operationsSidebar: [
      'operations/pioneering',
      {

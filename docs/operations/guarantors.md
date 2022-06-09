@@ -1,6 +1,7 @@
 ---
 id: guarantors
 title: Guaranteeing New YWAM Teams
+draft: true
 ---
 
 A YWAM team may ask an existing YWAM Japan ministry (who is within the legal entity) to be their guarantor when applying to join YWAM Japan's legal entity. This could be:

@@ -1,6 +1,7 @@
 ---
 id: religiouscorporation
 title: Legal Entity
+draft: true
 ---
 
 YWAM Japan has a legal entity here in Japan, called a Religious Corporation (宗教法人), under the name of 世界青年宣教会 (Sekai Seinen Senkyokai).

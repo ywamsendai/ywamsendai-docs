@@ -76,8 +76,8 @@ We do recommend you pay into *at least one state pension* in either your home co
 
 If your residence in Japan is permitted based on a Religious Workers Visa, there are rules about making money in Japan.
 
-You are permitted to earn money if the purpose is related to religious activities. For example, if a church pays you to teach English or make a website for them.
+You are permitted to earn money if the work is directly related to your religious activities. For example, if a church pays you to teach English.
 
-If you wanted to earn supplementary income while in Japan by other means unrelated to your missionary work, you must apply for a specific work permit. Though this would only be for work that does not take away your time or focus from your missionary activities.
+If you wanted to earn supplementary income while in Japan by other means, you must apply for a specific work permit. Though this would only be for work that is still *related* to your missionary work in some way *and* does not take away your time or focus from your missionary activities.
 
-That's the legal side! Regardless, we expect that all YWAMers in Japan will be fully supported financially to be in Japan. If you would like to apply for a work permit while in Japan, please discuss this with your receiving location/ministry.
+That's the legal side! Regardless, we do recommend that all YWAMers in Japan be fully supported financially, if possible. If you would like to apply for a work permit while in Japan, please discuss this with your receiving location/ministry.

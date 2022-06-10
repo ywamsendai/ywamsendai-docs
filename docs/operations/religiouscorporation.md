@@ -15,7 +15,7 @@ The benefits of YWAM ministries being part of the legal entity include:
 - Having legal protection
 - Being able to open bank accounts
 - Being able to rent or purchase property or other assets
-- Being able to issue and renew Religious Worker visas
+- Being able to issue and renew Religious Activities Visas
 
 ## Requirements
 

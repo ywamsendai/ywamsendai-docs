@@ -1,11 +1,11 @@
 ---
 id: visaApply
-title: New Religious Worker Visa
+title: New Religious Activities Visa
 ---
 
 **Note:** This page is intended for those with a visa coordinator role at YWAM Japan locations and ministries that are under the legal Religious Corporation (世界青年宣教会).
 
-As YWAM Japan is a registered Religious Corporation, we can assist foreign YWAMers who do not already have residency in Japan in receiving a Religious Worker visa.
+As YWAM Japan is a registered Religious Corporation, we can assist foreign YWAMers who do not already have residency in Japan in receiving a Religious Activities Visa.
 
 If you have a new staff member joining you who do not yet have residency permission to live in Japan, part of their [process to join as YWAM Japan staff](../staff/join.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
 

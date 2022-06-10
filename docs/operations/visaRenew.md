@@ -1,6 +1,6 @@
 ---
 id: visaRenew
-title: Religious Worker Visa Renewal
+title: Religious Activities Visa Renewal
 ---
 
 **Note:** This page is intended for those with a visa coordinator role at YWAM Japan locations and ministries that are under the legal Religious Corporation (世界青年宣教会).

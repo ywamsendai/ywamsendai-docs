@@ -74,7 +74,7 @@ We do recommend you pay into *at least one state pension* in either your home co
 
 ## Working in Japan
 
-If your residence in Japan is permitted based on a Religious Workers Visa, there are rules about making money in Japan.
+If your residence in Japan is permitted based on a Religious Activities Visa, there are rules about making money in Japan.
 
 You are permitted to earn money if the work is directly related to your religious activities. For example, if a church pays you to teach English.
 

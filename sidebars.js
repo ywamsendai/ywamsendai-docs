@@ -47,11 +47,11 @@ module.exports = {
      'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/phones', 'lifeinjapan/friendshipwithgod'
     ],
    operationsSidebar: [
-     'operations/pioneering',
+     'operations/pioneering', 'operations/overseeing',
      {
         type: 'category',
         label: 'Legal Entity',
-        items: ['operations/religiouscorporation', 'operations/guarantors',
+        items: ['operations/religiouscorporation',
         {
           type: 'category',
           label: 'Visas',

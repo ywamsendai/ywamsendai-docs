@@ -99,9 +99,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'operations/visaApply',
+            docId: 'ministries/pioneering',
             position: 'left',
-            label: 'Operations',
+            label: 'Ministries/OpLocs',
           },
         //  {to: '/blog', label: 'Blog', position: 'left'},
         //  {
@@ -126,8 +126,12 @@ const config = {
                 to: '/docs/staff/communication',
               },
               {
-                label: 'Operations',
-                to: '/docs/operations/visaApply',
+                label: 'Life in Japan',
+                to: '/docs/lifeinjapan/gettingsettled',
+              },
+              {
+                label: 'Ministries/OpLocs',
+                to: '/docs/ministries/pioneering',
               },
             ],
           },

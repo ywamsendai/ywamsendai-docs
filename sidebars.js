@@ -46,16 +46,16 @@ module.exports = {
    lifeinjapanSidebar: [
      'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/friendshipwithgod'
     ],
-   operationsSidebar: [
-     'operations/pioneering', 'operations/overseeing',
+   ministriesSidebar: [
+     'ministries/pioneering', 'ministries/overseeing',
      {
         type: 'category',
         label: 'Legal Entity',
-        items: ['operations/religiouscorporation',
+        items: ['ministries/religiouscorporation',
         {
           type: 'category',
           label: 'Visas',
-          items: ['operations/visaApply', 'operations/visaRenew']
+          items: ['ministries/visaApply', 'ministries/visaRenew']
         }
       ]
       }

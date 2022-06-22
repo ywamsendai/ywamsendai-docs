@@ -23,8 +23,17 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Operations',
-    address: '/docs/ministries/visaApply',
+    title: 'Life in Japan',
+    address: '/docs/lifeinjapan/gettingsettled',
+    description: (
+      <>
+        Some helpful tips and advice on life in Japan.
+      </>
+    ),
+  },
+  {
+    title: 'Ministries/OpLocs',
+    address: '/docs/ministries/pioneering',
     description: (
       <>
         All you need to know about how to function as a YWAM location in Japan, as well as info related to our legal entity.

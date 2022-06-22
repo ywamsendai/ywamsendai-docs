@@ -44,7 +44,7 @@ module.exports = {
       }
    ],
    lifeinjapanSidebar: [
-     'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/phones', 'lifeinjapan/friendshipwithgod'
+     'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/friendshipwithgod'
     ],
    operationsSidebar: [
      'operations/pioneering', 'operations/overseeing',

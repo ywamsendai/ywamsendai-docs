@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Operations',
-    address: '/docs/operations/visaApply',
+    address: '/docs/ministries/visaApply',
     description: (
       <>
         All you need to know about how to function as a YWAM location in Japan, as well as info related to our legal entity.

@@ -9,7 +9,7 @@ const FeatureList = [
     address: '/docs/about/ywam',
     description: (
       <>
-        Everything you need to know about how we do things at YWAM Japan. If you're a new staff, start here!
+        Everything you need to know about YWAM Japan and YWAM international.
       </>
     ),
   },
@@ -18,7 +18,7 @@ const FeatureList = [
     address: '/docs/staff/communication',
     description: (
       <>
-        All you need to know about the different ministries we do in Japan.
+        All you need to know about staffing with us in YWAM Japan.
       </>
     ),
   },

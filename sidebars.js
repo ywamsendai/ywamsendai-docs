@@ -47,7 +47,7 @@ module.exports = {
      'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/culture',
      {
        type: 'category',
-       label: 'language',
+       label: 'Japanese Language',
        items: ['lifeinjapan/language', 'lifeinjapan/language2', 'lifeinjapan/language3']
      }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/friendshipwithgod'
     ],

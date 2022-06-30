@@ -44,7 +44,12 @@ module.exports = {
       }
    ],
    lifeinjapanSidebar: [
-     'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/culture', 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/friendshipwithgod'
+     'lifeinjapan/gettingsettled', 'lifeinjapan/disaster', 'lifeinjapan/culture',
+     {
+       type: 'category',
+       label: 'language',
+       items: ['lifeinjapan/language', 'lifeinjapan/language2', 'lifeinjapan/language3']
+     }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/friendshipwithgod'
     ],
    ministriesSidebar: [
      'ministries/pioneering', 'ministries/overseeing',

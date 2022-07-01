@@ -90,7 +90,7 @@ If you go this route, follow these steps:
 * Install Anki
 * Install [All In One Kanji Desk (RTK Order)](https://ankiweb.net/shared/info/215365929). This will teach you 3,000 kanji.
 * In Anki, go to Browser > search by card type > “card:Recall” > suspend all of the recall cards.
-* In deck settings, set "new" cards to 5 per day. As you get more comfortable, you can gradually increase this to 20 per day.
+* In deck settings, set "new" cards to between 5 to 10 per day. As you get more comfortable, you could gradually increase this to 20 per day.
 * Skim over the information on each card, but only worry about **recognising the meaning**.
 
 ### WaniKani

@@ -7,7 +7,7 @@ Taxes are something nobody really enjoys thinking about. It is important, and we
 
 This document will hopefully help bring clarity to filing taxes in Japan.
 
-**Note:** this wonderful research was put together by our very own Aogu! He is a gifted man, but is not a financial advisor or tax accountant. We hope this content helps you! But you are responsible for correctly filing your own taxes :)
+**Note:** this wonderful research was put together by one of our wonderful staff members! He is a gifted man, but is not a financial advisor or tax accountant. We hope this content helps you! But you are responsible for correctly filing your own taxes :)
 
 ## 1. Who is required to file tax?
 

@@ -26,7 +26,7 @@ There are two main taxes to be filed in Japan that you should be aware of:
 
 You should submit either one of these tax returns each year. If you submit an income tax return (*kakutei shinkoku*), you *do not* need to file a resident tax return (*jūminzei no shinkoku*). On the other hand, if you *do not* file an income tax return, you *will* need to file a resident tax return.
 
-You can find also find basic information on income tax and resident tax on the [GaijinPot blog](https://blog.gaijinpot.com/a-quick-guide-taxes-japan/).
+You can also find basic information on income tax and resident tax on the [GaijinPot blog](https://blog.gaijinpot.com/a-quick-guide-taxes-japan/).
 
 ## Income Tax
 

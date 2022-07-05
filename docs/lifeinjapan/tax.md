@@ -86,3 +86,75 @@ On the other hand, if you received more than ¥1,100,000 in gifts that don't fal
 - Remember, payments received from groups are **always** categorised as income, rather than as gifts.
 
 ## 4. What should I know about the income tax?
+
+### Permanent Resident or Non-Permanent Resident?
+
+If you are a *Japanese citizen* or have been *living in Japan for more than five years in the past ten years*, you are categorised as a **permanent resident** (for tax purposes). This means that **all of your income (domestic and overseas) is subject to taxation**.
+
+If you are *not a Japanese citizen* and have been *living in Japan for less than five years in the past ten years*, you are regarded as a **non-permanent resident**. This means that only 1) income made in Japan and 2) overseas income that is actually sent to Japan is subject to taxation.
+
+#### For Non-Permanent Residents
+
+If you receive a donation from an overseas individual or group directly to your *Japanese* bank account, you should categorise it appropriately and **report the income** (or gift, if necessary) in your tax returns.
+
+Things get a bit murky, however, if the donation is sent from a donor's overseas account to your *overseas* bank account. Overseas income is not subject to taxation unless sent to Japan. The thing is, if you use a credit card connected to your overseas bank account, you *are* drawing from a pool that contains income that should technically be subject to taxation when sent to Japan. But there is no way for either you or the National Tax Agency to know whether the money sent to Japan was income made in the previous year.
+
+If you transfer more than ¥1,000,000 in one go, the Tax Agency will be notified and you will be asked whether you have sources of income overseas. (You should of course answer their questions honestly!)
+
+But there really is no way of knowing whether the Starbucks coffee you bought with your credit card was paid for using savings from 10 years ago or a donation made yesterday. Thus, it is our understanding that you do not need to report your regular credit card use, etc. as overseas income sent to Japan.
+
+#### Special note for US Citizens
+
+Most countries, including Japan, have a *residence-based* taxation system. This means that when most foreign citizens move to Japan, they will be required to pay taxes to Japan and *not* to their country of citizenship.
+
+This is not the case, however, for US citizens, as the US has a *citizenship-based* taxation system. This means that *US citizens are required to file their taxes to the IRS even while living abroad*. There are agreements, however, between Japan and the US to prevent double taxation, so you should only have to pay to one country. Please talk to your US tax return preparer for the best strategy to handle your situation.
+
+One way to avoid double taxation is by deducting the amount you have paid to a foreign income tax from your Japanese income tax amount. For more information on this, see the [National Tax Agency's website](https://www.nta.go.jp/english/taxes/individual/12007.htm).
+
+Here are a few other resources from the website, "*Taxes For Expats*": [Simple Tax Guide for Americans in Japan](https://www.taxesforexpats.com/country_guides/japan/us-tax-preparation-in-japan.html), [US Missionary Tax Guide](https://www.taxesforexpats.com/guides/missionary-guide.html).
+
+### More Info
+
+- For more detailed information on the income tax, see the National Tax Agency’s guide [here](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2021/01.pdf). (This guide is from the 2021, so some information may be outdated.)
+- If you made less than ¥480,000 in income last year, you should file a *resident tax return* rather than an income tax return.
+
+## 5. When and how should I file my tax return?
+
+### When should I file my tax return?
+
+You should file your tax return (either income or resident tax) between 16 February and 15 March.
+
+### How should I file my tax return?
+
+#### Income Tax
+
+**Note: File Income Tax if your taxable income was more than ¥480,000**
+
+You can file income tax either:
+
+- Online using a MyNumber card (if you have an NFC-enabled smartphone - simplest method)
+- Online by setting up an ID and password
+- Through the mail
+- In person at your local tax office (tends to be time-consuming and crowded)
+
+You can find links to the online system, as well as how to apply via the mail, [here](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl).
+
+As everything will be in Japanese, you may find it helpful to ask a Japanese-speaking friend for help (or use Google Translate!).
+
+#### Resident Tax
+
+**Note: File Resident Tax if your taxable income was less than ¥480,000**
+
+You should file your resident tax return to the city where you were living as of 1 January immediately after the tax year in question. Each prefecture and city in Japan will have their own procedure for filing resident tax. Please visit their website, or the office in person, for more information.
+
+In general, if you had no taxable income during the tax year:
+- Fill out the address (住所), name (氏名), MyNumber (個人番号（マイナンバー）), etc.
+- *If you have any dependents* — Fill out your dependents' name (氏名), MyNumber (個人番号（マイナンバー）), etc. in the rows for "Spouse Deduction" (配偶者控除), "Dependent Deduction" (扶養控除), and "Dependent Family Members Under 16 Years Old" (16歳未満の扶養親族).
+- Check the appropriate box in "Section 18, For Those Without an Income "(18収入がなかった方の記入欄). If selecting "Other," specify.
+
+**Documents to prepare**
+
+1. Resident tax return form
+2. Documents to verify identity (e.g. MyNumber card, *jūminhyō no utsushi*, driver's licence, passport, health insurance card) - If submitting MyNumber card, you do not need any other document to verify your identity.
+3. Documentation of income (e.g. Withholding certificate/*gensen chōshūhyō*, statement of pay)
+4. Documentation to apply for any deductions

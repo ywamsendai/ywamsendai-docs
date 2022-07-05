@@ -58,11 +58,9 @@ We encourage all YWAMers in Japan to set monthly budgets and to record income an
 ## Tax & State Pension
 
 ### Tax
-It is important that all YWAMers in Japan find out rules related to filing taxes both in their sending country, *as well as in Japan*. It may be the case that you will be considered self employed and a proportion of your income would be taxable.
+It is important that all YWAMers in Japan find out rules related to filing taxes both in their sending country, *as well as in Japan*.
 
-As a general rule, those wishing to be long-term residents of Japan (someone living in Japan for more than 5 years) must file taxes on **all global income** in Japan. Your sending country will likely have a double taxation agreement with Japan to protect you from paying tax in both places. But your sending country may still require you to file taxes there regardless.
-
-**It is very important for each YWAMer in Japan to find this information out for themselves.** In general, we cannot help you with this.
+For information on filing taxes in Japan, see [this page](../lifeinjapan/tax.md)
 
 ### State Pension
 

@@ -127,7 +127,24 @@ You can find links to the online system, as well as how to apply via the mail, [
 
 As everything will be in Japanese, you may find it helpful to ask a Japanese-speaking friend for help (or use Google Translate!).
 
-For more detailed information on the income tax, see the National Tax Agency’s guide [here](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2021/01.pdf). (This guide is from the 2021, so some information may be outdated.)
+For more detailed information on income tax, see the National Tax Agency’s guide [here](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2021/01.pdf). (This guide is from the 2021, so some information may be outdated.)
+
+#### Earnings - Expenses = Income
+
+When filling out the final income tax return, there will be sections for inputting your total earnings (*shūnyū*; 収入), as well as for inputting your income (*shotoku*; 所得) after expenses (*keihi*; 経費) have been subtracted.
+
+The tax amount is calculated based on your income and not your total earnings. Certain business and ministry expenses [may qualify as expenses](https://www.nta.go.jp/english/taxes/individual/12015.htm). It's not 100% clear what expenses would be considered legitimate expenses, so it might be best to separate out your expenses and ask about them at the tax office.
+
+If you are filling out your tax form at the tax office, follow whatever advice you receive.
+
+#### Documents to prepare
+
+Assuming you are filing using the e-Tax online system:
+
+1. User identification number (If you have previously filed your income tax return
+2. Copy of your income tax return forms from last year (If you filed your income tax return last year)
+3. ID documents — Either a MyNumber card, or at least two other forms of ID (residence card, driving licence, copy of *jūminhyō*, health insurance card etc.)
+5. Bank details
 
 ## Resident Tax
 

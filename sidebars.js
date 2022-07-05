@@ -49,7 +49,7 @@ module.exports = {
        type: 'category',
        label: 'Japanese Language',
        items: ['lifeinjapan/language', 'lifeinjapan/language2', 'lifeinjapan/language3']
-     }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/friendshipwithgod'
+     }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/tax', 'lifeinjapan/friendshipwithgod'
     ],
    ministriesSidebar: [
      'ministries/pioneering', 'ministries/overseeing',

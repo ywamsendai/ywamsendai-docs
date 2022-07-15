@@ -13,7 +13,7 @@ It is necessary to have completed a YWAM DTS in order be a full-time YWAMer anyw
 
 ### YWAM Purpose, Beliefs & Values
 
-It is also important to make a commitment to the [YWAM Purpose, Beliefs & Values](values.md). All Japan YWAMers are expected to not only know what YWAM is about, but also live it. We ask all Japan YWAMers, new and old, to refresh themselves regularly on what it means to be a YWAMer.
+It is also important to make a commitment to the [YWAM Purpose, Beliefs & Values](../about/values.md). All Japan YWAMers are expected to not only know what YWAM is about, but also live it. We ask all Japan YWAMers, new and old, to refresh themselves regularly on what it means to be a YWAMer.
 
 ### YWAM International & Japan
 

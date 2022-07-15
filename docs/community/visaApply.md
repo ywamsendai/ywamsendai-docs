@@ -15,7 +15,7 @@ We look forward to your arrival and serving alongside you in reaching the Japane
 
 Each location/ministry in YWAM Japan may have a different process which they will communicate with you. The following is a general process to help you.
 
-- Inform your receiving location/ministry that you have reached at least the [Minimum Support Level](finances.md) of financial support and would like to begin this process.
+- Inform your receiving location/ministry that you have reached at least the [Minimum Support Level](fundraising.md) of financial support and would like to begin this process.
 - You will work with your receiving location/ministry in filling out the Certificate of Eligibility (CoE) Application form.
 - You send your receiving location/ministry **all required documents** via **both** email and physical mail (detailed below).
 - Your receiving location/ministry will then apply for a CoE from Japanese Immigration once your documents have been received (can take 6 to 12 weeks).

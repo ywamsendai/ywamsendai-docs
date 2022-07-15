@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'Community',
-                to: '/docs/staff/communication',
+                to: '/docs/community/communication',
               },
               {
                 label: 'Life in Japan',

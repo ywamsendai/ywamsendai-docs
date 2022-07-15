@@ -23,7 +23,7 @@ We are called to be in relationship with one another. Here are some things you c
 - Have a leader from your ministry intentionally keep in touch with their leaders online regularly to check on how they are doing
 - Encourage the team to attend YWAM Japan and global YWAM gatherings
 - Encourage the team to worship, pray, intercede, and eat together regularly (at least weekly)
-- Encourage the team to be active on the [YWAM Japan chat rooms on Element](../staff/communication.md), including posting prayer requests
+- Encourage the team to be active on the [YWAM Japan chat rooms on Element](../community/communication.md), including posting prayer requests
 - Connect the leaders with the YWAM Japan ACT
 
 ## Practical & Legal

@@ -46,11 +46,7 @@ Known as a “*hanko*” or “*inkan*” in Japan, a seal is a stamp of your su
 
 It would be useful for you to have a bank account in Japan. This is necessary to send money to others within Japan, as well as to pay some bills.
 
-The Japan Post (JP) Bank is a popular and convenient bank account. You can open an account [here](https://jp-bank-kaisetsu.japanpost.jp/account_open/0010.php). The application is in multiple languages. You fill in your details online, print off the completed form, and mail it along with copies of your ID. They will mail you a cashcard in around 2 weeks.
-
-You may also choose to apply for a Visa debit card with this account which will make it easier to make payments for things without using cash. This can do done after you have opened a bank account. You can find out more [here](https://www.jp-bank.japanpost.jp/kojin/cashless/yuchodebit/kj_cl_yd_index.html).
-
-There are also other local banks which may be more convenient in your part of Japan. Ask other YWAMers what they use.
+You can find more information on the [money page](money.md)
 
 ## Set up a Phone
 

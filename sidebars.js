@@ -35,12 +35,12 @@ module.exports = {
   aboutSidebar: [
     'about/ywam', 'about/values', 'about/covenants', 'about/history', 'about/whyjapan', 'about/biblepoverty'
    ],
-  staffSidebar: [
-     'staff/communication', 'staff/finances', 'staff/visaRenew', 'staff/friendshipwithgod',
+  communitySidebar: [
+     'community/communication', 'community/commitments', 'community/friendshipwithgod',
       {
         type: 'category',
         label: 'Join',
-        items: ['staff/join', 'staff/onboarding', 'staff/fundraising', 'staff/visaApply']
+        items: ['community/join', 'community/onboarding', 'community/fundraising', 'community/visaApply']
       }
    ],
    lifeinjapanSidebar: [
@@ -49,7 +49,7 @@ module.exports = {
        type: 'category',
        label: 'Japanese Language',
        items: ['lifeinjapan/language', 'lifeinjapan/language2', 'lifeinjapan/language3']
-     }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/tax'
+     }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/tax', 'lifeinjapan/visaRenew', 
     ],
    ministriesSidebar: [
      'ministries/pioneering', 'ministries/overseeing',

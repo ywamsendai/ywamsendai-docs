@@ -14,8 +14,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Staff',
-    address: '/docs/staff/communication',
+    title: 'Community',
+    address: '/docs/community/communication',
     description: (
       <>
         All you need to know about staffing with us in YWAM Japan.

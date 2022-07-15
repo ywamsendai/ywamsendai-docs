@@ -1,15 +1,31 @@
 ---
 id: fundraising
-title: Fundraising
+title: Financial Support & Fundraising
 ---
 
-So, you've decided to join a YWAM team in Japan! Now comes the process of raising your monthly financial support! We hope you will find the following tips useful. Remember: God is amazingly capable of supporting you in every area of your life!
+So, you've decided to join a YWAM team in Japan! Now comes the process of raising your monthly financial support!
 
-## Contact List
+## Financial Support
+
+In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Japan before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not truth in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
+
+As a mission field, Japan can be a particularly expensive place. Though we fully believe that God provides for us, and know that there are those that live day to day without knowing where their next donation will come from, we have seen people like this struggle here in Japan. This is disheartening. It is especially difficult when people start to get into debt because it is so expensive to live here! We don't believe its ever God's plan for people to struggle continuously and to get into debt.
+
+Each YWAM location/ministry in Japan is encouraged to set a **Minimum Support Level** that must be reached before we can start the visa application process of a new staff.
+
+If you are considering joining a location/ministry shorter term (1 to 2 years), savings can be considered as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
+
+Please discuss this with your receiving location/ministry.
+
+## Fundraising
+
+We hope you will find the following fundraising tips useful. Remember: God is amazingly capable of supporting you in every area of your life!
+
+### Contact List
 
 We recommend **making a list** of all your friends, family, church members and contacts, and gather their emails, social network IDs, addresses, and phone numbers. Good communication is essential for fundraising, so be ready to communicate a lot in many ways!
 
-## Write Letter / Pamphlet
+### Write Letter / Pamphlet
 
 First, write out your **reasons why you feel God is calling you to Japan**. (Being able to clearly state your reasons for wanting to come to Japan is very important in helping people want to support you in your goal.) Include your testimony of how God has spoken to you, scriptures, confirmations, etc. Include activities you will be doing, and how you personally will be serving.
 
@@ -19,19 +35,19 @@ In the letter, put **the total costs** you will need, including monthly needs, e
 
 Your letter should be 1 - 2 pages maximum in length. We recommend your letter have at least one picture in it (more is better), and that you break up the text into frequent paragraphs (a huge block of words might be overwhelming for people to read on a busy day). Consider giving clear titles to sections of your letter. For example: **My story: Why Japan? What’s Next? How you can help!** You can go online and grab some photos of Japan that might make the letter more interesting. Send the letter to everyone you know - church, family, friends, your parents’ friends, etc. Even non-Christian friends and family who love you may wish to help.
 
-## Receiving Donations
+### Receiving Donations
 
 Make sure you set up different ways where people can easily donate to you and communicate this clearly. Here are some ideas to help you:
 
-### Church
+#### Church
 
 Many people like to receive tax benefits when donating (e.g. Gift-Aid in the UK, or a tax deduction in the US) so perhaps your church will allow you to have donations sent through them. Check into this possibility when you meet with the pastor or missions director at your church (more about that later).
 
-### YWAM
+#### YWAM
 
 A larger YWAM base in your country may be willing to set up a missions account for you and allow your supporters to send you funds through them. It may be worth contacting larger YWAM bases near you about any services they provide, or that they may know of for missionaries serving overseas.
 
-### Missionary Donation Organisations
+#### Missionary Donation Organisations
 
 There may be an organisation in your country that specialises in helping missionaries receive donations through them. They usually allow people to easily give online, to set up monthly payments or to give one-off donations. Her are two examples:
 
@@ -39,11 +55,11 @@ If you are a resident of the UK, we would recommend opening an account with [Ste
 
 If you are a resident of the US, [EquipNet](http://equipnet.org) offers an online donation service for your supporters. They also send tax deductible receipts to your supporters, which people tend to prefer. (It takes about 3 - 4 weeks to receive funds via this service.)
 
-### Other Payment Options
+#### Other Payment Options
 
 If people don’t care much about Gift-Aid or a tax deductible receipt, you can also open an account with [PayPal](https://www.paypal.com) or [Wise](https://wise.com/). Or people may simply prefer to set up bank transfers! Supporters really appreciate options that are familiar and convenient! Make sure to list every way people can give to you somewhere (on a website or blog).
 
-## Regular Updates
+### Regular Updates
 
 After you send your letter, you can also **post updates on social media, write blog posts, and/or send email newsletters** to keep people informed on how your support is coming in (e.g. "I only need ¥50,000 more per month” or, “¥70,000 has been pledged so far" etc). This will encourage people who were intending to give (but who have forgotten) that there is still a need and they could still help. Be sure to let people know that you need their prayers, too, and include any miracle stories that happen. That really encourages people that God is helping you, and that going to Japan is His idea.
 
@@ -51,11 +67,11 @@ Also include things that aren’t related to money, like what God is doing in yo
 
 We highly recommend you **set up your own blog (e.g. [Medium](https://medium.com)) and social network page ([Facebook](https://www.facebook.com), [Twitter](https://twitter.com))**. From there you can post pictures and journal about your journey of getting to Japan, and your adventures once there.
 
-## Thankfulness and Good Manners
+### Thankfulness and Good Manners
 
 If someone replies to your updates, write them back. Also, it is very important to **personally thank supporters** with at least a thank you message -- a video call or physical card is even better! A little appreciation goes a long way. Be sure to share personal stories and news, too, not just ministry or financial needs. As God does new things in your life, share these, because the Lord wants to use your stories to bless and encourage others.
 
-## Involving your church
+### Involving your church
 
 **Meet with your pastor/missions board/youth pastor** or whoever is most appropriate at your home church. Explain that you have a desire to serve in Japan with YWAM. Ask if they have any advice regarding obtaining prayer and possible financial support from the church.  Here are some things that can be done:
 
@@ -77,7 +93,7 @@ Here are two articles that may also be helpful for you too:
 - [Not Enough Support](http://fundingyourministry.com/downloads/Not-Enough-Support.pdf)
 - [How to Increase Your Support](http://fundingyourministry.com/downloads/How-to-Increase-your-support.pdf)
 
-## A few more points
+### A few more points
 
 **Because it is God who is your source, do not worry or stress over your finances**. God is very capable of providing for all His plans for us. He often uses these trials of faith in our lives to reveal things in our hearts - doubt and unbelief that God can provide, fear of asking for help, feeling unworthy of people’s help, or guilt about past sins... and a million other things. Spend time in the Word and listen to God when you are feeling anxious, and meditate on Scriptures that encourage your faith. Allow God access to your heart if issues come up, because this is also His desire. These issues will continually be a problem in your walk with God, so in His mercy, He lets them be exposed so that He can heal your image of Him, your image of yourself as His precious son or daughter, or deal with some other sin that will certainly hinder your pursuit of Him. Read James 1:3-4.
 

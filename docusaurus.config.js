@@ -87,9 +87,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'staff/communication',
+            docId: 'community/communication',
             position: 'left',
-            label: 'Staff',
+            label: 'Community',
           },
           {
             type: 'doc',
@@ -122,7 +122,7 @@ const config = {
                 to: '/docs/about/ywam',
               },
               {
-                label: 'Staff',
+                label: 'Community',
                 to: '/docs/staff/communication',
               },
               {
@@ -140,7 +140,7 @@ const config = {
             items: [
               {
                 label: 'Chat',
-                to: '/docs/staff/communication',
+                to: '/docs/community/communication',
               },
               {
                 label: 'Twitter',
@@ -153,7 +153,7 @@ const config = {
             items: [
               {
                 label: 'Join',
-                to: '/docs/staff/join',
+                to: '/docs/community/join',
               },
               {
                 label: 'GitHub',

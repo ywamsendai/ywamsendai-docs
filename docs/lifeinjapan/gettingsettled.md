@@ -16,6 +16,7 @@ In order for you to feel more prepared, here are some of the things you will nee
 - Set up a phone plan
 - Find housing
 - Set up your home
+- Figure out the waste system
 - Prepare for natural disasters
 
 ## Register as a Local Resident

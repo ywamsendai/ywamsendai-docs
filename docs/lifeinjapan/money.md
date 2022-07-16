@@ -25,9 +25,11 @@ As a general guide, we recommend that you have *at least* two months worth of su
 
 It would be useful for you to have a bank account in Japan. This is necessary to send money to others within Japan, as well as to pay some bills.
 
-The Japan Post (JP) Bank is a popular and convenient bank account. You can open an account [here](https://jp-bank-kaisetsu.japanpost.jp/account_open/0010.php). The application is in multiple languages. You fill in your details online, print off the completed form, and mail it along with copies of your ID. They will mail you a cashcard in around 2 weeks.
+[Sony Bank](https://moneykit.net/en/) is a bank that has an online inteface in both Japanese and English, as well as has English support. It is free to open, has low fees, and includes a Visa debit card. They also allow you to freely open accounts to store foreign currencies.
 
-You may also choose to apply for a Visa debit card with this account which will make it easier to make payments for things without using cash. This can do done after you have opened a bank account. You can find out more [here](https://www.jp-bank.japanpost.jp/kojin/cashless/yuchodebit/kj_cl_yd_index.html).
+The Japan Post (JP) Bank is a popular and convenient savings account. You can open an account [here](https://jp-bank-kaisetsu.japanpost.jp/account_open/0010.php). The application is in multiple languages. You fill in your details online, print off the completed form, and mail it along with copies of your ID. They will mail you a cashcard in around 2 weeks.
+
+You may also choose to apply for a Visa debit card with this account which will make it easier to make payments for things without using cash. This can do done after you have opened a bank account. You can find out more [here](https://www.jp-bank.japanpost.jp/kojin/cashless/yuchodebit/kj_cl_yd_index.html). (Note: they have been known to decline debit cards to foreigners..)
 
 There are also other local banks which may be more convenient in your part of Japan. Ask other YWAMers what they use.
 

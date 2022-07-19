@@ -18,7 +18,7 @@ const FeatureList = [
     address: '/docs/community/communication',
     description: (
       <>
-        All you need to know about staffing with us in YWAM Japan.
+        All you need to know about being a part of the YWAM Japan community.
       </>
     ),
   },

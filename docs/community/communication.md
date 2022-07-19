@@ -13,7 +13,7 @@ We have installed a bridge from our main public Open Chat room on Matrix to Tele
 
 To connect with our community, you can use one of the following apps:
 
-- [Element](https://matrix.to/#/#ywamjapan-general:matrix.org)
+- [Element](https://matrix.to/#/#ywamjapan-openchat:matrix.org)
 - [Telegram](https://t.me/+PcpvBBR5FZUyOTk1) (Main public room only)
 
 If you are (or are joining as) a staff member, please use Element.

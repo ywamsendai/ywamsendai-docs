@@ -25,7 +25,7 @@ As a general guide, we recommend that you have *at least* two months worth of su
 
 It would be useful for you to have a bank account in Japan. This is necessary to send money to others within Japan, as well as to pay some bills.
 
-[Sony Bank](https://moneykit.net/en/) is a bank that has an online inteface in both Japanese and English, as well as has English support. It is free to open, has low fees, and includes a Visa debit card. They also allow you to freely open accounts to store foreign currencies.
+[Sony Bank](https://moneykit.net/en/) is a bank that has an online interface in both Japanese and English, as well as has English support. It is free to open, has low fees, and includes a Visa debit card. They also allow you to freely open accounts to store foreign currencies.
 
 The Japan Post (JP) Bank is a popular and convenient savings account. You can open an account [here](https://jp-bank-kaisetsu.japanpost.jp/account_open/0010.php). The application is in multiple languages. You fill in your details online, print off the completed form, and mail it along with copies of your ID. They will mail you a cashcard in around 2 weeks.
 

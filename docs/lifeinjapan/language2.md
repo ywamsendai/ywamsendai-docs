@@ -165,5 +165,3 @@ Using Anki, follow these steps:
 Not only is it important to learn common Japanese vocab, you should also learn Christian vocab. This is essential for worshipping, praying, reading the Bible, and sharing the Gospel--all in Japanese!
 
 We have created a document that lists useful Christian vocab and phrases, as well as the Lord's Prayer and Apostles Creed [here](https://docs.google.com/document/d/13n2YVf6eZs9nfGdxVOATAf4Bze8jZVNfpf7NtTN3QkI/edit?usp=sharing).
-
-OMF has also compiled some helpful language resources on [this page](https://omf.org/asia/japan/resources/japanese-language/).

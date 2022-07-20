@@ -23,15 +23,16 @@ There are many different companies that offer affordable plans, which include da
 
 You can purchase a SIM card and set up a plan online. Calling time is usually not included in the cost, so you will be charged per minute for any calls, though most people call using a messenger app like LINE for free or little cost.
 
-**Most of these companies require a credit card.** If you do not have (or don't wish to use) a credit card, as of now you have 4 choices of plans that accept payment via Japanese bank transfer:
+**Most of these companies require a Japanese credit card.** If you do not have (or don't wish to use) a Japanese credit card, as of now these plans accept payment via Japanese bank transfer:
 
-* LINEMO allows you to apply for and use a Line Pay Card (which you can also use at shops) that you can link with a Japanese bank account. Costs are ¥1,210 (500MB data) or ¥1,628 (3GB data) per month.
+- LINEMO costs ¥990 for 3GB data per month.
+- Y!mobile costs ¥990 for 3GB data per month.
+- ahamo costs ¥2,970 for 20GB data per month.
+- Rakuten Mobile costs ¥1,078 for 3GB data per month.
 
-* UQ Mobile accepts payment via bank transfer if you sign up in a store (not online). Cost is ¥2,178 (3GB data) per month.
+This plan accepts foreign credit cards:
 
-* Y!mobile accepts payment via bank transfer if you sign up in a store (not online). Cost is ¥2,948 (3GB data) per month.
-
-* Rakuten Mobile accepts payment via bank transfer (though this charges you an extra ¥108 per month). This would cost ¥3,278 (unlimited data) per month.
+- IILmio costs ¥850 for 2GB data per month.
 
 ## Recommended Apps
 

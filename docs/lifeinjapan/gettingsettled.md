@@ -37,7 +37,9 @@ At the same office, you will also register to be part of the national pension sy
 
 ## Apply for a My Number Card
 
-Japan has a new ID system in place that connects all of the various registration systems (residence, health insurance, and pension). This is called the [Individual Number Card](https://www.kojinbango-card.go.jp/en/), or *MyNumber* card. We recommend applying for this card, though this is currently voluntary. Once you have applied, you will be notified when you can pick it up at the city office at a later date. **Note that this card is set to expire when your visa expires. You must renew it after your visa has been renewed.**
+Japan has a new ID system in place that connects all of the various registration systems (residence, health insurance, and pension). This is called the [Individual Number Card](https://www.kojinbango-card.go.jp/en/), or *MyNumber* card. We recommend applying for this card, though this is currently voluntary. Once you have applied, you will be notified when you can pick it up at the city office at a later date. You can apply for this online.
+
+**Note that this card is set to expire when your visa expires. You must renew it after your visa has been renewed.**
 
 ## Make a Seal
 

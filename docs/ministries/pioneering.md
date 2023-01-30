@@ -3,7 +3,7 @@ id: pioneering
 title: Pioneering
 ---
 
-We want to see new YWAM ministries pioneered all over Japan! Currently, we have [11 YWAM locations in Japan](https://www.ywamjapan.org/en/omegazones/). But much of Japan is still unreached. If you feel the call to pioneer, praise God! This page outlines how we can help with pioneering new works here in Japan.
+We want to see new YWAM ministries pioneered all over Japan! Currently, we have [12 YWAM locations in Japan](https://www.ywamjapan.org/en/omegazones/). But much of Japan is still unreached. If you feel the call to pioneer, praise God! This page outlines how we can help with pioneering new works here in Japan.
 
 ## Relationship
 
@@ -21,8 +21,10 @@ We usually hold an annual YWAM Japan Gathering hosted by a YWAM Japan location. 
 
 ## Legal entity
 
-YWAM Japan has a legal entity here in Japan, called a Religious Corporation (宗教法人), under the name of 世界青年宣教会 (Sekai Seinen Senkyokai).
+In Japan, religious groups are able to register themselves with the Japanese government as a Religious Corporation (宗教法人). Many Buddhist temples, Shinto shrines, Christian churches, and missionary organisations are registered in this way.
 
-Most YWAM ministries within Japan are members of this Religious Corporation. Although it is not a requirement for YWAM ministries to become members, it is something we highly recommend.
+YWAM Japan currently has registered with one Religious Corporation under the name of 世界青年宣教会 (Sekai Seinen Senkyokai). A majority of YWAM ministries within Japan are members of this Religious Corporation.
 
-If you would like to know more about this, including the benefits of becoming a member, please visit [this page](religiouscorporation.md).
+All YWAM ministries and locations within Japan (both exisitng and pioneering) are recommended to either become a member of this existing Religious Corporation, or to create a new one.
+
+If you would like to know more about this please visit [this page](religiouscorporation.md).

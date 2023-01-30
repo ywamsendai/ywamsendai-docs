@@ -28,9 +28,9 @@ We are called to be in relationship with one another. Here are some things you c
 
 ## Practical & Legal
 
-If both your location and the new team are members of YWAM Japan's Religious Corporation, here are some expectations we have on ministries who oversee teams who join the legal entity:
+If both your location and the new team are members of YWAM Japan's exisitng Religious Corporation, here are some expectations we have on ministries who oversee teams who join the legal entity:
 
-- Train the team to correctly keep financial records, to send records to the YWAM Japan National Office, and to send staff and ministry (5%) fees to the YWAM Japan National Office
+- Train the team to correctly keep financial records, and to send these records and the staff and ministry (5%) fees to the Religious Corporation's National Office
 - Train the team on how to apply for and renew Religious Activities Visas
-- Ensure the team is informed about the YWAM Japan General Meetings that they must attend
+- Ensure the team is informed about the Religious Corporation's General Meetings that they must attend
 - Keep the team accountable moving forward regarding legal responsibilities, taking overall responsibility for any legal issues arising from the new team

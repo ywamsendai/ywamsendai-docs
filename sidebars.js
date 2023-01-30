@@ -33,7 +33,7 @@
 
 module.exports = {
   aboutSidebar: [
-    'about/ywam', 'about/values', 'about/covenants', 'about/history', 'about/whyjapan', 'about/biblepoverty'
+    'about/ywam', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/biblepoverty'
    ],
   communitySidebar: [
      'community/communication', 'community/commitments', 'community/friendshipwithgod',

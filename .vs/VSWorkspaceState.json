@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\docs\\about",
+    "\\docs\\lifeinjapan",
+    "\\docs\\ministries"
   ],
+  "SelectedNode": "\\docs\\lifeinjapan\\tax2.md",
   "PreviewInSolutionExplorer": false
 }

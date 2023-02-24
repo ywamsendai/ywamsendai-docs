@@ -60,11 +60,11 @@ If your name is too long for the e-Tax website, you can cut out your middle name
 
 ## WHY Should I File My Taxes in Japan?
 
-In should go without saying that filing and paying taxes is a legal requirement for everyone! As YWAMers and Christians, we are called to be a blessing to the people we are called to. Part of this calling is to live as the locals do, submitting to the local authorities.
+It should go without saying that filing and paying taxes is a legal requirement for everyone! As YWAMers and Christians, we are called to be a blessing to the people we are called to. Part of this calling is to live as the locals do, submitting to the local authorities.
 
 It may be true that it is very difficult to find correct and up to date information on how non-salaried missionaries should file tax returns. This is a reason for this documentation! The truth is that no matter how vague or complex the taxation rules are, we should all be filing taxes to where we need to.
 
-Besides being a legal obligation for all residents, filing taxes will allow the local authorities to correctly set health insurance payments, as well as makes it easier to gain Permanent Residency in Japan. If you do not have a tax record, this becomes difficult.
+Besides being a legal obligation for all residents, filing taxes will also allow the local authorities to correctly set health insurance payments, as well as making it easier to gain Permanent Residency in Japan. If you do not have a tax record, this becomes difficult.
 
 ## Note for US Citizens / Green Card Holders
 

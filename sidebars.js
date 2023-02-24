@@ -49,7 +49,12 @@ module.exports = {
        type: 'category',
        label: 'Japanese Language',
        items: ['lifeinjapan/language', 'lifeinjapan/language2', 'lifeinjapan/language3']
-     }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/money', 'lifeinjapan/tax', 'lifeinjapan/visaRenew', 
+       }, 'lifeinjapan/phones', 'lifeinjapan/driving', 'lifeinjapan/money',
+     {
+       type: 'category',
+       label: 'Japanese Tax',
+       items: ['lifeinjapan/tax', 'lifeinjapan/tax2', 'lifeinjapan/tax3']
+       }, 'lifeinjapan/visaRenew', 
     ],
    ministriesSidebar: [
      'ministries/pioneering', 'ministries/overseeing',

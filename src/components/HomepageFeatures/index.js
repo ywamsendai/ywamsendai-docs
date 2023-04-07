@@ -5,11 +5,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'What is YWAM Japan?',
-    address: '/docs/about/ywam',
+    title: 'What is YWAM Sendai?',
+    address: '/docs/about/ywamsendai',
     description: (
       <>
-        Everything you need to know about YWAM Japan and YWAM international.
+        Everything you need to know about YWAM Sendai and YWAM international.
       </>
     ),
   },
@@ -18,7 +18,7 @@ const FeatureList = [
     address: '/docs/community/communication',
     description: (
       <>
-        All you need to know about being a part of the YWAM Japan community.
+        All you need to know about being a part of the YWAM Sendai community.
       </>
     ),
   },
@@ -32,11 +32,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Ministries/OpLocs',
-    address: '/docs/ministries/pioneering',
+    title: 'DTS',
+    address: '/docs/dts/faq',
     description: (
       <>
-        All you need to know about how to function as a YWAM location in Japan, as well as info related to our legal entity.
+        All you need to know about DTS in Sendai--for both students and staff!
       </>
     ),
   },

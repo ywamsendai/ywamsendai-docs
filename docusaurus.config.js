@@ -76,14 +76,14 @@ const config = {
         title: 'YWAM Sendai Documentation',
         logo: {
           alt: 'YWAM Sendai Logo',
-          src: 'img/LogoywamRed.png',
+            src: 'img/ywamsendailogo.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'about/ywam',
             position: 'left',
-            label: 'What is YWAM Japan?',
+            label: 'What is YWAM Sendai?',
           },
           {
             type: 'doc',
@@ -118,7 +118,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'What is YWAM Japan?',
+                label: 'What is YWAM Sendai?',
                 to: '/docs/about/ywam',
               },
               {

@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Documentation for YWAMers in Japan">
+      description="Documentation for YWAMers in Sendai">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

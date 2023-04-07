@@ -41,7 +41,7 @@ You can also purchase ready-made emergency bags online. For example:
 
 In the case of your home being damaged, you may have to live in an evacuation centre.
 
-**Be aware of the location and route of your designated evacuation point.** For example, schools are usual evacuation centres. Please ask staff at your location for specifics.
+**Be aware of the location and route of your designated evacuation point.** For example, the evacuation points around Ayashi station are Hirose Middle School and Ayashi Primary School.
 
 ## Home
 

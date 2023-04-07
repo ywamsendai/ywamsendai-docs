@@ -33,14 +33,14 @@
 
 module.exports = {
   aboutSidebar: [
-    'about/ywam', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/biblepoverty'
+     'about/ywam', 'about/ywamsendai', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/biblepoverty'
    ],
   communitySidebar: [
      'community/communication', 'community/commitments', 'community/friendshipwithgod',
       {
         type: 'category',
         label: 'Join',
-        items: ['community/join', 'community/onboarding', 'community/fundraising', 'community/visaApply']
+        items: ['community/join', 'community/fundraising', 'community/payments', 'community/visaApply', 'community/visaRenew',]
       }
    ],
    lifeinjapanSidebar: [
@@ -54,7 +54,10 @@ module.exports = {
        type: 'category',
        label: 'Japanese Tax',
        items: ['lifeinjapan/tax', 'lifeinjapan/tax2', 'lifeinjapan/tax3']
-       }, 'lifeinjapan/visaRenew', 
+       }, 
+    ],
+   dtsSidebar: [
+     'dts/faq'
     ],
    ministriesSidebar: [
      'ministries/pioneering', 'ministries/overseeing',

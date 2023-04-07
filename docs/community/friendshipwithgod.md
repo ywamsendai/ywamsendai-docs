@@ -7,7 +7,7 @@ Our relationship with God is the most precious gift we have as believers. This r
 
 As individuals, each staff is encouraged to invest time daily in fostering friendship with God through intimacy with the Holy Spirit. Since everyone relates with God in different ways depending on personality and Christian background, there is no prescription for how to foster this friendship. But sometimes we need help and guidance, so we wanted to share a few ways to help.
 
-Your local YWAM community will likely incorporate different forms of worship and prayer during weekly corporate times. But try also to explore different ways that can assist you in deepening your friendship with God, personally.
+As a community, we try to incorporate different forms of worship and prayer during weekly corporate times. But try also to explore different ways that can assist you in deepening your friendship with God, personally.
 
 We have broken these spiritual disciplines into ancient categories believers have used down through the centuries: vocal, meditative, and contemplative..
 

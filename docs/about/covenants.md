@@ -26,9 +26,19 @@ YWAM's foundational documents. All about realigning YWAM to God's original call.
 5. 2014: [Singapore Covenant](https://www.ywamvalues.com/uploads/1/1/6/5/1165317/the_singapore_covenant_1.pdf)
 6. 2014: [End Bible Poverty Covenant](https://www.ywamvalues.com/uploads/1/1/6/5/1165317/a_covenant_to_end_bible_poverty_1.pdf)
 
-## Words for YWAM Japan
+## Words for YWAM Sendai
 
-Over the years, these are some of the words God has been speaking over YWAM Japan:
+Words specific to YWAM Sendai
+
+1. Build community (love, joy, refreshing)
+2. Families and young people - reach and restore
+3. Intimacy with God (deep roots, trees planted near streams of water)
+4. Japanese Christianity, contextualisation (redeemed matsuri, Japanese instruments)
+5. Christian unity (bridge between islands, Eph 4:1-16, John 17:20-23)
+6. Rebuilding and restoring (Sendai, broken people)
+7. Pioneer all prefectures of Tohoku
+
+## Words for YWAM Japan
 
 1. Speaking the truth in love
 2. We are the temple

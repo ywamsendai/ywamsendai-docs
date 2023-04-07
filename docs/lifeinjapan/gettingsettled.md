@@ -57,7 +57,13 @@ Please see this page for more info: [Phones](phones.md)
 
 ## Housing
 
-Some YWAM locations will have staff housing provided. Other locations will require you to find your own place to live. If this is the case, here are a few things to keep in mind.
+At YWAM Sendai, we would like all of our staff to live easy access from one another so that it’s as easy as possible to stay together as a community! Because of this, we encourage everyone to live walking distance from a train station on the Senzan line. We do not have “staff housing” and therefore require everyone to find their own place to live. Having said that, there may options of sharing an apartment with our other staff (availability will depend on the timing and size of our community at the time of your arrival).
+
+When you arrive, the first step is to book a reservation with a real estate agency (which you may have already done so with help from our staff before your arrival). Based on your budget for rent and other preferences (size, location etc), they will present available options to you and take you around to look at it in person. (Please note that most places in Japan do NOT come with any furniture or appliances!) Once you feel peace about a place, you will sign a contract to rent the place (usually for 2 years). Upon signing a contract, there will be an “initial fee” including insurance, administration fee, security deposit etc. You will be given the keys to your apartment once you have been able to make this payment.
+
+Here is an English guide that may give you more details on what it is like to search for a place to live in Japan: [https://suumo.jp/tokushu/foreigner/english/](https://suumo.jp/tokushu/foreigner/english/)
+
+As a side note, once you have moved into your own place, you must return again to the city office in order to change your address and phone number. You will also have to notify your address change to your bank and phone company.
 
 ### Find Housing
 
@@ -71,11 +77,11 @@ Here is an English guide that may give you more details on what it is like to se
 
 Once you have your key, you will then need to set up your home!
 
-Ask other YWAMers at your location to point you in the direction of places were you can get items you need, both new and second hand. You will also likely need to get Internet set up in your home, as this will likely need to be done after you have moved in.
+We will point you in the direction of places were you can get items you need, both new and second hand. We will also help you get Internet set up in your home, as this will likely need to be done after you have moved in.
 
 ## Waste System
 
-The waste system in Japan tends to be confusing to foreigners, and each town, city, or prefecture has their own rules. **Please be sure to find out the local waste disposal rules.** Ask a local YWAMer for help if needed.
+Please see this page for more info: [Waste](waste.md)
 
 ## Disaster Preparation
 

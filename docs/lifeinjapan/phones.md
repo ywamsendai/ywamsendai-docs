@@ -3,7 +3,7 @@ id: phones
 title: Phones in Japan
 ---
 
-We recommend that all YWAMers in Japan have a mobile phone in order to be easily contacted - especially in the case of emergency. We highly recommend using a smartphone in Japan, as we primarily communicate with each other via [Element](../community/communication.md) as YWAMers, and most people in Japan communicate using LINE. Please see recommended apps at the end of this section.
+We recommend that all Sendai YWAMers have a mobile phone in order to be easily contacted - especially in the case of emergency. We highly recommend using a smartphone in Japan, as we primarily communicate with each other via [Discord](../community/communication.md) as YWAMers in Sendai and Japan, and most people in Japan communicate using LINE. Please see recommended apps at the end of this section.
 
 ## Device
 
@@ -36,7 +36,7 @@ This plan accepts foreign credit cards:
 
 ## Recommended Apps
 
-* Element - Main app used by YWAMers in Japan to communicate
+* Discord - Main app used by YWAMers in Japan to communicate
 * LINE - This is the most popular messaging app in Japan. Most people you meet will ask to add you on LINE
 * Yurekuru Call - Disaster warning system in English
 * Google Maps - Reliable maps in Japan, including public transport routes

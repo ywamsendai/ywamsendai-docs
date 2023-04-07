@@ -1,11 +1,11 @@
 ---
 id: whyjapan
-title: Why Japan?
+title: Why Japan and Tohoku?
 ---
 
-So why does Japan need missionaries? Isn’t it a developed country? Here are some reasons why we are here and why you may want to be involved in partnering with us.
+So why does Japan and Tohoku need missionaries? Isn’t it a developed country? Here are some reasons why we are here and why you may want to be involved in partnering with us.
 
-* Japan is one of the least-reached areas in the world by the gospel. Out of a population of around 126 million, only around 1% know Jesus.
+* Japan is one of the least-reached areas in the world by the gospel. The Tohoku region is particularly unreached. Out of a population of 126 million, only around 1% know Jesus.
 
 * Though the church is small in Japan, the evangelical church is declining every year.
 
@@ -15,7 +15,7 @@ So why does Japan need missionaries? Isn’t it a developed country? Here are so
 
 * Though Japan is materially well off, it is spiritually very poor.
 
-* There are still many cities and towns where there is no church at all.
+* There are still many cities and towns where there is no church at all, especially in Tohoku.
 
 * Culturally, people follow Buddhism and Shintoism and worship their ancestors.
 

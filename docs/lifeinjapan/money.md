@@ -17,7 +17,7 @@ Along with your regular financial support, you will also need an amount of money
 - Initial fees for moving into an apartment (this can cost anywhere from an extra 2 to 4 months worth of rent)
 - Furniture & appliances (and any devices such as a Japan-compatible mobile phone if you don't already have one)
 
-These costs will vary depending on the cost of your rent and how much they require as a deposit. Some locations will have shared accommodation, meaning your set up costs would not be much. Again, please discuss this with your receiving location/ministry.
+These costs will vary depending on the cost of your rent and how much they require as a deposit. You may also have the option to have shared accommodation, meaning your set up costs would not be much. Again, please discuss this with us before your arrival.
 
 As a general guide, we recommend that you have *at least* two months worth of support in the bank when you arrive in Japan.
 

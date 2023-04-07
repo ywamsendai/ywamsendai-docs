@@ -3,19 +3,29 @@ id: fundraising
 title: Financial Support & Fundraising
 ---
 
-So, you've decided to join a YWAM team in Japan! Now comes the process of raising your monthly financial support!
+So, you've decided to the team! Now comes the process of raising your monthly financial support!
 
 ## Financial Support
 
-In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Japan before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not truth in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
+In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Sendai before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not truth in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
 
-As a mission field, Japan can be a particularly expensive place. Though we fully believe that God provides for us, and know that there are those that live day to day without knowing where their next donation will come from, we have seen people like this struggle here in Japan. This is disheartening. It is especially difficult when people start to get into debt because it is so expensive to live here! We don't believe its ever God's plan for people to struggle continuously and to get into debt.
+As a mission field, Japan is a particularly expensive place. Though we fully believe that God provides for us, and know that there are those that live day to day without knowing where their next donation will come from, we have seen people like this struggle here in Japan. This is disheartening. It is especially difficult when people start to get into debt because it is so expensive to live here! We don't believe its ever God's plan for people to struggle continuously and to get into debt.
 
-Each YWAM location/ministry in Japan is encouraged to set a **Minimum Support Level** that must be reached before we can start the visa application process of a new staff.
+In order to help each team member raise enough financial support to live in Japan, we have two levels of financial support to keep in mind when fundraising: **Minimum Support Level (MSL)** and **Recommended Support Level (RSL)**.
 
-If you are considering joining a location/ministry shorter term (1 to 2 years), savings can be considered as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
+The MSL is what we feel to be the minimum amount of monthly income to have in order to live in Japan. We will not start a new team member's visa process until they have reached this level. As our team members rent property individually from local landlords, we want to ensure that we are a blessing to the local Japanese that don't yet know Jesus, rather than being a burden.
 
-Please discuss this with your receiving location/ministry.
+The RSL is what we feel to be a moderately comfortable amount of monthly income to have. This allows for more generosity as well as to be able to save for an emergency fund and pay into a pension.
+
+We have set different amounts depending on one's circumstances. Here are the current monthly support levels:
+
+Category | MSL | RSL
+--------- | --------- | ---------
+**Individual** | ¥120,000 | ¥220,000
+**Couple** | ¥150,000 | ¥250,000
+**Small Family** | ¥220,000 | ¥320,000
+
+If you are considering joining us shorter term (1 to 2 years), we can consider savings as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
 
 ## Fundraising
 

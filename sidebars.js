@@ -40,7 +40,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Join',
-        items: ['community/join', 'community/fundraising', 'community/payments', 'community/visaApply', 'community/visaRenew',]
+        items: ['community/join', 'community/fundraising', 'community/payment', 'community/visaApply', 'community/visaRenew',]
       }
    ],
    lifeinjapanSidebar: [
@@ -54,23 +54,9 @@ module.exports = {
        type: 'category',
        label: 'Japanese Tax',
        items: ['lifeinjapan/tax', 'lifeinjapan/tax2', 'lifeinjapan/tax3']
-       }, 
-    ],
+     }
+   ],
    dtsSidebar: [
      'dts/faq'
-    ],
-   ministriesSidebar: [
-     'ministries/pioneering', 'ministries/overseeing',
-     {
-        type: 'category',
-        label: 'Legal Entity',
-        items: ['ministries/religiouscorporation',
-        {
-          type: 'category',
-          label: 'Visas',
-          items: ['ministries/visaApply', 'ministries/visaRenew']
-        }
-      ]
-      }
-    ],
+   ]
 }

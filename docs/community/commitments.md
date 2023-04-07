@@ -1,6 +1,6 @@
 ---
 id: commitments
-title: YWAM Japan Community Commitments
+title: YWAM Sendai Community Commitments
 ---
 
 This page details some commitments and expectations we have for **all full-time YWAM Sendai staff**.

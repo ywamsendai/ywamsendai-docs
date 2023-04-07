@@ -9,9 +9,7 @@ This page describes how YWAMers in Sendai communicate with each other.
 
 The backbone of YWAM Sendai (and Japan) communication is [Discord](https://discord.com/).
 
-To connect with our community, click here to join our server:
-
-{{< cta cta_text="Join Us!" cta_link="https://discord.gg/djmCF4DBaV" cta_new_tab="false" >}}
+To connect with our community, (click here to join our server)[https://discord.gg/djmCF4DBaV].
 
 ### Support
 

@@ -99,7 +99,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'dts/faw',
+            docId: 'dts/faq',
             position: 'left',
             label: 'DTS',
           },

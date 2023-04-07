@@ -56,17 +56,15 @@ Though we as YWAMers worship together and function as the Body of Christ, we exp
 
 ## Financial Support
 
-All staff are required to raise a minimum amount of monthly support in order to join us. You can find this information [here](finances.md).
+All staff are required to raise a minimum amount of monthly support in order to join us. You can find this information [here](fundraising.md).
 
 We require this amount as each staff member is responsible to make all required monthly payments in order to live here: rent, utilities, phone bills, health insurance, etc. YWAM Sendai is not responsible for your finances, so missed payments could mean penalty fees, jail time, or even deportation.
-
-All staff are also required to make staff fee payments each month, currently set to ¥6,000. YWAM Sendai does not have its own income and relies on this in order to function. Again, you can read [this page to find out what its used for](finances.md).
 
 There is always need for ongoing [fundraising](fundraising.md). This is due to a combination of rising living expenses here, as well as decreased financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. It is also important to make trips to visit supporters and churches around once every two years for a month or two in order to renew connections with supporters, churches, family and friends.
 
 ## YWAMer Fees
 
-As each YWAMer is financially supported in order to live in Japan, YWAMers' needs are met. Though this is the case, YWAM Sendai has expenses that are not met because we do not have our own regular income. In order to meet these needs, we ask that each YWAMer pay a monthly staff fee.
+As each YWAMer is financially supported in order to live in Japan, YWAMers' needs are met. Though this is the case, YWAM Sendai has expenses that are not met because we do not have our own regular income. In order to meet these needs, we ask that each YWAMer pay a monthly staff fee of ¥6,000.
 
 The following are ways in which this money may be used:
 

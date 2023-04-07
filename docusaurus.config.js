@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'YWAM Japan Docs',
+  title: 'YWAM Sendai Docs',
   tagline: 'Making God Known to the Japanese, Documented',
-  url: 'https://docs.ywamjapan.org',
+  url: 'https://docs.ywamsendai.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ywamjapan', // Usually your GitHub org/user name.
-  projectName: 'ywamjapan-docs', // Usually your repo name.
+  organizationName: 'ywamsendai', // Usually your GitHub org/user name.
+  projectName: 'ywamsendai-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ywamjapan/ywamjapan-docs/',
+            'https://github.com/ywamsendai/ywamsendai-docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ywamjapan/ywamjapan-docs/',
+            'https://github.com/ywamsendai/ywamsendai-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -73,9 +73,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'YWAM Japan Documentation',
+        title: 'YWAM Sendai Documentation',
         logo: {
-          alt: 'YWAM Japan Logo',
+          alt: 'YWAM Sendai Logo',
           src: 'img/LogoywamRed.png',
         },
         items: [
@@ -99,9 +99,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'ministries/pioneering',
+            docId: 'dts/faw',
             position: 'left',
-            label: 'Ministries/OpLocs',
+            label: 'DTS',
           },
         //  {to: '/blog', label: 'Blog', position: 'left'},
         //  {
@@ -130,8 +130,8 @@ const config = {
                 to: '/docs/lifeinjapan/gettingsettled',
               },
               {
-                label: 'Ministries/OpLocs',
-                to: '/docs/ministries/pioneering',
+                label: 'DTS',
+                to: '/docs/dts/faq',
               },
             ],
           },
@@ -144,7 +144,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/ywamjapan',
+                href: 'https://twitter.com/ywamsendai',
               },
             ],
           },
@@ -157,12 +157,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ywamjapan/ywamjapan-docs',
+                href: 'https://github.com/ywamsendai/ywamsendai-docs',
               },
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()} no rights reserved - made with ❤️ by YWAMJapan.org`,
+        copyright: `${new Date().getFullYear()} no rights reserved - made with ❤️ by YWAMSendai.org`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -13,7 +13,7 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 **Note:** You will have had to have completed a YWAM DTS somewhere in the world to start the application process.
 
-* First, explore this wiki to find information on [staff expectations](commitments.md), [YWAM values](values.md), [finances](finances.md), [Japanese culture](../languageandculture/culture.md), [Japanese language learning tips](../languageandculture/language.md) etc.
+* First, explore this wiki to find information on [staff expectations](commitments.md), [YWAM values](../about/values.md), [fundraising](fundraising.md), [Japanese culture](../lifeinjapan/culture.md), [Japanese language learning tips](../lifeinjapan/language.md) etc.
 
 * Connect with us via [Discord](communication.md), introduce yourself, and ask us questions.
 
@@ -25,8 +25,8 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 * Once we have received this completed form, the leaders will dialogue with you about any questions or concerns they have about what you submitted in order to make sure you have the support you need when serving with us.
 
-* If the leaders clear you to join us, you will then start [fundraising](fundraising.md)! You will find info on how much to raise on the [finances page](finances.md). This is also a good time to get stuck into [language study](../languageandculture/language.md), if you haven't already.
+* If the leaders clear you to join us, you will then start [fundraising](fundraising.md)! This is also a good time to get stuck into [language study](../lifeinjapan/language.md), if you haven't already.
 
-* Once you have reached at least the Minimum Support Level of financial support, you can join our team! If you are in need of a visa to live in Japan, we will start the [visa process](visa.md)!
+* Once you have reached at least the Minimum Support Level of financial support, you can join our team! If you are in need of a visa to live in Japan, we will start the [visa process](visaApply.md)!
 
 You will be guided through this process and you are free to ask any questions anytime!

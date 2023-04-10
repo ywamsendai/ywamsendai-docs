@@ -193,7 +193,4 @@ If you don't know already, it is probably worth learning a bit about [Japanese c
 
 ### Where shall I book my transport tickets to?
 
-If you are coming from overseas, we highly recommend choosing a flight route that arrives in either Sendai International Airport, or Yamagata Airport.
-
-If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
-
+If you are coming from overseas, we highly recommend choosing a flight route that arrives in either Sendai International Airport, or Yamagata Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.

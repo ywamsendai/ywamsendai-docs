@@ -189,7 +189,7 @@ Yes. All students are required to present valid health insurance on registration
 
 Make sure you have paid any fees due, prior to any deadlines. 
 
-If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan.md) before arrival!
+If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan/language.md) before arrival!
 
 ### Where shall I book my transport tickets to?
 

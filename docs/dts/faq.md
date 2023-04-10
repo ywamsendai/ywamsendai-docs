@@ -89,4 +89,78 @@ You can find details on how to make payments on the [Payment page](../community/
 #### Outreach Phase
 
 - Before Outreach: Full amount paid, less any airline cancellation fee and expenses already paid towards the outreach. 
-- During Outreach: Pro-rated refund of accommodation and meals (by week), less any adjustments from the airlines, ticket change fees and other non-refundable expenses.
+- During Outreach: Pro-rated refund of accommodation and meals (by week), *less any adjustments from the airlines, ticket change fees and other non-refundable expenses.*
+
+## Housing
+
+### Is housing provided?
+
+Yes. Housing nearby many of the DTS staff is provided and included in your school fees.
+
+### What is housing like?
+
+Housing is generally basic, but comfortable! All students will live in shared housing with other students and have access to a small kitchen and bathroom. There will also be heating, as it will be Winter!
+
+Surrounding the housing are rice fields and views of the mountains, which facilitates quiet times. The one downside is it is around a 20min walk to the nearest convenience store and train station (which has easy access to central Sendai), and 30mins to the supermarket.
+
+### How do I do laundry?
+
+The housing includes a washing machine and space to hang dry. There is also coin-laundry facilities, which includes dryers, around 15min walk away.
+
+### Can I live in my own housing if I want to?
+
+We are sorry, but no. As the DTS programme is a “live-learn environment,” attendees may not live outside of the DTS community.
+
+## DTS Living
+
+### Where is the DTS located?
+
+Located in the largest city in the Tohoku (North-East) region called Sendai, the DTS is located in the quiet suburbs of Ayashi. On one side is the Zao mountain range, on the other side is the bustling central downtown of Sendai. Further past downtown is the ocean. So mountains, forests, city, and ocean are all within easy access!
+
+### How many hours of class do I have?
+
+As this is a bilingual DTS, lecture time is around 16 hours per week. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
+
+### What is work duty and how much of it do I have?
+
+Work duty is a way for students to serve and give back to the DTS. Typically a student will spend two hours per day helping an essential need. Many students end up helping out in the kitchen, or taking care of the grounds, etc.
+
+### How do I get around?
+
+Within walking distance (20 to 30min) from the DTS housing are convenience stores, coin laundry, supermarkets, post office, restaurants, and train station. There are buses that go to a nearby mall, hot springs, and a public swimming pool. The train gives easy access to downtown Sendai, mountain walks, ocean-side towns, and the local airport.
+
+### Is food provided for me?
+
+Yes. Breakfast, lunch, and dinner are provided daily on weekdays, while breakfast and dinner are optionally provided over weekends. The cost of food is included in your training fees.
+
+Meals will be prepared both by staff and students (work duties).
+
+### Does the DTS have food available for people with dietary restrictions and/or allergies?
+
+Please tell us any dietary restrictions and/or allergies when registering for the DTS so we can keep this in mind when meals are prepared.
+
+### How do I receive mail?
+
+We will provide you with a postal address you can use to receive mail or packages during your stay.
+
+### Are there any Health Care facilities?
+
+There are multiple health care facilities in the local area that can be accessed by walking, bus, train, or taxi. We can provide more information on arrival. If you have a medical emergency while here, please call 119 immediately, tell them *kyūkyū*, and then tell your DTS staff when possible.
+
+### What can I do during free time?
+
+In your free time, you have many opportunities to engage in local life.
+
+If you're interested in nature, you can finds trails through mountains and forests, or explore the seaside towns. If you are looked for something more urban, you can explore downtown Sendai--visiting the many coffee shops, stores, game arcades, or museums and other tourist attractions. There is also a zoo and an aquarium!
+
+You can also sample the famous local foods such as *gyūtan* (beef tongue), *zunda* (sweet edemame) products, and *sasa-kamaboko* (fishcake). The ramen and seafood are also pretty good!
+
+### What if I observe or experience abuse?
+
+If for any reason you feel you are being abused in any category please reach out immediately to the YWAM Sendai leaders, or send an email to [people@ywamsendai.org](mailto:people@ywamsendai.org).
+
+## Preparation & Arrival
+
+### What should I pack?
+
+

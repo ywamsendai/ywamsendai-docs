@@ -163,21 +163,37 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
-Here’s a basic list of things that you’ll need for your time here at YWAM Sendai:
+Here’s a basic list of things that you’ll **need** for your time here at YWAM Sendai:
 
+- Passport (must be valid for at least six months after DTS has graduated)
+- Proof of health insurance (must be valid for Japan)
+- Something to take notes with (device or notepad and pen)
+- Bible (digital or paper version)
 - Towel
 - Personal toiletry items
-- Small gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
-- Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on Discord etc.)
+- Winter clothing
+- Warm coat
 - Backpack or suitcase for outreach
-- Proof of health insurance (must be valid for Japan)
-- Passport (must be valid for at least six months after DTS has graduated)
  
 Here’s an additional list of recommended items:
 
-- A blanket
-- Warm coat
-- Paper notepad and pen
-- Paper Bible
+- Small packaged snacks for gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
+- Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
 - Foldable umbrella
+
+### Do I need to buy health insurance?
+
+Yes. All students are required to present valid health insurance on registration. This insurance must be valid in Japan.
+
+### Is there anything I need to do before arriving?
+
+Make sure you have paid any fees due, prior to any deadlines. 
+
+If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan.md) before arrival!
+
+### Where shall I book my transport tickets to?
+
+If you are coming from overseas, we highly recommend choosing a flight route that arrives in either Sendai International Airport, or Yamagata Airport.
+
+If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
 

@@ -163,4 +163,21 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
+Here’s a basic list of things that you’ll need for your time here at YWAM Sendai:
+
+- Towel
+- Personal toiletry items
+- Small gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
+- Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on Discord etc.)
+- Backpack or suitcase for outreach
+- Proof of health insurance (must be valid for Japan)
+- Passport (must be valid for at least six months after DTS has graduated)
+ 
+Here’s an additional list of recommended items:
+
+- A blanket
+- Warm coat
+- Paper notepad and pen
+- Paper Bible
+- Foldable umbrella
 

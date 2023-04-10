@@ -3,9 +3,14 @@
     "",
     "\\docs",
     "\\docs\\about",
-    "\\docs\\community",
-    "\\docs\\lifeinjapan",
-    "\\docs\\ministries"
+    "\\docs\\dts",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\HomepageFeatures",
+    "\\src\\pages",
+    "\\static",
+    "\\static\\img"
   ],
+  "SelectedNode": "\\docs\\dts\\apply.md",
   "PreviewInSolutionExplorer": false
 }

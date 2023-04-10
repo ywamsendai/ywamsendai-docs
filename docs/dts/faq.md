@@ -53,9 +53,40 @@ If your nation is not on this list, or it *is* on the list but Japan only permit
 
 ### What do school fees cover?
 
+The training phase fee covers lectures, main meals, accommodation, and necessary transportation expenses during the phase.
+
+The outreach phase fee varies according to the cost of living in the nation where it occurs.
+
+Personal expenses, visa fees, vaccinations, airfares, and airport taxes are not included in published Training Phase prices.
+
 ### How do I pay?
+
+You can find details on how to make payments on the [Payment page](../community/payment.md).
 
 ### When are payments due?
 
+#### Training Phase
+
+- 75 days before Start Date: ¥100,000 deposit (per person) is due.
+- 10 days before Start Date: The remaining balance for the DTS’s Training Phase is due.
+
+#### Outreach Phase
+
+- 28 days after Start Date: ¥150,000 deposit (per person) is due.
+- 56 days after Start Date: All remaining fees are due for the DTS’s Outreach Phase. 
+
 ### What is the refund policy?
 
+#### Training Phase
+
+- Before Arrival Day: 100%
+- Leave on or before the 2nd Sunday of the quarter: 85%
+- Leave on or before the 3rd Sunday of the quarter: 70%
+- Leave on or before the 4th Sunday of the quarter: 60%
+- Leave on or before the 5th Sunday of the quarter: 50%
+- Any time after the 5th Sunday is non-refundable.
+ 
+#### Outreach Phase
+
+- Before Outreach: Full amount paid, less any airline cancellation fee and expenses already paid towards the outreach. 
+- During Outreach: Pro-rated refund of accommodation and meals (by week), less any adjustments from the airlines, ticket change fees and other non-refundable expenses.

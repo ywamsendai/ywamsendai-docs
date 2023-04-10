@@ -9,7 +9,7 @@ title: DTS FAQ
 
 You can apply by filling out the [DTS student application form](https://www.ywamsendai.org/en/dtsapp/).
 
-For more details about the application process, [click here](/apply.md).
+For more details about the application process, [click here](apply.md).
 
 ### Are there any fees involved with applying or registering?
 

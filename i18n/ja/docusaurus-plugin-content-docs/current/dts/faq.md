@@ -1,117 +1,121 @@
 ﻿---
 id: faq
-title: DTS FAQ
+title: DTSよくある質問
 ---
 
-## Applications
+## 出願について
 
-### How do I apply?
+### DTSに出願するにはどうしたらいいですか？
 
-You can apply by filling out the [DTS student application form](https://www.ywamsendai.org/en/dtsapp/).
+[DTS出願書](https://www.ywamsendai.org/ja/dtsapp/)に必要事項を記入し、送信してください。
 
-For more details about the application process, [click here](apply.md).
+出願から受け入れまでの詳しい過程については、[こちら](apply.md)をご参照ください。
 
-### Are there any fees involved with applying or registering?
+### 出願と登録の時に費用はかかりますか？
 
-It is free to apply for a DTS, but there is a registration fee of ¥5,000 once you have been accepted.
+DTSに出願することは無料でできますが、受け入れが決まったら5000円の登録料を支払ってもらいます。
 
-Registration fees are non-refundable. In the case of a change of plans, the fee may be transferred to a later course – for up to 2 years.
+登録料の返金は行っていません。もし受け入れが決まった後にDTSの参加を取り消す場合は、登録料をその時点から２年以内に開始されるDTS（あるいは他のワイワム主催の学校）へと繰越すことができます。
 
-### When is the application deadline?
+### 出願の期限はありますか？
 
-Applications are generally open up to three weeks before the DTS's Start Date – but there are times when we reach capacity – so the earlier the better!
+DTS開始日の２週間前まで申し込みを受け付けていますが、定員に達した場合はそれより早く締め切ることもあります。
 
-Please note that the application process may take some time, i.e. to receive your reference back.
+出願から受け入れまで、調査書の記入などで時間がかかることが多いので、可能な限り早くに申し込むことをおすすめします。
 
-### How will I know if I’ve been accepted?
+### 受け入れはどのように通知されますか？
 
-We’ll let you know via email, and this will contain any further additional information you’ll need. 
+Eメールにてお知らせします。その際に、DTSについてのさらに詳しい情報をお知らせします。 
 
-### Why haven’t I heard back about my application?
+### 出願書を提出しましたが、まだ返事がありません。どうしてですか？
 
-It can take up to 2 weeks for your application to be processed once it’s been submitted. If it’s already been this long and you haven’t heard back, we’re sorry! Please email us at people@ywamsendai.org
+申し込みから受け入れ可否の通知があるまで２週間程度かかります。もし２週間以上たっても返事がない場合は、[people@ywamsendai.org](mailto:people@ywamsendai.org)までご連絡ください。お待たせしてしまいすみません！
 
-### Is there an age requirement to attend?
+### 年齢制限はありますか？
 
-You need to be at least 18 years old by the end of the DTS. In this case, you can apply when you are 17.
+DTSが終了する時点で満１８歳以上であることが条件です。もしそうである場合、１７歳で出願することが可能です。
 
-### Are there any language requirements to attend?
+### 言語についてはどうですか？
 
-You need to be able to communicate in either English or Japanese comfortably.
+日本語か英語で問題なくコミュニケーションをとることができる必要があります。
 
-### Do I need a visa to attend?
+### 日本へのビザは必要ですか？
 
-As a short-term training programme, and because of the complex process of applying for a Religious Activities visa, we can only accept applicants that are national of countries that do not need a visa in order to be in Japan for up to 90 days.
+宗教労働ビザを取得するには複雑なプロセスと様々な書類が必要になります。そのため、ＤＴＳは短期のプログラムであることから、ビザなしで日本に９０日間滞在することが許可される国の出身の人に限らせていただいています。
 
-Be of a nationality where you do not need a visa to visit Japan for up to 90 days (Go here for details)
+これに該当する国のリストは[こちら](https://www.mofa.go.jp/mofaj/toko/visa/tanki/novisa.html)です。
 
-Please [click here](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) for details of what countries this includes.
+もし出身国がこのリストに載っていない場合、あるいは載っているけれど３０日間までしか滞在が許可されない場合、残念ながらＤＴＳに申し込むことはできません。もしその場合は、他の国でのＤＴＳに参加し、その後にスタッフとして出願することを検討してください。
 
-If your nation is not on this list, or it *is* on the list but Japan only permits up to 30 days, we are unfortunately unable to accept your application. In this case, we would recommend you to attend a YWAM DTS elsewhere, then pray about applying as staff if led by God.
+## 費用について
 
-## Finances
+### DTSの学費には何が含まれていますか？
 
-### What do school fees cover?
+#### 訓練期間中
 
-The training phase fee covers lectures, main meals, accommodation, and necessary transportation expenses during the phase.
+訓練費用の内訳は、講義代、おもな食事（週末の昼食以外）と宿泊、必要な交通費です。
 
-The outreach phase fee varies according to the cost of living in the nation where it occurs.
+個人的な出費や、週末の昼食などは訓練費用に含まれていません。
 
-Personal expenses, visa fees, vaccinations, airfares, and airport taxes are not included in published Training Phase prices.
+#### アウトリーチ期間中
 
-### How do I pay?
+アウトリーチ費用がいくらになるかは、行先となる国の生活費によって決まります。これは通常、海外の場所への往復のフライト、おもな食事と宿泊、必要な交通費です。
 
-You can find details on how to make payments on the [Payment page](../community/payment.md).
+個人的な出費や、必要となる予防接種代などはアウトリーチ費用に含まれていません。
 
-### When are payments due?
+### 支払方法は？
 
-#### Training Phase
+支払い方法については、[こちらのページ](../community/payment.md)をご参照ください。
 
-- 75 days before Start Date: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: The remaining balance for the DTS’s Training Phase is due.
+### 費用の支払いの締め切りは？
 
-#### Outreach Phase
+#### 訓練費用
 
-- 28 days after Start Date: ¥150,000 deposit (per person) is due.
-- 56 days after Start Date: All remaining fees are due for the DTS’s Outreach Phase. 
+- DTS開始日の７５日前までに、生徒一人につき１０万円の前払い金があります。
+- DTS開始日の１０日前までに、訓練費用から前払い金を差し引いた残額を支払ってもらいます。
 
-### What is the refund policy?
+#### アウトリーチ費用
 
-#### Training Phase
+- DTS開始から２８日目に、生徒ひとりにつき１５万円の前払い金があります。
+- DTS開始日から５６日目に、アウトリーチ費用から前払い金を差し引いた残額を支払ってもらいます。
 
-- Before Arrival Day: 100%
-- Leave on or before the 2nd Sunday of the quarter: 85%
-- Leave on or before the 3rd Sunday of the quarter: 70%
-- Leave on or before the 4th Sunday of the quarter: 60%
-- Leave on or before the 5th Sunday of the quarter: 50%
-- Any time after the 5th Sunday is non-refundable.
+返金についてのポリシーはありますか？
+
+#### 訓練期間中
+
+- 到着日の前日までは、全額（１００％）を返金します。
+- 訓練期間中の２回目の日曜日あるいはそれ以前に出発した場合は８５％
+- 訓練期間中の３回目の日曜日あるいはそれ以前に出発した場合は７０％
+- 訓練期間中の４回目の日曜日あるいはそれ以前に出発した場合は６０％
+- 訓練期間中の５回目の日曜日あるいはそれ以前に出発した場合は５０％
+- ５回目の日曜日以降は一切返金できません
  
-#### Outreach Phase
+#### アウトリーチ期間中
 
-- Before Outreach: Full amount paid, less any airline cancellation fee and expenses already paid towards the outreach. 
+- 出発前であれば、全額を返金します。ただし、航空券代キャンセル費用や、アウトリーチの行先などにすでに支払われた金額は除きます。
 - During Outreach: Pro-rated refund of accommodation and meals (by week), *less any adjustments from the airlines, ticket change fees and other non-refundable expenses.*
 
-## Housing
+## 宿泊について
 
-### Is housing provided?
+### DTS期間中の宿泊先は提供されますか？
 
-Yes. Housing nearby many of the DTS staff is provided and included in your school fees.
+はい。DTSの費用にはスタッフが住んでいるところから近くの宿泊先が含まれています。
 
-### What is housing like?
+### どのような場所に宿泊しますか？
 
-Housing is generally basic, but comfortable! All students will live in shared housing with other students and have access to a small kitchen and bathroom. There will also be heating, as it will be Winter!
+全生徒は他のDTS生徒と一緒に共同生活をします。台所や浴室といった基本的な機能が備わっている住宅環境です。冬になるので、暖房設備も備えています。
 
-Surrounding the housing are rice fields and views of the mountains, which facilitates quiet times. The one downside is it is around a 20min walk to the nearest convenience store and train station (which has easy access to central Sendai), and 30mins to the supermarket.
+郊外に位置しているので周辺環境は静かです。最寄りの駅やコンビニまでは徒歩２０分程度、一番近いスーパーまでは徒歩３０分程度です。最寄り駅から電車一本で仙台駅まで行けます。
 
-### How do I do laundry?
+### 洗濯はできますか？
 
-The housing includes a washing machine and space to hang dry. There is also coin-laundry facilities, which includes dryers, around 15min walk away.
+洗濯機と物干し場があるので、住んでいるところで各自必要に応じてしてください。コインランドリーも徒歩１５分程度のところにあります。
 
-### Can I live in my own housing if I want to?
+### 自宅が近いので、通いで参加することはできますか？
 
-We are sorry, but no. As the DTS programme is a “live-learn environment,” attendees may not live outside of the DTS community.
+残念ながらできません。DTSの学びの大部分は、共に生活をすることを通してのものとなるので、参加する人は全員共同生活を送ってもらいます。
 
-## DTS Living
+## DTS中の生活
 
 ### Where is the DTS located?
 

@@ -19,7 +19,7 @@ Registration fees are non-refundable. In the case of a change of plans, the fee 
 
 ### When is the application deadline?
 
-Applications are generally open up to three weeks before the DTS's Start Date – but there are times when we reach capacity – so the earlier the better!
+Applications are generally open up to one month before the DTS's Start Date – but there are times when we reach capacity – so the earlier the better!
 
 Please note that the application process may take some time, i.e. to receive your reference back.
 
@@ -43,8 +43,6 @@ You need to be able to communicate in either English or Japanese comfortably.
 
 As a short-term training programme, and because of the complex process of applying for a Religious Activities visa, we can only accept applicants that are national of countries that do not need a visa in order to be in Japan for up to 90 days.
 
-Be of a nationality where you do not need a visa to visit Japan for up to 90 days (Go here for details)
-
 Please [click here](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) for details of what countries this includes.
 
 If your nation is not on this list, or it *is* on the list but Japan only permits up to 30 days, we are unfortunately unable to accept your application. In this case, we would recommend you to attend a YWAM DTS elsewhere, then pray about applying as staff if led by God.
@@ -53,11 +51,17 @@ If your nation is not on this list, or it *is* on the list but Japan only permit
 
 ### What do school fees cover?
 
-The training phase fee covers lectures, main meals, accommodation, and necessary transportation expenses during the phase.
+#### Training Phase
 
-The outreach phase fee varies according to the cost of living in the nation where it occurs.
+The training phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
 
-Personal expenses, visa fees, vaccinations, airfares, and airport taxes are not included in published Training Phase prices.
+Personal expenses, weekend lunches, and airfare to and from Japan are not included in published training phase fees.
+
+#### Outreach Phase
+
+The outreach phase fee varies according to the cost of living in the nation where it occurs. This generally covers flights to and from overseas locations, main meals, accommodation, and necessary transportation expenses during the phase.
+
+Personal expenses and any vaccination costs are not included in published outreach phase fees.
 
 ### How do I pay?
 
@@ -80,10 +84,10 @@ You can find details on how to make payments on the [Payment page](../community/
 #### Training Phase
 
 - Before Arrival Day: 100%
-- Leave on or before the 2nd Sunday of the quarter: 85%
-- Leave on or before the 3rd Sunday of the quarter: 70%
-- Leave on or before the 4th Sunday of the quarter: 60%
-- Leave on or before the 5th Sunday of the quarter: 50%
+- Leave on or before the 2nd Sunday of the school: 85%
+- Leave on or before the 3rd Sunday of the school: 70%
+- Leave on or before the 4th Sunday of the school: 60%
+- Leave on or before the 5th Sunday of the school: 50%
 - Any time after the 5th Sunday is non-refundable.
  
 #### Outreach Phase

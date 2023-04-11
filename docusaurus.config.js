@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ja'],
   },
 
   presets: [
@@ -102,6 +102,10 @@ const config = {
             docId: 'dts/faq',
             position: 'left',
             label: 'DTS',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
           },
         //  {to: '/blog', label: 'Blog', position: 'left'},
         //  {

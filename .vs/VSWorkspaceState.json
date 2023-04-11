@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\docs\\about",
-    "\\docs\\dts",
+    "\\docs\\community",
+    "\\docs\\lifeinjapan",
     "\\src",
     "\\src\\components",
     "\\src\\components\\HomepageFeatures",
@@ -11,6 +11,6 @@
     "\\static",
     "\\static\\img"
   ],
-  "SelectedNode": "\\docs\\dts\\apply.md",
+  "SelectedNode": "\\docs\\community\\visaApply.md",
   "PreviewInSolutionExplorer": false
 }

@@ -135,9 +135,7 @@ Within walking distance (20 to 30min) from the DTS housing are convenience store
 
 ### Is food provided for me?
 
-Yes. Breakfast, lunch, and dinner are provided daily on weekdays, while breakfast and dinner are optionally provided over weekends. The cost of food is included in your training fees.
-
-Meals will be prepared both by staff and students (work duties).
+Yes. Breakfast, lunch, and dinner are provided daily on weekdays, while breakfast and dinner are optionally provided over weekends. The cost of food is included in your training fees. Meals will be prepared both by staff and students (work duties).
 
 ### Does the DTS have food available for people with dietary restrictions and/or allergies?
 
@@ -153,11 +151,7 @@ There are multiple health care facilities in the local area that can be accessed
 
 ### What can I do during free time?
 
-In your free time, you have many opportunities to engage in local life.
-
-If you're interested in nature, you can finds trails through mountains and forests, or explore the seaside towns. If you are looked for something more urban, you can explore downtown Sendai--visiting the many coffee shops, stores, game arcades, or museums and other tourist attractions. There is also a zoo and an aquarium!
-
-You can also sample the famous local foods such as *gyūtan* (beef tongue), *zunda* (sweet edemame) products, and *sasa-kamaboko* (fishcake). The ramen and seafood are also pretty good!
+In your free time, you have many opportunities to engage in local life. If you're interested in nature, you can finds trails through mountains and forests, or explore the seaside towns. If you are looked for something more urban, you can explore downtown Sendai--visiting the many coffee shops, stores, game arcades, or museums and other tourist attractions. There is also a zoo and an aquarium! You can also sample the famous local foods such as *gyūtan* (beef tongue), *zunda* (sweet edemame) products, and *sasa-kamaboko* (fishcake). The ramen and seafood are also pretty good!
 
 ### What if I observe or experience abuse?
 

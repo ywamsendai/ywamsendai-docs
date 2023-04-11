@@ -1,31 +1,31 @@
 ﻿---
 id: faq
-title: DTSよくある質問
+title: ＤＴＳよくある質問
 ---
 
 ## 出願について
 
-### DTSに出願するにはどうしたらいいですか？
+### ＤＴＳに出願するにはどうしたらいいですか？
 
-[DTS出願書](https://www.ywamsendai.org/ja/dtsapp/)に必要事項を記入し、送信してください。
+[ＤＴＳ出願書](https://www.ywamsendai.org/ja/dtsapp/)に必要事項を記入し、送信してください。
 
 出願から受け入れまでの詳しい過程については、[こちら](apply.md)をご参照ください。
 
 ### 出願と登録の時に費用はかかりますか？
 
-DTSに出願することは無料でできますが、受け入れが決まったら5000円の登録料を支払ってもらいます。
+ＤＴＳに出願することは無料でできますが、受け入れが決まったら5000円の登録料を支払ってもらいます。
 
 登録料の返金は行っていません。もし受け入れが決まった後にDTSの参加を取り消す場合は、登録料をその時点から２年以内に開始されるDTS（あるいは他のワイワム主催の学校）へと繰越すことができます。
 
 ### 出願の期限はありますか？
 
-DTS開始日の２週間前まで申し込みを受け付けていますが、定員に達した場合はそれより早く締め切ることもあります。
+ＤＴＳ開始日の２週間前まで申し込みを受け付けていますが、定員に達した場合はそれより早く締め切ることもあります。
 
 出願から受け入れまで、調査書の記入などで時間がかかることが多いので、可能な限り早くに申し込むことをおすすめします。
 
 ### 受け入れはどのように通知されますか？
 
-Eメールにてお知らせします。その際に、DTSについてのさらに詳しい情報をお知らせします。 
+Eメールにてお知らせします。その際に、ＤＴＳについてのさらに詳しい情報をお知らせします。 
 
 ### 出願書を提出しましたが、まだ返事がありません。どうしてですか？
 
@@ -33,7 +33,7 @@ Eメールにてお知らせします。その際に、DTSについてのさら�
 
 ### 年齢制限はありますか？
 
-DTSが終了する時点で満１８歳以上であることが条件です。もしそうである場合、１７歳で出願することが可能です。
+ＤＴＳが終了する時点で満１８歳以上であることが条件です。もしそうである場合、１７歳で出願することが可能です。
 
 ### 言語についてはどうですか？
 
@@ -49,7 +49,7 @@ DTSが終了する時点で満１８歳以上であることが条件です。�
 
 ## 費用について
 
-### DTSの学費には何が含まれていますか？
+### ＤＴＳの学費には何が含まれていますか？
 
 #### 訓練期間中
 
@@ -71,13 +71,13 @@ DTSが終了する時点で満１８歳以上であることが条件です。�
 
 #### 訓練費用
 
-- DTS開始日の７５日前までに、生徒一人につき１０万円の前払い金があります。
-- DTS開始日の１０日前までに、訓練費用から前払い金を差し引いた残額を支払ってもらいます。
+- ＤＴＳ開始日の７５日前までに、生徒一人につき１０万円の前払い金があります。
+- ＤＴＳ開始日の１０日前までに、訓練費用から前払い金を差し引いた残額を支払ってもらいます。
 
 #### アウトリーチ費用
 
-- DTS開始から２８日目に、生徒ひとりにつき１５万円の前払い金があります。
-- DTS開始日から５６日目に、アウトリーチ費用から前払い金を差し引いた残額を支払ってもらいます。
+- ＤＴＳ開始から２８日目に、生徒ひとりにつき１５万円の前払い金があります。
+- ＤＴＳ開始日から５６日目に、アウトリーチ費用から前払い金を差し引いた残額を支払ってもらいます。
 
 返金についてのポリシーはありますか？
 
@@ -93,17 +93,17 @@ DTSが終了する時点で満１８歳以上であることが条件です。�
 #### アウトリーチ期間中
 
 - 出発前であれば、全額を返金します。ただし、航空券代キャンセル費用や、アウトリーチの行先などにすでに支払われた金額は除きます。
-- During Outreach: Pro-rated refund of accommodation and meals (by week), *less any adjustments from the airlines, ticket change fees and other non-refundable expenses.*
+- アウトリーチに出発した後の場合、食事と宿泊費にあたる部分については週割で払い戻しが可能です。航空券代やフライトの変更手数料などといった部分については返金できません。
 
 ## 宿泊について
 
-### DTS期間中の宿泊先は提供されますか？
+### ＤＴＳ期間中の宿泊先は提供されますか？
 
-はい。DTSの費用にはスタッフが住んでいるところから近くの宿泊先が含まれています。
+はい。ＤＴＳの費用にはスタッフが住んでいるところから近くの宿泊先が含まれています。
 
 ### どのような場所に宿泊しますか？
 
-全生徒は他のDTS生徒と一緒に共同生活をします。台所や浴室といった基本的な機能が備わっている住宅環境です。冬になるので、暖房設備も備えています。
+全生徒は他のＤＴＳ生徒と一緒に共同生活をします。台所や浴室といった基本的な機能が備わっている住宅環境です。冬になるので、暖房設備も備えています。
 
 郊外に位置しているので周辺環境は静かです。最寄りの駅やコンビニまでは徒歩２０分程度、一番近いスーパーまでは徒歩３０分程度です。最寄り駅から電車一本で仙台駅まで行けます。
 
@@ -113,88 +113,82 @@ DTSが終了する時点で満１８歳以上であることが条件です。�
 
 ### 自宅が近いので、通いで参加することはできますか？
 
-残念ながらできません。DTSの学びの大部分は、共に生活をすることを通してのものとなるので、参加する人は全員共同生活を送ってもらいます。
+残念ながらできません。ＤＴＳの学びの大部分は、共に生活をすることを通してのものとなるので、参加する人は全員共同生活を送ってもらいます。
 
-## DTS中の生活
+## ＤＴＳ中の生活
 
-### Where is the DTS located?
+### ＤＴＳが開催されるのはどこですか？
 
-Located in the largest city in the Tohoku (North-East) region called Sendai, the DTS is located in the quiet suburbs of Ayashi. On one side is the Zao mountain range, on the other side is the bustling central downtown of Sendai. Further past downtown is the ocean. So mountains, forests, city, and ocean are all within easy access!
+仙台ワイワムは、東北地方最大の都市である宮城県仙台市のはずれにある愛子（あやし）という地域にあります。電車一本で仙台駅までアクセスできると同時に、蔵王山脈のすぐ近くでもあるので自然豊かな地域です。
 
-### How many hours of class do I have?
+### 講義は週に何時間ですか？
 
-As this is a bilingual DTS, lecture time is around 16 hours per week. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
+このＤＴＳは日本語と英語のバイリンガルで行われるため、講義は週１６時間です。ＤＴＳ期間中は講義をはじめ、スモールグループや礼拝の時間、祈りの時間など、平日の日中（朝８時から夕方５時）はフルタイムで活動があると思っていてください。詳しいスケジュールは現在準備中です。
 
-### What is work duty and how much of it do I have?
+### 当番制の奉仕とは何ですか？頻度はどのくらい？
 
-Work duty is a way for students to serve and give back to the DTS. Typically a student will spend two hours per day helping an essential need. Many students end up helping out in the kitchen, or taking care of the grounds, etc.
+ＤＴＳに参加している生徒たちが互いに仕え合い、ＤＴＳ運営を手伝う機会として当番制の奉仕（英語ではＷｏｒｋ　Ｄｕｔｙ）があります。各生徒は大体一日に２時間程度、持ち回りの当番の仕事をします。具体的にはキッチンでの料理担当や宿泊先の清掃などです。
 
-### How do I get around?
+### 交通手段は？
 
-Within walking distance (20 to 30min) from the DTS housing are convenience stores, coin laundry, supermarkets, post office, restaurants, and train station. There are buses that go to a nearby mall, hot springs, and a public swimming pool. The train gives easy access to downtown Sendai, mountain walks, ocean-side towns, and the local airport.
+ＤＴＳの宿泊先となる施設からは、徒歩２０－３０分以内でコンビニ、コインランドリー、スーパー、郵便局、そして最寄り駅がアクセスできます。バスを利用すれば、モールや温泉施設、プールなどにもアクセス可能です。電車を利用すれば、仙台駅をはじめ、近隣の自然スポットもアクセスできます。
 
-### Is food provided for me?
+### 食事はどうしますか？
 
-Yes. Breakfast, lunch, and dinner are provided daily on weekdays, while breakfast and dinner are optionally provided over weekends. The cost of food is included in your training fees.
+平日の朝食・昼食・夕食は提供されます。また、週末も朝食と夕食がオプションで提供可能です。食費についてはＤＴＳの参加費用に含まれています。食事はスタッフと当番の生徒たちが調理します。
 
-Meals will be prepared both by staff and students (work duties).
+### アレルギーや食事制限がある場合はどうしますか？
 
-### Does the DTS have food available for people with dietary restrictions and/or allergies?
+アレルギーや食事制限がある場合はＤＴＳに登録する際に必ず教えてください。食事を用意する際には可能な限りそれに沿うようにします。
 
-Please tell us any dietary restrictions and/or allergies when registering for the DTS so we can keep this in mind when meals are prepared.
+### 郵便物は受け取れますか？
 
-### How do I receive mail?
+ＤＴＳ参加中に郵便物を受け取れるように、使用できる住所を提供します。
 
-We will provide you with a postal address you can use to receive mail or packages during your stay.
+### 医療施設はありますか？
 
-### Are there any Health Care facilities?
+徒歩圏内、あるいは電車やバスやタクシーによってアクセス可能なクリニックや病院がいくつかあります。到着した際に必要な情報を提供します。もし医療上の緊急事態が発生した場合には、１１９番を利用して救急車を呼んでください。また、すぐにＤＴＳスタッフに助けを求めてください。
 
-There are multiple health care facilities in the local area that can be accessed by walking, bus, train, or taxi. We can provide more information on arrival. If you have a medical emergency while here, please call 119 immediately, tell them *kyūkyū*, and then tell your DTS staff when possible.
+### 自由時間には何をしますか？
 
-### What can I do during free time?
+自由時間には文字通り、各自自由に過ごしてもらってかまいません。ぜひ仙台エリアを味わって楽しんでください。自然が好きな人は、森や山がすぐ近くなのでハイキングもできますし、沿岸部を訪問することもできます。都会好きな人は仙台駅近辺に様々な商業施設や店舗があるので、散策してみてください。美術館や博物館、動物園や水族館もあります。
 
-In your free time, you have many opportunities to engage in local life.
+### ＤＴＳ中に問題が起こったら？
 
-If you're interested in nature, you can finds trails through mountains and forests, or explore the seaside towns. If you are looked for something more urban, you can explore downtown Sendai--visiting the many coffee shops, stores, game arcades, or museums and other tourist attractions. There is also a zoo and an aquarium!
+万が一、いじめや虐待などの問題を体験あるいは目撃した場合はすぐにワイワム仙台のリーダーたちに申し出てください。対面で話すことが難しい場合は、Ｅメールで教えてください。
 
-You can also sample the famous local foods such as *gyūtan* (beef tongue), *zunda* (sweet edemame) products, and *sasa-kamaboko* (fishcake). The ramen and seafood are also pretty good!
+## 準備と到着
 
-### What if I observe or experience abuse?
+### 持ち物は？
 
-If for any reason you feel you are being abused in any category please reach out immediately to the YWAM Sendai leaders, or send an email to [people@ywamsendai.org](mailto:people@ywamsendai.org).
+必要な持ち物は以下の通りです：
 
-## Preparation & Arrival
-
-### What should I pack?
-
-Here’s a basic list of things that you’ll **need** for your time here at YWAM Sendai:
-
-- Passport (must be valid for at least six months after DTS has graduated)
-- Proof of health insurance (must be valid for Japan)
-- Something to take notes with (device or notepad and pen)
-- Bible (digital or paper version)
-- Towel
-- Personal toiletry items
-- Winter clothing
-- Warm coat
-- Backpack or suitcase for outreach
+- パスポート（ＤＴＳ終了日から最低半年は有効期限が残っていることを確認してください）
+- 健康保険証
+- 講義のノートをとるための筆記用具（紙とペンでも、ノートパソコンでも、形式は問いません）
+- 聖書（紙でもデジタルでも、日ごろから慣れ親しんでいるもの）
+- バスタオル
+- 普段使用する洗面用品
+- 冬物を含んだ衣類
+- 防寒具
+- アウトリーチのために使用するバックパックかスーツケース
  
-Here’s an additional list of recommended items:
+そのほかにも以下のものを持参することをおすすめします：
 
-- Small packaged snacks for gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
-- Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
-- Foldable umbrella
+- 出身地のお土産（軽量でかつ配りやすいものがおすすめです。仙台に到着した後、教会の人たちや新しい友人などに渡すことができます。）
+- スマートフォン（聖書や地図、翻訳機能、連絡先交換、地震速報、ワイワム仙台内で使用するコミュニケーションアプリ[ＤＩＳＣＯＲＤ](../community/communication.md)，などといった多様な用途に使用します。）
+- 折り畳み傘
 
-### Do I need to buy health insurance?
+### 健康保険に加入する必要はありますか？
 
-Yes. All students are required to present valid health insurance on registration. This insurance must be valid in Japan.
+ＤＴＳに参加するすべての生徒に、健康保険に加入していることを証明してもらいます（日本で有効なもの）。日本に住んでいる場合は、国民健康保険で結構です。
 
-### Is there anything I need to do before arriving?
+### 到着までにするべきことはありますか？
 
-Make sure you have paid any fees due, prior to any deadlines. 
+費用の支払いはかならず期日までに済ませてください。
 
-If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan/language.md) before arrival!
+日本に来たことがない場合は、[日本の文化](../lifeinjapan/culture.md)や基本的な[日本語](../lifeinjapan/language.md)を学習しておきましょう！
 
-### Where shall I book my transport tickets to?
+### 交通手段はどのように手配したらいいですか？
 
-If you are coming from overseas, we highly recommend choosing a flight route that arrives in either Sendai International Airport, or Yamagata Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
+海外から参加する場合、仙台空港か山形空港に到着できるならそれらの空港を選んでください。日本国内から参加、もしくは成田空港や羽田空港に到着する場合は、仙台駅から仙山線で愛子駅まで来てください。到着日までに具体的なルートや待ち合わせ地点を連絡し、スタッフが迎えに行きます。

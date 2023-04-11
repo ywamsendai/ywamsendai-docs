@@ -1,13 +1,13 @@
 ﻿---
 id: apply
-title: 申し込む
+title: 出願する
 ---
 
 神様への愛を育み、神を人々に知ってもらいたいと願うなら、私たちのDTSに入学してください!
 
 仙台ワイワムの生徒として、学び、訓練することで、国際的な宣教コミュニティの一員となります。
 
-## 申し込み方法
+## 出願する方法
 
 * At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [people@ywamsendai.org](mailto:people@ywamsendai.org)
 

@@ -19,7 +19,7 @@ As a student at YWAM Sendai, you will become a part of a pioneering missional co
 
 * Once we have received this completed form and registration fee, we will register you for the DTS!
 
-* We will send you more information at this point, as well as how to send the DTS training phase fee.
+* We will send you more information at this point, as well as how to send the DTS Lecture Phase fee.
 
 * As you move forward with [fundraising](../community/fundraising.md), you may also find it helpful to start learning some [Japanese](../lifeinjapan/language.md)! 
 

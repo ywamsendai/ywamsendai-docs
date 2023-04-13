@@ -41,21 +41,17 @@ You need to be able to communicate in either English or Japanese comfortably.
 
 ### Do I need a visa to attend?
 
-As a short-term training programme, and because of the complex process of applying for a Religious Activities visa, we can only accept applicants that are national of countries that do not need a visa in order to be in Japan for up to 90 days.
-
-Please [click here](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) for details of what countries this includes.
-
-If your nation is not on this list, or it *is* on the list but Japan only permits up to 30 days, we are unfortunately unable to accept your application. In this case, we would recommend you to attend a YWAM DTS elsewhere, then pray about applying as staff if led by God.
+As a short-term missionary training programme, the YWAM Sendai DTS may be undertaken either without a visa if you are already a resident of Japan or a national/citizen of the [visa exemption measures countries](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) (those that specify 90 days), or by applying for an [eVisa](https://www.evisa.mofa.go.jp/index). You may not take DTS on a visa of less than 90 days. Once you are accepted, we’ll send you further information, specific to you.
 
 ## Finances
 
 ### What do school fees cover?
 
-#### Training Phase
+#### Lecture Phase
 
-The training phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
+The Lecture Phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
 
-Personal expenses, weekend lunches, and airfare to and from Japan are not included in published training phase fees.
+Personal expenses, weekend lunches, and airfare to and from Japan are not included in published Lecture Phase fees.
 
 #### Outreach Phase
 
@@ -69,10 +65,10 @@ You can find details on how to make payments on the [Payment page](../community/
 
 ### When are payments due?
 
-#### Training Phase
+#### Lecture Phase
 
 - 75 days before Start Date: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: The remaining balance for the DTS’s Training Phase is due.
+- 10 days before Start Date: The remaining balance for the DTS’s Lecture Phase is due.
 
 #### Outreach Phase
 
@@ -81,7 +77,7 @@ You can find details on how to make payments on the [Payment page](../community/
 
 ### What is the refund policy?
 
-#### Training Phase
+#### Lecture Phase
 
 - Before Arrival Day: 100%
 - Leave on or before the 2nd Sunday of the school: 85%

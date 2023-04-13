@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\docs\\community",
-    "\\docs\\lifeinjapan",
-    "\\src",
-    "\\src\\components",
-    "\\src\\components\\HomepageFeatures",
-    "\\src\\pages",
-    "\\static",
-    "\\static\\img"
+    "\\docs\\dts",
+    "\\i18n",
+    "\\i18n\\ja",
+    "\\i18n\\ja\\docusaurus-plugin-content-docs"
   ],
-  "SelectedNode": "\\docs\\community\\visaApply.md",
+  "SelectedNode": "\\docs\\dts\\faq.md",
   "PreviewInSolutionExplorer": false
 }

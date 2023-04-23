@@ -9,7 +9,7 @@ As a student at YWAM Sendai, you will become a part of a pioneering missional co
 
 ## The Application Process
 
-* At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [people@ywamsendai.org](mailto:people@ywamsendai.org)
+* At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [students@ywamsendai.org](mailto:students@ywamsendai.org)
 
 * First, fill out the **[DTS student application form](https://www.ywamsendai.org/en/dtsapp/)**! Once we receive this, we will send a **Character Reference** form to a church leader/pastor that knows you.
 

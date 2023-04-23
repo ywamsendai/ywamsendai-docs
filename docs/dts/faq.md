@@ -151,7 +151,7 @@ In your free time, you have many opportunities to engage in local life. If you'r
 
 ### What if I observe or experience abuse?
 
-If for any reason you feel you are being abused in any category please reach out immediately to the YWAM Sendai leaders, or send an email to [people@ywamsendai.org](mailto:people@ywamsendai.org).
+If for any reason you feel you are being abused in any category please reach out immediately to the YWAM Sendai leaders, or send an email to [students@ywamsendai.org](mailto:students@ywamsendai.org).
 
 ## Preparation & Arrival
 

@@ -57,6 +57,6 @@ module.exports = {
      }
    ],
    dtsSidebar: [
-     'dts/apply', 'dts/faq'
+     'dts/apply', 'dts/faq', 'dts/dtsfundraising'
    ]
 }

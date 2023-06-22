@@ -167,6 +167,7 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
 - Personal toiletry items
 - Winter clothing
 - Warm coat
+- Sleeping bag
 - Backpack or suitcase for outreach
  
 Here’s an additional list of recommended items:

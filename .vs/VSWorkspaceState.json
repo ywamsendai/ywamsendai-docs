@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\docs",
+    "\\docs\\about",
     "\\docs\\dts",
     "\\i18n",
     "\\i18n\\ja",
-    "\\i18n\\ja\\docusaurus-plugin-content-docs"
+    "\\i18n\\ja\\docusaurus-plugin-content-docs",
+    "\\i18n\\ja\\docusaurus-plugin-content-docs\\current",
+    "\\i18n\\ja\\docusaurus-plugin-content-docs\\current\\dts"
   ],
   "PreviewInSolutionExplorer": false
 }

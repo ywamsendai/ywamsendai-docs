@@ -119,7 +119,7 @@ Located in the largest city in the Tohoku (North-East) region called Sendai, the
 
 ### How many hours of class do I have?
 
-As this is a bilingual DTS, lecture time is around 16 hours per week. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
+If it is a bilingual DTS, lecture time is around 16 hours per week. If monolingual, lecture is around 12 hours. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
 
 ### What is work duty and how much of it do I have?
 
@@ -169,12 +169,14 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
 - Warm coat
 - Sleeping bag
 - Backpack or suitcase for outreach
+- Pillow for outreach
  
 Here’s an additional list of recommended items:
 
 - Small packaged snacks for gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
 - Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
 - Foldable umbrella
+- Small mirror (limited use of shared bathroom in mornings)
 
 ### Do I need to buy health insurance?
 

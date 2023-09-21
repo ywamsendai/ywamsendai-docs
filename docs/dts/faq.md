@@ -174,6 +174,7 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
 Here’s an additional list of recommended items:
 
 - Small packaged snacks for gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
+- Travel mug for hot drinks
 - Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
 - Foldable umbrella
 - Small mirror (limited use of shared bathroom in mornings)

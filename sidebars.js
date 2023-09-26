@@ -35,12 +35,12 @@ module.exports = {
   aboutSidebar: [
      'about/ywam', 'about/ywamsendai', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/biblepoverty'
    ],
-  staffSidebar: [
-      'staff/communication', 'staff/commitments', 'staff/friendshipwithgod',
+  communitySidebar: [
+      'community/communication', 'community/commitments', 'community/friendshipwithgod',
       {
         type: 'category',
         label: 'Join',
-          items: ['staff/join', 'staff/fundraising', 'staff/payment', 'staff/visaApply', 'staff/visaRenew',]
+          items: ['community/join', 'community/fundraising', 'community/payment', 'community/visaApply', 'community/visaRenew',]
       }
    ],
    lifeinjapanSidebar: [

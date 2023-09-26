@@ -10,7 +10,7 @@ In order to make the most of this short but intense DTS season, we have some gui
 Instead of creating many rules for the school, we choose to look to the Bible for how we should live and love.
 
 - Be devoted to one another in brotherly love (Rom 12:10)
-- Give preference to one another in honor (Rom 12:10)
+- Give preference to one another in honour (Rom 12:10)
 - Accept one another (Rom 15:7)
 - Serve one another (Gal 5:13)
 - Submit to one another (Eph 5:21)
@@ -31,4 +31,4 @@ Though we keep each other to the above standards, we do have some rules to ensur
 2. In communal areas, try to be intentional with not being on devices a lot
 3. Aim to be quiet and have lights off by 10pm to encourage good rest & sleep
 4. Don’t enter the sleeping areas of opposite gender
-5. Possession or consumption of alcohol is prohibited on school property (existing rule of the building we are using)
+5. As we are using property of another organisation, respect the facilities and adhere to its rules (will be made clear during orientation)

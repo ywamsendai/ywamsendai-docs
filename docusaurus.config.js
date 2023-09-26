@@ -87,9 +87,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'community/communication',
+            docId: 'staff/communication',
             position: 'left',
-            label: 'Community',
+            label: 'Staff',
           },
           {
             type: 'doc',
@@ -126,8 +126,8 @@ const config = {
                 to: '/docs/about/ywam',
               },
               {
-                label: 'Community',
-                to: '/docs/community/communication',
+                label: 'Staff',
+                  to: '/docs/staff/communication',
               },
               {
                 label: 'Life in Japan',
@@ -144,11 +144,11 @@ const config = {
             items: [
               {
                 label: 'Chat',
-                to: '/docs/community/communication',
+                to: '/docs/staff/communication',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/ywamsendai',
+                label: 'X',
+                href: 'https://www.twitter.com/ywamsendai',
               },
             ],
           },
@@ -157,7 +157,7 @@ const config = {
             items: [
               {
                 label: 'Join',
-                to: '/docs/community/join',
+                to: '/docs/staff/join',
               },
               {
                 label: 'GitHub',

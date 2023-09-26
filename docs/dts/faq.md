@@ -161,8 +161,9 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
 
 - Passport (must be valid for at least six months after DTS has graduated)
 - Proof of health insurance (must be valid for Japan)
-- Something to take notes with (device or notepad and pen)
-- Bible (digital or paper version)
+- Bible
+- Something to take notes with
+- Stationery (pencil, ruler, colouring pens/pencils)
 - Towel
 - Personal toiletry items
 - Winter clothing
@@ -173,7 +174,7 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
  
 Here’s an additional list of recommended items:
 
-- Small packaged snacks for gifts representing your nation (This is important for meeting Japanese people after you arrive, including at church)
+- Small packaged snacks for gifts representing your nation (This is beneficial for meeting Japanese people after you arrive, including at church)
 - Travel mug for hot drinks
 - Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
 - Foldable umbrella

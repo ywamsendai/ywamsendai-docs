@@ -21,7 +21,7 @@ We look forward to your arrival and serving alongside you in reaching the Japane
 - You then **go to your local Japanese Embassy or Consulate** and submit a **Visa Application** form, **CoE**, and your **passport** in order to apply for your visa.
 - Usually within a few days, you can return to the Embassy or Consulate to pick up your passport with your visa! This likely must be done in person, but sometimes they give you the option to receive it via mail. You can check this with them.
 - You can now book your flight to Japan! (**Note: please don’t purchase your airline ticket until your visa is issued in case of unexpected delays**).
-- You must enter Japan within 3 months of receiving your visa.
+- Note: You must enter Japan **within 3 months of receiving your CoE**.
 
 ## Required Documentation
 

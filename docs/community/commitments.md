@@ -9,7 +9,7 @@ This page details some commitments and expectations we have for **all full-time 
 
 ### DTS
 
-It is necessary to have completed a YWAM DTS in order be a full-time YWAMer anywhere in the world.
+It is necessary to have completed a YWAM DTS in order be a YWAM staff anywhere in the world.
 
 ### YWAM Purpose, Beliefs & Values
 
@@ -27,14 +27,14 @@ Of course, things aren't always rosy, so we encourage everyone to be real and ho
 
 ## Time
 
-All staff must make a commitment to attend all scheduled [weekly meetings](ywamsendailife.md). On top of this, our expectation is that each of our staff manage their time well, giving around 35 hours per week to “work” (not including meals, personal time with God, personal skill development/hobbies, fellowship with each other etc.). What would this look like?
+All staff must make a commitment to attend all scheduled [core meetings and events](ywamsendailife.md). On top of this, our expectation is that each of our staff manage their time well, giving around 35 hours per week to “work” (not including meals, personal time with God, personal skill development/hobbies, fellowship with each other etc.). What would this look like?
 
 Category | Hours per Week | Description
 --------- | --------- | ---------
-**YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled meetings, weekly worship and training, weekly intercession, role-related work, etc.
-**Ministry** | 28 hours (80% of time) | Event prep, kokubuncho, DTS/school prep, meeting Japanese people, prayer walking, evangelism, language study (no more than 14 hours) etc.
+**YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled core meetings, weekly worship and intercession, role-related work, etc.
+**Ministry** | 28 hours (80% of time) | DTS/other UofN school prep/running, Kokubuncho (red-light district) ministry, Kokoro Kitchen, park/sports ministry, homeless ministry, meeting Japanese people, evangelism, discipleship, prayer walking, event prep, etc.
 
-**Note on Language Study:** For all new non-Japanese speaking staff, up to 50% of ministry time can be spent studying the Japanese language for the first year in Japan – leaving at least 14 hours for ministry. After the first year, please discuss with the YWAM Sendai leaders about how much time to spend on language study.
+**Note on Language Study:** For all new non-Japanese speaking staff, it is encouraged that most of the ministry time can be spent studying the Japanese language for the two years in Japan (outside of DTS season). After the first two years, staff can use up to 7 hours of ministry time to study the language (leaving at least 21 hours for ministry). Any other language study should be seen as in your own time.
 
 ## Communication
 

@@ -19,7 +19,7 @@ It is also important to make a commitment to the [YWAM Purpose, Beliefs & Values
 
 All Sendai YWAMers are expected to commit to the wellbeing of the whole YWAM family, both through prayer and through attending gatherings. This includes YWAM International and YWAM Japan.
 
-## Personal Relationship with God
+### Personal Relationship with God
 
 All Sendai YWAMers are expected to have an active, ongoing spiritual life which inspires and challenges other YWAMers and the local Japanese people. This means investing in one's personal [relationship with God](friendshipwithgod.md) by keeping spiritual disciplines such as regular prayer, Bible study, and worship. Also to wholeheartedly participate in corporate times of worship, prayer, and intercession.
 

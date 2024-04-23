@@ -34,7 +34,7 @@ Category | Hours per Week | Description
 **YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled core meetings, weekly worship and intercession, role-related work, etc.
 **Ministry** | 28 hours (80% of time) | DTS/other UofN school prep/running, Kokubuncho (red-light district) ministry, Kokoro Kitchen, park/sports ministry, homeless ministry, meeting Japanese people, evangelism, discipleship, prayer walking, event prep, etc.
 
-**Note on Language Study:** For all new non-Japanese speaking staff, it is encouraged that most of the ministry time can be spent studying the Japanese language for the two years in Japan (outside of DTS season). After the first two years, staff can use up to 7 hours of ministry time to study the language (leaving at least 21 hours for ministry). Any other language study should be seen as in your own time.
+**Note on Language Study:** For all new non-Japanese speaking staff, it is encouraged that most of the ministry time be spent studying the Japanese language for the first two years in Japan (outside of DTS season). After the first two years, staff can use up to 7 hours of ministry time to study the language (leaving at least 21 hours for ministry). Any other language study should be seen as in your own time.
 
 ## Communication
 

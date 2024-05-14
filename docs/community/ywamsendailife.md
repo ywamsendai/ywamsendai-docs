@@ -11,13 +11,17 @@ For more information on staffing at YWAM Sendai, check out the [commitments and 
 
 These are the regular times where we expect all of our staff to attend.
 
-### Worship & Intercession
+### Worship
 
-Every **Monday morning from 09:30 to 11:00** we meet together for worship and intercession when we focus on God together and pray for what is on God's heart. We also bring a bento to eat lunch together.
+Every **Monday morning from 09:30 to 10:15** we meet together for worship. (Scheduled to change)
+
+### Intercession
+
+Every **Monday morning from 10:15 to 11:00** we meet together for intercession where we pray for what is on God's heart. (Scheduled to change)
 
 ### Staff Meeting
 
-After worship and intercession, every **Monday morning from 11:00 to 12:00** we have our staff meeting where we share testimonies, hear reports from the various ministry groups and departments, and note upcoming schedule-related things. We also pray for incoming and outgoing staff during this time.
+Every **Monday morning from 11:00 to 12:00** we have our staff meeting where we share testimonies, hear reports from the various ministry groups and departments, and note upcoming schedule-related things. (Scheduled to change)
 
 ### Community Meal
 

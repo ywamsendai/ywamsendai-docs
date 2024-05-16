@@ -5,7 +5,7 @@ title: Life at YWAM Sendai
 
 Here is a glimpse of what life is like as a Sendai YWAMer on a weekly basis.
 
-For more information on staffing at YWAM Sendai, check out the [commitments and expectations](commitments.md).
+For more information on staffing at YWAM Sendai, check out the [commitments and expectations](staffing.md).
 
 ## Core Schedule
 

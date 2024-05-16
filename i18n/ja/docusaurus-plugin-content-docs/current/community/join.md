@@ -13,7 +13,7 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 **Note:** You will have had to have completed a YWAM DTS somewhere in the world to start the application process.
 
-* First, explore this wiki to find information on [staff expectations](commitments.md), [YWAM values](../about/values.md), [fundraising](fundraising.md), [Japanese culture](../lifeinjapan/culture.md), [Japanese language learning tips](../lifeinjapan/language.md) etc.
+* First, explore this wiki to find information on [staff expectations](staffing.md), [YWAM values](../about/values.md), [fundraising](fundraising.md), [Japanese culture](../lifeinjapan/culture.md), [Japanese language learning tips](../lifeinjapan/language.md) etc.
 
 * Connect with us via [Discord](communication.md), introduce yourself, and ask us questions.
 

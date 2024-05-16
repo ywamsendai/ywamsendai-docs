@@ -11,33 +11,45 @@ For more information on staffing at YWAM Sendai, check out the [commitments and 
 
 These are the regular times where we expect all of our staff to attend.
 
-### Worship & Intercession
+### Worship
 
-Every **Monday morning from 09:30 to 11:00** we meet together for worship and intercession when we focus on God together and pray for what is on God's heart. We also bring a bento to eat lunch together.
+Every **Monday morning from 09:30 to 10:15** we meet together for worship. (Scheduled to change)
+
+### Intercession
+
+Every **Monday morning from 10:15 to 11:00** we meet together for intercession where we pray for what is on God's heart. (Scheduled to change)
 
 ### Staff Meeting
 
-After worship and intercession, every **Monday morning from 11:00 to 12:00** we have our staff meeting where we share testimonies, hear reports from the various ministry groups and departments, and note upcoming schedule-related things. We also pray for incoming and outgoing staff during this time.
+Every **Monday morning from 11:00 to 12:00** we have our staff meeting where we share testimonies, hear reports from the various ministry groups and departments, and note upcoming schedule-related things. (Scheduled to change)
 
-### Community Fun Night
+### Community Meal
 
-Every **Thursday evening** we prepare and eat a meal together in one of our homes, followed by playing games or watching a movie together. This is a relaxing and fun time where we just enjoy each other. We also celebrate birthdays and other occasions together too.
+**Once a month** we prepare and eat a meal together in one of our homes, followed by playing games or watching a movie together. This is a relaxing and fun time where we just enjoy each other. We also celebrate birthdays and other occasions together.
 
 ## Other Things Happening
 
 We encourage all of our staff to prayerfully commit to things throughout the week, whether these are existing ministries, new ministries, or serving with local churches or NGOs. Here are some things we currently do.
 
-### Prayer Walks
-
-We prayer walk around various places such as neighbourhoods, train stations, shopping districts, temples, shrines, and universities in order to gain God's heart for the people of Sendai. We are also seeking opportunity establish new ministries and for a building to use for meetings and ministry.
-
 ### Homeless Ministry
 
-We partner with a church that ministers to the homeless in central Sendai. This is every **every Friday morning**.
+We partner with a church that ministers to the homeless in central Sendai. This is every **every Friday morning**. We also take our kitchen car to a **monthly** event in Kotodaikoen (central Sendai) to feed the homeless.
+
+### Kokoro Kitchen
+
+We have a kitchen car ministry called Kokoro Kitchen (kokoro means heart in Japanese)! This is a small business we have established where we serve Taiwanese food in order to build relationship with locals. This runs **once per week on a weekday** at a central university campus, as well as **every Saturday** in a local mall.
+
+### Park / Sports Ministry
+
+We go to a park in central Sendai in order to hang out or play sports with whoever is around! This happens **every Tuesday afternoon**.
 
 ### Worship in the Entertainment District
 
-On **Wednesday evenings** we worship in a park in *kokubuncho*, Sendai's entertainment and red-light district.
+On **Wednesday evenings** we worship, prayer walk, and do evangelism in a park in *kokubuncho*, Sendai's entertainment and red-light district.
+
+### Prayer Walks
+
+We prayer walk around various places such as neighbourhoods, train stations, shopping districts, temples, shrines, and universities in order to gain God's heart for the people of Sendai. We are also seeking opportunity establish new ministries and for a building to use for meetings and ministry.
 
 ### Japanese Practice
 

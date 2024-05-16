@@ -36,7 +36,7 @@ module.exports = {
      'about/ywam', 'about/ywamsendai', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/biblepoverty'
    ],
   communitySidebar: [
-      'community/communication', 'community/commitments', 'community/ywamsendailife', 'community/friendshipwithgod',
+      'community/communication', 'community/staffing', 'community/ywamsendailife', 'community/friendshipwithgod',
       {
         type: 'category',
         label: 'Join',

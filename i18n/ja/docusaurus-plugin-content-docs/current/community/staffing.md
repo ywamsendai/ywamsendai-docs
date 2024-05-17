@@ -68,64 +68,55 @@ Staff must make a commitment to wholeheardedly attend all scheduled [core meetin
 
 **Note for families with small children:** We value doing ministry as a family! If a parent feels able, children are welcome at all of our core meetings, but we realise that each family and child is different. We ask that at least one parent attend each of the scheduled core meetings, and that each parent try to alternate when possible. This is so that one of the parents doesn't become disconnected from our community.
 
-## 9. Holiday Entitlement
+## 9. Leave (Time Off)
 
-Staff can usually expect to have Japanese national holidays off. When this is not the case, alternative days will be decided upon. On top of these holidays, Staff are encouraged to take another 10 weekdays off per year. When these days can be taken as holiday should be discussed with any direct ministry leaders over their role(s), as well as Staffing Stewards.
+If any Staff need to be absent from scheduled events or meetings for any reason, they must inform the relevant leader as soon as possible. When to take scheduled time off should be discussed with any direct ministry leader over their role(s), as well as Staffing Stewards.
 
-## 10. Absence
+Leave Type | Defined
+--------- | ---------
+Annual Leave (Holiday Entitlement) | Staff are encouraged to take 3 weeks off per year (this does not roll over into the next year if not taken).
+National Holidays | Staff can usually expect to have Japanese national holidays off (around 16 each year). When this is not the case, alternative days will be decided upon.
+Fundraising Leave | Staff are encouraged to travel to visit their sending church and supporters periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. Staff are encouraged to take 2 weeks per year for this (this can roll over into the next year, and be combined with annual leave to extend it).
+Commpassionate (Bereavement) Leave | Staff can request leave to accommodate the loss of a family member (or other emergencies/life changes).
+Maternity (Parental) Leave | Staff can request leave when their family has a newborn child (either before or after the birth, or both).
+Sabbatical (Long) Leave | Staff can request take time off to pursue a passion, volunteer, partake in some kind of project, or to get needed rest.
+Sick Leave | Staff can request leave that is taken when a they fall ill, whether for a day, weeks, or months depending on the severity of the illness. If longer than 3 days, Staff will be requested to visit a doctor.
+Miscellaneous Leave | All other forms of leave that may not fit in the above list are classified as miscellaneous leave.
 
-If any Staff need to be absent from scheduled events or meetings for any reason, they must inform the relevant leader as soon as possible.
-
-Please discuss the following exceptional circumstances with Staffing Stewards with as much advance notice as the circumstances allow:
-
-* maternity leave
-* adoption leave
-* paternity leave
-* shared parental leave
-* time off for dependents
-* bereavement leave
-* compassionate leave
-* sabbatical leave
-* training and study leave
-
-## 11. Training
+## 10. Training
 
 Staff are required to complete a YWAM Discipleship Training School (DTS) prior to applying to join as Staff, at their own expense.
 
 Staff are required to also learn the Japanese language up to at least Japanese Language Proficiency Test (JLPT, the national standard of proficiency testing) level N2 comprehension while serving with YWAM Sendai, at their own expense. A portion of work hours can be allocated for this depending on how long the Staff has been in Japan. This can be discussed with Staffing Stewards.
 
-Further training is also encouraged, but not necessary; especially the YWAM School of Frontier Missions (SOFM) or equivalent. Time off can be given for such training.
+Further training is also encouraged, but not necessary; especially the YWAM School of Frontier Missions (SOFM) or School of Biblical Studies (SBS). Time off can be given for such training.
 
-## 12. Home Assignment
-
-Staff are encouraged to travel to visit their sending church and supporters periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. We recommend that Staff consider making this trip every two years for around one month in length. This should be discussed with Staffing Stewards ahead of time.
-
-## 13. YWAM Sendai, Japan & Global Gatherings
+## 11. YWAM Sendai, Japan & Global Gatherings
 
 Staff are expected make it a priority to attend YWAM gatherings. This includes YWAM Sendai Staff retreats (annually), YWAM Japan gatherings (annually, besides YWAM Together years), YWAM global gatherings (such as YWAM Together - around every 4 years), and ministry focused gatherings (such as DTS Workshops).
 
-## 14. Notice Period
+## 12. Notice Period
 
 The notice a Staff member must give to end their service with YWAM Sendai is usually at least 4 weeks.
 
 We may end any Staff member's service at any time by also giving at least 4 weeks notice.
 
-## 15. Grievances
+## 13. Grievances
 
 If any Staff member wishes to raise a grievance, they should put it in writing to Staffing Stewards. If the grievance relates to Staffing Stewards, the grievance can be brought in writing to the YWAM Sendai Board Circle.
 
 If the grievance is not resolved to their satisfaction, or if the grievance relates to the YWAM Sendai Board Circle, they should contact the YWAM Japan Area Circle Team.
 
-## 16. Communication
+## 14. Communication
 
 Staff are expected to communicate well both in person and online. As our Staff team is made up of those from different cultures and languages, over-communication, rather than under-communication, is important. Staff are expected to be active and attentive to all communication done over [Discord](communication.md), not simply to wait until a scheduled in-person meeting.
 
-## 17. Japanese Language & Culture
+## 15. Japanese Language & Culture
 
 In order to make God known to the Japanese, and to become a Japanese-English bilingual community, Staff are expected to develop a passion to learn Japanese culture and [language](../lifeinjapan/language.md), and to keep learning even when it gets tough.
 
 Right from the beginning, it is expected that Staff will pursue opportunities to be immersed in Japanese-only settings (e.g. church). Learning this language requires discipline and good strategy. We encourage each Staff member to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to be a bilingual YWAM community with Japanese as our common language, we challenge each Staff to speak in Japanese together.
 
-## 18. Local Church
+## 16. Local Church
 
 Though Staff worship together regularly, we expect that all Staff be an active part of a local expression of Church. This could be an established church or a house church, or Staff could start their own church if feel led in that direction. Regardless of how this looks, we desire to love, serve, and be an encouragement to God's people here in Sendai.

@@ -15,15 +15,15 @@ It is necessary to have completed a YWAM DTS in order be a YWAM Staff anywhere i
 
 ## 3. YWAM Sendai Vision
 
-Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub for the whole Tohoku region. We feel that God has called YWAM Sendai to become a healthy and vibrant YWAM / UofN training centre, established specifically in order to multiply ministries throughout Sendai city and the whole Tohoku region. We want to see Japanese or Japanese-English training schools designed to equip people to reach the Japanese people specifically, and giving them practical experience in reaching the Japanese in Sendai through various ministries. The cornerstone school we are establishing is the DTS. Once this is established, we desire to run secondary schools to better equip people, including the Japanese. As we are a pioneering team, **we expect all Sendai YWAMers to be an active part of establishing our DTS**. Once we grow in number as a staff team, we would like to create circles that focus on specific ministries or schools.
+Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub for the whole Tohoku region. We feel that God has called YWAM Sendai to become a healthy and vibrant YWAM / UofN training centre, established specifically in order to multiply ministries throughout Sendai city and the whole Tohoku region. We want to see Japanese or Japanese-English training schools designed to equip people to reach the Japanese people specifically, and giving them practical experience in reaching the Japanese in Sendai through various ministries. The cornerstone school we are establishing is the DTS. Once this is established, we desire to run secondary schools to better equip people, including the Japanese. As we are a pioneering team, **we expect all Sendai YWAMers to be an active part of establishing our DTS**. Once we grow in number as a Staff team (estimated at 2025), this expectation will be removed and Circles will be established that focus on specific ministries or schools.
 
-## 4. Pay, Benefits, & Pension
+## 4. Pay, Benefits, Insurance, & Pension
 
-Staff receive no pay from YWAM Sendai and must take full responsibility of all YWAM fees, ministry expenses, state obligations and personal expenses incurred during their service with YWAM Sendai. Staff are expected to raise a [minimum amount of financial support](fundraising.md), as discussed with YWAM Sendai Onboarding prior to them joining as Staff. There is also a need for ongoing fundraising to maintain, or even increase, this support. This is due to a combination of rising living expenses here, as well as any decrease in financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. 
+Staff receive no pay from YWAM Sendai and must take full responsibility of all YWAM fees, ministry expenses, state obligations, and personal expenses incurred during their service with YWAM Sendai. Staff are expected to raise a [minimum amount of financial support](fundraising.md), as discussed with YWAM Sendai Onboarding prior to them joining as Staff. There is also a need for ongoing fundraising to maintain, or even increase, this support. This is due to a combination of rising living expenses here, as well as any decrease in financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. 
 
 Staff are also not entitled to any benefits, including housing.
 
-Staff are not enrolled into any pension in connection with their service with YWAM Sendai. As residents of Japan, Staff are obliged to enroll in and make required payments into the Japanese National Pension system.
+Staff are not enrolled into any health insurance or pension in connection with their service with YWAM Sendai. As residents of Japan, Staff are obliged to enroll in and make required payments into both the Japanese National Health Insurance and the National Pension system.
 
 ## 5. Staff Contributions
 
@@ -64,7 +64,7 @@ Category | Hours per Week | Description
 
 ## 8. Core Meetings
 
-Staff must make a commitment to wholeheardedly attend all scheduled [core meetings](ywamsendailife.md). Scheduled meetings are variable and can change at short notice. 
+Staff must make a commitment to wholeheardedly attend all scheduled [core meetings](ywamsendailife.md). Regardless of which Circles a Staff is part of, all Staff are expected to at least attend a General Staff meeting, worship, and intercession time on a weekly basis. Scheduled meetings are variable and can change at short notice. 
 
 **Note for families with small children:** We value doing ministry as a family! If a parent feels able, children are welcome at all of our core meetings, but we realise that each family and child is different. We ask that at least one parent attend each of the scheduled core meetings, and that each parent try to alternate when possible. This is so that one of the parents doesn't become disconnected from our community.
 
@@ -100,9 +100,9 @@ Further training is also encouraged, but not necessary; especially the YWAM Scho
 
 Staff are encouraged to travel to visit their sending church and supporters periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. We recommend that Staff consider making this trip every two years for around one month in length. This should be discussed with Staffing Stewards ahead of time.
 
-## 13. YWAM Japan & International Gatherings
+## 13. YWAM Sendai, Japan & Global Gatherings
 
-Staff are expected make it a priority to attend YWAM gatherings. This includes YWAM International gatherings (such as YWAM Together), YWAM Japan gatherings, and ministry focused gatherings (such as DTS Workshops).
+Staff are expected make it a priority to attend YWAM gatherings. This includes YWAM Sendai Staff retreats (annually), YWAM Japan gatherings (annually, besides YWAM Together years), YWAM global gatherings (such as YWAM Together - around every 4 years), and ministry focused gatherings (such as DTS Workshops).
 
 ## 14. Notice Period
 

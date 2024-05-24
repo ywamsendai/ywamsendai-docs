@@ -19,7 +19,7 @@ Registration fees are non-refundable. In the case of a change of plans, the fee 
 
 ### When is the application deadline?
 
-Applications are generally open up to one month before the DTS's Start Date – but there are times when we reach capacity – so the earlier the better!
+Applications are generally open up to one month before the DTS's Start Date.
 
 Please note that the application process may take some time, i.e. to receive your reference back.
 
@@ -49,31 +49,33 @@ As a short-term missionary training programme, the YWAM Sendai DTS may be undert
 
 #### Lecture Phase
 
-The Lecture Phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
+The published Lecture Phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
 
 Personal expenses, weekend lunches, and airfare to and from Japan are not included in published Lecture Phase fees.
 
 #### Outreach Phase
 
-The outreach phase fee varies according to the cost of living in the nation where it occurs. This generally covers flights to and from overseas locations, main meals, accommodation, and necessary transportation expenses during the phase.
+The published Outreach Phase amount varies according to the cost of living in the nation where it occurs. This covers flights to and from overseas locations, main meals, accommodation, and necessary transportation expenses during the phase.
 
-Personal expenses and any vaccination costs are not included in published outreach phase fees.
+Personal expenses and any vaccination costs are not included in published Outreach Phase amount.
 
 ### How do I pay?
 
-You can find details on how to make payments on the [Payment page](../community/payment.md).
+You can find details on how to make registration fee and Lecture Phase fee payments on the [Payment page](../community/payment.md).
+
+**Please note that the Outreach Phase amount is to be given in cash to a designated Outreach leader**
 
 ### When are payments due?
 
 #### Lecture Phase
 
 - 75 days before Start Date: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: The remaining balance for the DTS’s Lecture Phase is due.
+- 10 days before Start Date: Remaining balance for the DTS’s Lecture Phase is due.
 
 #### Outreach Phase
 
 - 28 days after Start Date: ¥150,000 deposit (per person) is due.
-- 56 days after Start Date: All remaining fees are due for the DTS’s Outreach Phase. 
+- 56 days after Start Date: Remaining amount is due. 
 
 ### What is the refund policy?
 

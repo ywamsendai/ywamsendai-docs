@@ -9,7 +9,7 @@ In order for you to feel more prepared, here are some of the things you will nee
 
 - Register as a local resident
 - Register for the *national health insurance*
-- Register for the *national pension* system (and apply to be exempt as you will likely be considered low-income)
+- Register for the *national pension* system
 - Apply for a *My Number* card
 - Make a seal
 - Open a bank account
@@ -18,6 +18,7 @@ In order for you to feel more prepared, here are some of the things you will nee
 - Set up your home
 - Figure out the waste system
 - Prepare for natural disasters
+- Transfer foreign driving licence into a Japanese one (if you have one)
 
 ## Register as a Local Resident
 
@@ -86,3 +87,7 @@ Please see this page for more info: [Waste](waste.md)
 ## Disaster Preparation
 
 Japan is a nation that is prone to natural disasters such as earthquakes, typhoons, landslides, and tsunamis. Please see [this page](disaster.md) for more information on how to be prepared.
+
+## Transfer Foreign Driving Licence
+
+If you have a foreign driving licence, you can transfer this into a Japanese one. This is the official webpage for information on what is needed: [https://www.police.pref.miyagi.jp/menkyo/main/gaikoku.html](https://www.police.pref.miyagi.jp/menkyo/main/gaikoku.html) (Japanese)

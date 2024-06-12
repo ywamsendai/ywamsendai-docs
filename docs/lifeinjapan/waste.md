@@ -5,7 +5,7 @@ title: Waste System
 
 The waste system in Japan tends to be confusing to foreigners, and each town, city, or prefecture has their own rules. This page outlines the waste system rules for Sendai city.
 
-There is a PDF booklet in English that includes all of the details [here](https://www.city.sendai.jp/haiki-shido/kurashi/machi/genryo/gomi/wakekata/documents/eng.pdf), as well as an English explanation video [here](https://www.youtube.com/watch?v=cDSPnrSnQFY).
+You can find details on the waste system in Sendai in English [here](https://www.city.sendai.jp/haiki-shido/kurashi/machi/genryo/gomi/wakekata/documents/eng.pdf), as well as an English explanation video [here](https://www.youtube.com/watch?v=cDSPnrSnQFY).
 
 You can install an official app on your phone where you can search for specific items to know how to throw it away. It can also notify you when something goes out on that day, so you won't forget. You can find a link to the app [here](https://www.gomi100.com/articles/dashikata/592).
 
@@ -39,7 +39,7 @@ Remove any plastic packaging or paper labels (separating them correctly) before 
 
 ## Plastic
 
-Any plastic packaging should be separated, and rinsed if necessary. You will need to place them in a special red rubbish bag which is specifically used for this plastic waste. You can purchase these at many stores. This is collected once per week.
+Any plastic items or packaging should be separated, and rinsed if necessary. You will need to place them in a special red rubbish bag which is specifically used for this plastic waste. You can purchase these at many stores. This is collected once per week.
 
 ## All Other Waste
 

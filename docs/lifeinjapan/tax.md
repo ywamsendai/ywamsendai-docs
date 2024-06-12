@@ -36,7 +36,7 @@ Depending on how you wish to file, these are the dates you can file once the tax
 ### Payment Dates
 
 - Income tax: **15 March** (It can be extended till 31 May with a 0.9%/year interest rate if over 50% is paid by 15 March. If you chose to pay via direct debit, the payment will be withdrawn on 24 April)
-- Resident tax: You can make the full payment by the **end of June**, or in 4 installments throughout the year (dates depend on the city)
+- Resident tax: You can make the full payment by the **end of June**, or in 4 installments throughout the year (usually around July, September, November, February).
 
 ## WHERE Do I File?
 

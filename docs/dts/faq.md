@@ -49,9 +49,9 @@ As a short-term missionary training programme, the YWAM Sendai DTS may be undert
 
 #### Lecture Phase
 
-The published Lecture Phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
+The published Lecture Phase fee covers lectures, weekday meals & snacks, accommodation, and necessary transportation expenses during the phase.
 
-Personal expenses, weekend lunches, and airfare to and from Japan are not included in published Lecture Phase fees.
+Personal expenses, weekend food, and airfare to and from Japan are not included in published Lecture Phase fees.
 
 #### Outreach Phase
 
@@ -69,13 +69,13 @@ You can find details on how to make registration fee and Lecture Phase fee payme
 
 #### Lecture Phase
 
-- 75 days before Start Date: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: Remaining balance for the DTS’s Lecture Phase is due.
+- 75 days before Start Date: ¥100,000 deposit (per person) is due (24 July 2024).
+- 10 days before Start Date: Remaining balance for the DTS’s Lecture Phase is due (27 September 2024).
 
 #### Outreach Phase
 
-- 28 days after Start Date: ¥150,000 deposit (per person) is due.
-- 56 days after Start Date: Remaining amount is due. 
+- 28 days after Start Date: ¥150,000 deposit (per person) is due (4 November 2024).
+- 56 days after Start Date: Remaining amount is due (2 December 2024). 
 
 ### What is the refund policy?
 

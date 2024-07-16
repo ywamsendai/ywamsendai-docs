@@ -17,11 +17,11 @@ Every **Monday afternoon from 13:30 to 14:30** we have our staff meeting where w
 
 ### Worship
 
-Every **Wednesday morning from 08:30 to 09:30** we meet together for worship. (Usually located at FCBC in central Sendai)
+Every **Wednesday morning from 08:15 to 09:15** we meet together for worship. (Usually located at FCBC in central Sendai)
 
 ### Intercession
 
-Every **Friday morning from 08:30 to 09:30** we meet together for intercession where we pray for what is on God's heart.  (Usually located at FCBC in central Sendai)
+Every **Friday morning from 08:15 to 09:15** we meet together for intercession where we pray for what is on God's heart.  (Usually located at FCBC in central Sendai)
 
 ### Community Meal
 

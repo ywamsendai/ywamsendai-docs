@@ -9,18 +9,16 @@ As a student at YWAM Sendai, you will become a part of a pioneering missional co
 
 ## The Application Process
 
-* At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [students@ywamsendai.org](mailto:students@ywamsendai.org)
+At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [students@ywamsendai.org](mailto:students@ywamsendai.org)
 
-* First, fill out the **[DTS student application form](https://www.ywamsendai.org/en/dtsapp/)**! Once we receive this, we will send a **Character Reference** form to a church leader/pastor that knows you.
+* First, fill out the **[DTS student application form](https://www.ywamsendai.org/en/dtsapp/)**! Once we receive this, we will send **Character Reference** forms to a church leader/pastor that knows you, and a mature Christian friend.
 
-* Once we have received the reference, we will pray and discuss as a team about whether we feel this is where God wants you to be. We will then let you know if we are happy continuing with the process, or not.
+* Once we have received the references, the DTS leaders will pray and discuss about whether we feel this is where God wants you to be. We will then let you know if you are accepted or not.
 
-* If we feel peace about moving forward, we will send you a **Student Registration** form. Along with this form, please send a **registration fee of ¥5,000**.
+* Once you have been accepted, you will need to pay a deposit of **¥100,000** in order to secure your place on the school. You can find details on how to send this deposit, as well as the remainder Lecture fees, [here](https://www.ywamsendai.org/en/donate/). Once we have received this, we will register you for the DTS!
 
-* Once we have received this completed form and registration fee, we will register you for the DTS!
+* If you haven't already, now is the time to join us on [Discord](../community/communication.md). This is where we will primarily communicate from this point on.
 
-* We will send you more information at this point, as well as how to send the DTS Lecture Phase fee.
+* As you move forward with [fundraising](dtsfundraising.md), you may also find it helpful to start learning some [Japanese](../lifeinjapan/language.md)! 
 
-* As you move forward with [fundraising](../community/fundraising.md), you may also find it helpful to start learning some [Japanese](../lifeinjapan/language.md)! 
-
-You will be guided through this process and you are free to ask any questions anytime!
+You will be guided through this process and you are free to ask any questions anytime! You can also find answers to many questions on our [FAQ](faq.md).

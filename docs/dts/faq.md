@@ -11,11 +11,9 @@ You can apply by filling out the [DTS student application form](https://www.ywam
 
 For more details about the application process, [click here](apply.md).
 
-### Are there any fees involved with applying or registering?
+### Are there any fees involved with applying?
 
-It is free to apply for a DTS, but there is a registration fee of ¥5,000 once you have been accepted.
-
-Registration fees are non-refundable. In the case of a change of plans, the fee may be transferred to a later course – for up to 2 years.
+It is free to apply for the DTS, but you will be required to pay a deposit of ¥100,000 once you have been accepted. You will only be registered for the DTS once we have received this deposit.
 
 ### When is the application deadline?
 
@@ -49,7 +47,7 @@ As a short-term missionary training programme, the YWAM Sendai DTS may be undert
 
 #### Lecture Phase
 
-The published Lecture Phase fee covers lectures, weekday meals & snacks, accommodation, and necessary transportation expenses during the phase.
+The published Lecture Phase fee covers registration, lectures, weekday meals & snacks, accommodation, and necessary transportation expenses during the phase.
 
 Personal expenses, weekend food, and airfare to and from Japan are not included in published Lecture Phase fees.
 
@@ -69,7 +67,7 @@ You can find details on how to make registration fee and Lecture Phase fee payme
 
 #### Lecture Phase
 
-- 75 days before Start Date: ¥100,000 deposit (per person) is due (24 July 2024).
+- After acceptance: ¥100,000 deposit (per person) is due.
 - 10 days before Start Date: Remaining balance for the DTS’s Lecture Phase is due (27 September 2024).
 
 #### Outreach Phase

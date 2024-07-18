@@ -184,6 +184,12 @@ Here’s an additional list of recommended items:
 
 Yes. All students are required to present valid health insurance on registration. This insurance must be valid in Japan.
 
+### Do I need any vaccinations?
+
+Generally speaking, visitors to Japan do not require any special vaccinations. However, to be on the safe side, any routine immunizations should be kept up-to-date. These include Measles-mumps-rubella (MMR), Diphtheria-tetanus-pertussis vaccine (DTaP), Varicella (chickenpox), and Polio.
+
+There is also a Japanese encephalitis vaccine that you may choose to consider, though Japanese encephalitis is extremely rare in the region we are based in.
+
 ### Is there anything I need to do before arriving?
 
 Make sure you have paid any fees due, prior to any deadlines. 

@@ -157,6 +157,13 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
+You will need to pack your belongings in a way that you will be able to personally carry them to the DTS Lecture location, as well as throughout Outreach Phase. **You will not be able to leave anything in Sendai during Outreach Phase.**
+
+Especially because of carrying the luggage around during Outreach, we ask that you carry no more than two pieces of luggage:
+
+- A small everyday backpack
+- A hiking backpack at a size you can comfortably carry, or a small to medium-sized case with a volume of no more than 80L (no large cases please!)
+
 Here’s a basic list of things that you’ll **need** for your time here at YWAM Sendai:
 
 - Passport (must be valid for at least six months after DTS has graduated)
@@ -196,6 +203,8 @@ Make sure you have paid any fees due, prior to any deadlines.
 
 If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan/language.md) before arrival!
 
-### Where shall I book my transport tickets to?
+### To where and when shall I book my transport tickets?
 
-If you are coming from overseas, we highly recommend choosing a flight route that arrives in either Sendai International Airport, or Yamagata Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
+If you are coming from overseas, we highly recommend choosing a flight route that arrives in Sendai International Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
+
+The arrival and departure days will be advertised on the DTS page on the YWAM Sendai website. If you arrive earlier, or depart later, please be aware that you will need to find your own accommodation.

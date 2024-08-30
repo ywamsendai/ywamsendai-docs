@@ -131,7 +131,7 @@ Within walking distance (20 to 30min) from the DTS housing are convenience store
 
 ### Is food provided for me?
 
-Yes. Breakfast, lunch, and dinner are provided daily on weekdays, while breakfast and dinner are optionally provided over weekends. The cost of food is included in your training fees. Meals will be prepared both by staff and students (work duties).
+Yes. Breakfast, snacks, lunch, and dinner are provided daily on weekdays. You will also have access to any leftovers during the weekend. The cost of food on lecture days is included in your training fees. Meals will be prepared both by staff and students (work duties).
 
 ### Does the DTS have food available for people with dietary restrictions and/or allergies?
 
@@ -170,14 +170,11 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
 - Proof of health insurance (must be valid for Japan)
 - Bible
 - Something to take notes with
-- Stationery (pencil, ruler, colouring pens/pencils)
 - Towel
 - Personal toiletry items
 - Winter clothing
 - Warm coat
-- Sleeping bag
-- Backpack or suitcase for outreach
-- Pillow for outreach
+- Sleeping bag & pillow for outreach
  
 Here’s an additional list of recommended items:
 

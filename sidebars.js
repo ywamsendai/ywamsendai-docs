@@ -36,7 +36,7 @@ module.exports = {
      'about/ywam', 'about/ywamsendai', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/payment'
   ],
   communitySidebar: [
-     'community/communication', 'community/disaster', 'community/culture', 'community/biblepoverty',
+     'community/communication', 'community/disaster', 'community/culture', 'community/biblepoverty', 'community/friendshipwithgod', 
     {
        type: 'category',
        label: 'Japanese Language',
@@ -44,7 +44,7 @@ module.exports = {
     }, 'community/phones'
   ],
   staffSidebar: [
-    'staff/staffing', 'staff/ywamsendailife', 'staff/friendshipwithgod', 'staff/gettingsettled', 'staff/driving', 'staff/money', 'staff/visaRenew',
+    'staff/staffing', 'staff/ywamsendailife', 'staff/gettingsettled', 'staff/driving', 'staff/money', 'staff/visaRenew',
     {
       type: 'category',
       label: 'Join',

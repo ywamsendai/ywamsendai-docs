@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'YWAM Sendai Docs',
+  title: 'YWAM UofN Sendai Handbook',
   tagline: 'Making God Known to the Japanese, Documented',
   url: 'https://docs.ywamsendai.org',
   baseUrl: '/',
@@ -73,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'YWAM Sendai Documentation',
+        title: 'YWAM Sendai Handbook',
         logo: {
           alt: 'YWAM Sendai Logo',
             src: 'img/ywamsendailogo.png',

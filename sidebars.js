@@ -48,8 +48,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Join',
-      items: ['staff/join', 'staff/fundraising', 'staff/visaApply',]
-    }
+      items: ['staff/join', 'staff/fundraising', 'staff/visaApply']
+    },
     {
       type: 'category',
       label: 'Japanese Tax',

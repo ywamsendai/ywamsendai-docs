@@ -23,12 +23,14 @@ Instead of creating many rules for the school, we choose to look to the Bible fo
 - Be hospitable to one another without complaint (1 Peter 4:9)
 - Speak truth in love to one another (Eph 4:15-16)
 
-## Community Living Space Rules
+## Community Living Space Guidelines
 
-Though we keep each other to the above standards, we do have some rules to ensure everyone feels respected.
+Though we keep each other to the above standards, we do have some guidelines to help facilitate a healthy community and space.
 
-1. Keep communal areas clean & tidy
-2. In communal areas, try to be intentional with not being on devices a lot
-3. Aim to be quiet and have lights off by 10pm to encourage good rest & sleep
+1. Keep all areas (both communal & bedroom) clean and tidy
+2. In communal areas, try to avoid excessive use of electronic devices
+3. Aim to be quiet and have lights off by 10pm to encourage good rest and sleep
 4. Don’t enter the sleeping areas of opposite gender
-5. As we are using property of another organisation, respect the facilities and adhere to its rules (will be made clear during orientation)
+5. Exclusive relationships (especially romantic) are strongly discouraged during DTS
+6. Refrain from electronic device usage (besides note taking and Bible) during all scheduled events & meetings (lectures & breaks, mealtimes, worship, intercession, small groups, outreach etc.)
+7. As we are using property of another organisation, respect the facilities and adhere to its rules (will be made clear during orientation)

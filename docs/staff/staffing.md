@@ -15,7 +15,7 @@ It is necessary to have completed a YWAM DTS in order be a YWAM Staff anywhere i
 
 ## 3. YWAM Sendai Vision
 
-Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub for the whole Tohoku region. We feel that God has called YWAM Sendai to become a healthy and vibrant YWAM / UofN training centre, established specifically in order to multiply ministries throughout Sendai city and the whole Tohoku region. We want to see Japanese or Japanese-English training schools designed to equip people to reach the Japanese people specifically, and giving them practical experience in reaching the Japanese in Sendai through various ministries. The cornerstone school we are establishing is the DTS. Once this is established, we desire to run secondary schools to better equip people, including the Japanese. As we are a pioneering team, **we expect all Sendai YWAMers to be an active part of establishing our DTS**. Once we grow in number as a Staff team (estimated at 2025), this expectation will be removed and Circles will be established that focus on specific ministries or schools.
+Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub for the whole Tohoku region. We feel that God has called YWAM Sendai to become a healthy and vibrant YWAM / UofN training centre, established specifically in order to multiply ministries throughout Sendai city and the whole Tohoku region. We want to see Japanese or Japanese-English training schools designed to equip people to reach the Japanese people specifically, and giving them practical experience in reaching the Japanese in Sendai through various ministries. The cornerstone school we are establishing is the DTS. Once this is established, we desire to run secondary schools to better equip people, including the Japanese. As we are a pioneering team, **we expect all Sendai YWAMers to be an active part of establishing our DTS**. Once we grow in number as a Staff team, this expectation will be removed and Circles will be established that focus on specific ministries or schools.
 
 ## 4. Pay, Benefits, Insurance, & Pension
 
@@ -51,14 +51,14 @@ The City of Sendai is the primary place of work for our Staff. There is a combin
 
 ## 7. Working Hours
 
-Staff are expected to work for 35 hours per week, with these hours spread throughout the whole week, including weekends. At least one full day off per week can be expected. Work hours are expected to be divided between the necessary functioning of YWAM Sendai, and for ministry, as shown in the following table:
+Staff are expected to work for 40 hours per week, with these hours spread throughout the whole week, including weekends. At least one full day off per week can be expected. Work hours are expected to be divided between the necessary functioning of YWAM Sendai, and for ministry, as shown in the following table:
 
 Category | Hours per Week | Description
 --------- | --------- | ---------
-**YWAM Sendai Functioning** | 7 hours (20% of time) | All scheduled core meetings, role-related administrative work, etc.
-**Ministry** | 28 hours (80% of time) | DTS/other UofN school, Kokubuncho (red-light district) ministry, Kokoro Kitchen, park/sports ministry, homeless ministry, meeting Japanese people, evangelism, discipleship, prayer walking, event prep, etc.
+**YWAM Sendai Functioning** | 8 hours (20% of time) | All scheduled core meetings, role-related administrative work, etc.
+**Ministry** | 32 hours (80% of time) | DTS/other UofN school, Kokubuncho (red-light district) ministry, Kokoro Kitchen, park/sports ministry, homeless ministry, meeting Japanese people, evangelism, discipleship, prayer walking, event prep, etc.
 
-**Note on language study:** For all new non-Japanese speaking staff, it is encouraged that most of the ministry time be spent studying the Japanese language for the first two years in Japan (outside of DTS season, currently). After the first two years, staff can use up to 7 hours of ministry time to study the language (leaving at least 21 hours for ministry). Any other language study should be done outside of work hours.
+**Note on language study:** For all new non-Japanese speaking staff, it is encouraged that most of the ministry time be spent studying the Japanese language for the first two years in Japan (outside of DTS season, currently). After the first two years, staff can use up to 8 hours of ministry time to study the language (leaving at least 24 hours for ministry). Any other language study should be done outside of work hours.
 
 **Note for families with small children:** In general, it is expected that the parents of small children will share the above work hours between them. Of course, each family will have different needs so this can be discussed with a Staffing Steward.
 

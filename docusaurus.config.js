@@ -93,15 +93,15 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'lifeinjapan/gettingsettled',
+            docId: 'staff/join',
             position: 'left',
-            label: 'Life in Japan',
+            label: 'Staff',
           },
           {
             type: 'doc',
-            docId: 'dts/faq',
+            docId: 'students/apply',
             position: 'left',
-            label: 'DTS',
+            label: 'Students',
           },
           {
             type: 'localeDropdown',
@@ -130,12 +130,12 @@ const config = {
                 to: '/docs/community/communication',
               },
               {
-                label: 'Life in Japan',
-                to: '/docs/lifeinjapan/gettingsettled',
+                label: 'Staff',
+                to: '/docs/staff/join',
               },
               {
-                label: 'DTS',
-                to: '/docs/dts/faq',
+                label: 'Students',
+                to: '/docs/students/apply',
               },
             ],
           },
@@ -148,7 +148,7 @@ const config = {
               },
               {
                 label: 'X',
-                href: 'https://www.twitter.com/ywamsendai',
+                href: 'https://www.x.com/ywamsendai',
               },
             ],
           },
@@ -157,7 +157,7 @@ const config = {
             items: [
               {
                 label: 'Join',
-                to: '/docs/community/join',
+                to: '/docs/staff/join',
               },
               {
                 label: 'GitHub',

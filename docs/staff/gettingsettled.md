@@ -82,7 +82,7 @@ We will point you in the direction of places were you can get items you need, bo
 
 ## Waste System
 
-Please see this page for more info: [Waste](waste.md)
+Please see this page for more info: [Waste](../community/waste.md)
 
 ## Disaster Preparation
 

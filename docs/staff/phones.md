@@ -3,7 +3,7 @@ id: phones
 title: Phones in Japan
 ---
 
-We recommend that all Sendai YWAMers have a mobile phone in order to be easily contacted - especially in the case of emergency. We highly recommend using a smartphone in Japan, as we primarily communicate with each other via [Discord](../community/communication.md) as YWAMers in Sendai and Japan, and most people in Japan communicate using LINE. Please see recommended apps at the end of this section.
+We recommend that all Sendai YWAMers have a mobile phone in order to be easily contacted - especially in the case of emergency. We highly recommend using a smartphone in Japan, as we primarily communicate with each other via [Discord](communication.md) as YWAMers in Sendai and Japan, and most people in Japan communicate using LINE. Please see recommended apps at the end of this section.
 
 ## Device
 

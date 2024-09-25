@@ -109,11 +109,11 @@ If the grievance is not resolved to their satisfaction, or if the grievance rela
 
 ## 14. Communication
 
-Staff are expected to communicate well both in person and online. As our Staff team is made up of those from different cultures and languages, over-communication, rather than under-communication, is important. Staff are expected to be active and attentive to all communication done over [Discord](communication.md), not simply to wait until a scheduled in-person meeting.
+Staff are expected to communicate well both in person and online. As our Staff team is made up of those from different cultures and languages, over-communication, rather than under-communication, is important. Staff are expected to be active and attentive to all communication done over [Discord](../community/communication.md), not simply to wait until a scheduled in-person meeting.
 
 ## 15. Japanese Language & Culture
 
-In order to make God known to the Japanese, and to become a Japanese-English bilingual community, Staff are expected to develop a passion to learn Japanese culture and [language](../lifeinjapan/language.md), and to keep learning even when it gets tough.
+In order to make God known to the Japanese, and to become a Japanese-English bilingual community, Staff are expected to develop a passion to learn Japanese culture and [language](../community/language.md), and to keep learning even when it gets tough.
 
 Right from the beginning, it is expected that Staff will pursue opportunities to be immersed in Japanese-only settings (e.g. church). Learning this language requires discipline and good strategy. We encourage each Staff member to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to be a bilingual YWAM community with Japanese as our common language, we challenge each Staff to speak in Japanese together.
 

@@ -59,7 +59,7 @@ Personal expenses and any vaccination costs are not included in published Outrea
 
 ### How do I pay?
 
-You can find details on how to make registration fee and Lecture Phase fee payments on the [Payment page](../community/payment.md).
+You can find details on how to make registration fee and Lecture Phase fee payments on the [Payment page](../about/payment.md).
 
 **Please note that the Outreach Phase amount is to be given in cash to a designated Outreach leader**
 
@@ -151,7 +151,7 @@ In your free time, you have many opportunities to engage in local life. If you'r
 
 ### What if I observe or experience abuse?
 
-If for any reason you feel you are being abused in any category please reach out immediately to the YWAM Sendai leaders, or send an email to [students@ywamsendai.org](mailto:students@ywamsendai.org).
+If for any reason you feel you are being abused in any category please reach out immediately to the YWAM Sendai leaders, or send an email to [ywamsendai.students@gmail.com](mailto:ywamsendai.students@gmail.com).
 
 ## Preparation & Arrival
 
@@ -198,7 +198,7 @@ There is also a Japanese encephalitis vaccine that you may choose to consider, t
 
 Make sure you have paid any fees due, prior to any deadlines. 
 
-If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan/language.md) before arrival!
+If you don't know already, it is probably worth learning a bit about [Japanese culture](../community/culture.md) and learning some basic [Japanese](../community/language.md) before arrival!
 
 ### To where and when shall I book my transport tickets?
 

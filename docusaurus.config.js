@@ -77,6 +77,7 @@ const config = {
         logo: {
           alt: 'YWAM Sendai Logo',
             src: 'img/ywamsendailogo.png',
+            srcDark: 'img/ywamsendailogoblk.png',
         },
         items: [
           {

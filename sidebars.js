@@ -57,6 +57,6 @@ module.exports = {
     }
   ],
   studentsSidebar: [
-    'students/apply', 'students/faq', 'students/dtsfundraising', 'students/guidelines', 'students/passfail'
+    'students/apply', 'students/dtsfundraising', 'students/guidelines', 'students/emergency', 'students/japanesephrases', 'students/passfail', 'students/faq'
   ]
 }

@@ -73,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Handbook',
+        title: 'HANDBOOK',
         logo: {
           alt: 'YWAM Sendai Logo',
             src: 'img/ywamsendailogoblk.png',

@@ -38,9 +38,11 @@ Please note that the facility we use for the DTS belongs to the Sendai Baptist S
 ### General
 
 - Keep ALL areas (both communal & bedroom) clean and tidy.
+- After taking off your shoes at the entrance, move them to the shoe-rack on the side (keep the entrance area shoe-free).
+- Don't hang out outside the main entrance to the main building.
+- Alcohol, tobacco, or vapes cannot be consumed nor stored on site.
 - The wifi details are displayed on the wall by the office door.
 - If you are given keys, do not lose them! (This would only apply for those staying in the apartment or house.)
-- Alcohol, tobacco, or vapes cannot be consumed nor stored on site.
 
 ### Bedrooms
 

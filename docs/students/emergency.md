@@ -13,7 +13,7 @@ Make sure you have a disaster early-warning app installed on your phone. Yurekur
 
 In the case of the seminary being damaged, you may have to move to an evacuation centre.
 
-**Be aware of the location and route of your designated evacuation point.** For example, the evacuation points around Ayashi station are Hirose Middle School and Ayashi Primary School.
+In this case, your closest evacuation centre is the **Hirose Junior High School (1 Chome-9-1 Ayashichuo, Aoba Ward, Sendai, Miyagi 989-3128).**
 
 ## Tips for Earthquakes
 

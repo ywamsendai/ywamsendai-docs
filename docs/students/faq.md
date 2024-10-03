@@ -85,6 +85,12 @@ You can find details on how to make registration fee and Lecture Phase fee payme
 - Leave on or before the 4th Sunday of the school: 60%
 - Leave on or before the 5th Sunday of the school: 50%
 - Any time after the 5th Sunday is non-refundable.
+
+### What if I lose my transportation IC card?
+
+You will be issued with a transporation IC card (icsca) for use for DTS-related travel. This is not to be used for personal travel (e.g. on weekends).
+
+It is your responsibility to ensure that this card is not lost. In the case that the card is lost, there will be a **fee of ¥2,500 to replace it**. 
  
 #### Outreach Phase
 

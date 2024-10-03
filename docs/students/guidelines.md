@@ -23,7 +23,7 @@ Primarily, we look to the Bible for how we should live in community that loves o
 - Be hospitable to one another without complaint (1 Peter 4:9)
 - Speak truth in love to one another (Eph 4:15-16)
 
-## DTS Guidelines
+## Community Guidelines
 
 Though we keep each other to the above standards, we do have some guidelines to help facilitate a healthy community and space.
 

@@ -38,11 +38,14 @@ Please note that the facility we use for the DTS belongs to the Sendai Baptist S
 ### General
 
 - Keep ALL areas (both communal & bedroom) clean and tidy.
-- After taking off your shoes at the entrance, move them to the shoe-rack on the side (keep the entrance area shoe-free).
-- Don't hang out outside the main entrance to the main building.
 - Alcohol, tobacco, or vapes cannot be consumed nor stored on site.
 - The wifi details are displayed on the wall by the office door.
 - If you are given keys, do not lose them! (This would only apply for those staying in the apartment or house.)
+
+### Entrance Area (Genkan)
+
+- After taking off your shoes at the entrance, move them to the shoe-rack on the side (keep the entrance area shoe-free).
+- Don't hang out outside the main entrance to the main building.
 
 ### Bedrooms
 
@@ -59,9 +62,17 @@ Please note that the facility we use for the DTS belongs to the Sendai Baptist S
 ### Kitchen, Dining Hall & Garbage
 
 - If you cook and eat in the main kitchen/dining hall, make sure to wash and dry everything you used and return it to its original place. This needs to be done BEFORE you leave the area!
-- For **garbage**, separate cans, PET bottles, glass and cardboard. Everything else goes into normal garbage, which you can collect in your own plastic bag, and dispose of in the large bin in the backroom of the main kitchen before leaving. Please do the same with cans, PET bottles and glass. Cardboard can be piled neatly in the same room.
 - As there is a church using the kitchen/dining hall on the weekends, make sure it is especially clean and tidy with no personal belongings every Friday evening. If you want to cook or hang out over the weekend, please use the house.
 - Sometimes, seminars will be held in the dining hall, so if there are people you don’t know in there, do NOT enter and be quiet in the hallways.
+
+### Garbage
+
+Please separate the garbage into the different bins/bags in the backroom of the main kitchen.
+
+- Food waste is collected in a bucket in the kitchen. The contents should be taken and emptied in a compost bin outside every day. The bucket needs to be rinsed before placing back in the kitchen.
+- Rinse out cans, PET bottles, and glass jars, then put them into the designated bins/bags in the backroom. 
+- Cardboard can be piled neatly in the backroom.
+- Everything else goes into normal garbage, which you can collect in plastic bags and disposed of in the large bin in the backroom.
 
 ### Shower, Washing Machine & Toilets
 

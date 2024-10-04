@@ -1,21 +1,27 @@
 ﻿---
 id: passfail
-title: Passing or Failing the DTS
+title: Successful Completion of the DTS
 ---
 
-As the YWAM DTS is a programme registered with the University of the Nations, students can pass or fail (or even be expelled from) the school.
+As the YWAM DTS is a programme registered with the University of the Nations, students receive a grade. For the DTS, this is either "Successful" (S) or "Unsuccessful" (U). This page outlines how to successfully complete the DTS, as well as the process for being unsuccessful.
 
-## Passing
+## Successful (S)
 
-In order to pass both the Lecture and Outreach phases of the DTS, students must ensure the following:
+A certificate of completion of the DTS will be given with the satisfactory completion of the following: 
 
-- Good attendance and whole-hearted participation of all school schedules (e.g. lectures, one-on-ones, small groups, outreaches, worship, intercession etc.)
-- Completion of all given assignments (e.g. weekly journals, book reports etc.)
-- Adherence to the [school guidelines](guidelines.md)
+1. Full payment of fees
+2. Completion of all [required assignments](assignments.md) (journal, book reports, & projects)
+3. Participation in at least two local ministries each week
+4. Successful completion of the eight week outreach
+5. Actively participating in all required school related activities
+6. Consistent and prompt attendance of all required school related activities
+7. Adherence to the [DTS guidelines](guidelines.md)
 
-## Failing or Expulsion
+**Note:** Absence from class for any other reason than illness must be preauthorized by your school leader.
 
-Failing a DTS would be due to not ensuring the above, or due to repeated bad behaviour or actions. We follow the following process, which would end in the student being expelled from the school.
+## Unsuccessful (U)
+
+Being unsuccessful in completing the DTS would be due to not ensuring the above, or due to repeated bad behaviour or actions. We follow the following process, which would end in the student being expelled from the school.
 
 ### Step 1 - The Informal Stage: Normal ongoing interaction between staff and student
 
@@ -52,5 +58,3 @@ This step results when:
 - By DTS Leader in consultation with appropriate base leadership
 
 A formal meeting should be held where the student being asked to leave has verbalised the reasons for his expulsion. The student should be clear on what the problem is and where it is he has failed to make right choices or adjust behaviour. The meeting is to be brief and a summary of the process that has brought you to this decision should be given.
-
-

@@ -1,88 +1,86 @@
 ---
 id: values
-title: Purpose, Core Beliefs and Foundational Values of YWAM
+title: ワイワムの目的・信念・基本理念の声明
 ---
 
-This document presents YWAM’s sincerely held purpose, core beliefs, and foundational values which have been compiled in response to specific directives given by God since YWAM’s beginning in 1960. They are recorded here in order to pass on to successive generations that which God has emphasized to us.
+この文書は、1960年のワイワム（英語の正式名称 Youth With A Missionの頭文字「YWAM」）の創設以来、神からの特定の指示に応じてまとめられた、ワイワムの心からの目的、核心的な信条、基盤となる価値観と実践を示しています。これらは、神が私たちに強調してくださったことを次世代に伝えるために記録されています。この共有された目的とワイワムの信条、価値観は、ミッションの過去および未来の成長のための指針となるものです。いくつかは全世界のクリスチャンに共通するものであり、他のものはYWAMに特有のものです。この目的、信条、価値観、実践の組み合わせが、ワイワムの独自の家族的特性、つまり私たちの「DNA」を形作っています。これらは私たちが自らをどのように理解し、どのように生き、どのように決断するかを決定するうえで、非常に重要な枠組みです。ワイワマーとは、ワイワムの弟子訓練学校（DTS）を修了し、ワイワムの目的声明、核心的信条、基盤的価値観、遺産の言葉、そして契約を喜んで受け入れる人を指します。
 
-This shared purpose and our YWAM beliefs and values are the guiding principles for both the past and future growth of our mission. Some are common to all Christians everywhere; others are distinctive to Youth With A Mission. The combination of this purpose, beliefs, values and practices makes up the unique family characteristics of YWAM—our “DNA.” They are the framework we hold in high regard for they help us determine who we are, how we live and how we make decisions. A YWAMer is someone who has completed a YWAM Discipleship Training School and who joyfully embraces our Statement of Purpose, Core Beliefs, Foundational Values, Legacy Words and Covenants.
+## ワイワムの目的の声明
 
-## YWAM's Statement of Purpose
+Youth With A Mission（ワイワム）は、多くの教派に属するクリスチャンたちによる国際的な運動であり、イエスをこの世代と未来の世代に個人的に紹介すること、可能な限り多くの人々をこの使命に動員すること、そして大宣教命令を果たすために信者を訓練し、装備することに献身しています。私たちは神の王国の市民として、主を愛し、礼拝し、従うこと、また、主の体である教会を愛し仕えること、すべての人々を愛し、全世界で全ての人に対して全き福音を伝えることに召されています。
 
-Youth With A Mission (YWAM) is an international movement of Christians from many denominations dedicated to presenting Jesus personally to this and future generations, to mobilizing as many as possible to help in this task, and to the training and equipping of believers for their part in fulfilling the Great Commission. As citizens of God’s kingdom, we are called to love, worship, and obey our Lord, to love and serve His body, the Church, and to love all peoples everywhere, which includes presenting the whole Gospel for the whole person throughout the whole world.
+Youth With A Missionの私たちは、父なる神、御子、聖霊である唯一の神を信じ、聖書は神によって霊感を受けた権威ある言葉であり、イエス・キリストが神の御子であり、完全な神であり、完全な人であることを明らかにしていると信じます。また、人々は神のかたちに創造され、イエス・キリストを通して永遠の命を持つために創造されたこと、すべての人が罪を犯し、神の栄光に達していないものの、イエス・キリストの受肉、生涯、死、復活、昇天によって救いが可能となったことを信じます。悔い改め、信仰、愛、従順は、聖霊の働きを通して私たちへの神の恵みの招きに対するふさわしい応答です。神はすべての人が救われ、真理を知るに至ることを望んでおり、聖霊の力は、私たちを通して、また私たちの中で働き、イエス・キリストの最後の命令である「全世界に出て行き、すべての造られた者に福音を宣べ伝えよ」（マルコの福音書16章15節）と「すべての国々の人々を弟子としなさい」（マタイの福音書28章19節）を達成するために示されます。
 
-We of Youth With A Mission believe in God–Father, Son and Holy Spirit–and that the Bible is God’s inspired and authoritative Word, revealing that Jesus Christ is God’s Son, fully God and fully human; that people are created in God’s image; that He created us to have eternal life through Jesus Christ; that although all people have sinned and come short of God’s glory, God has made salvation possible through the incarnation, life, death, resurrection and ascension of Jesus Christ; that repentance, faith, love and obedience are fitting responses to God’s initiative of grace toward us through the active ministry of the Holy Spirit; that God desires all people to be saved and to come to the knowledge of the truth; and that the Holy Spirit’s power is demonstrated in and through us for the accomplishment of Christ’s last commandments, “Go into all the world and preach the Good News to everyone” (Mark 16:15 NLT) and “Go and make disciples of all the nations…” (Matthew 28:19 NLT).
+## ワイワムの信念と基本理念
 
-## YWAM's Core Beliefs and Foundational Values
+### A. ワイワムの信念
 
-### A. YWAM's Core Beliefs
+**Youth With A Mission（ワイワム）は、聖書が神によって霊感を受け、権威ある神の言葉であり**、生活と奉仕のあらゆる側面において絶対的な指針となることを確認します。神の言葉、神ご自身、そしてイエスの贖いの働き（彼の死、埋葬、復活）を通じた神の救いのイニシアティブに基づき、YWAMでは以下の応答が強調されています:
 
-**Youth With A Mission (YWAM) affirms the Bible as the inspired and authoritative Word of God** and the absolute reference point for every aspect of life and ministry. Based upon God’s Word, who He is, and His initiative of salvation through the atoning work of Jesus (His death, burial, and resurrection), the following responses are strongly emphasized in YWAM:
+- **礼拝:** 私たちは、**神だけを賛美し、礼拝する**ように召されています（出エジプト記 20:2-3; 申命記 6:4-5; 列王記下 17:35-39; 歴代誌上 16:28-30; ネヘミヤ記 8:2-10; マルコによる福音書 12:29-30; ローマの信徒への手紙 15:5-13; ユダ書 24-25; 黙示録 5:6-14; 黙示録 19:5-8）。
 
-* **Worship:** We are called to **praise and worship God alone** (Exo 20:2-3; Deu 6:4-5; 2Ki 17:35-39; 1Ch 16:28-30; Neh 8:2-10; Mar 12:29-30; Rom 15:5-13; Jud 24-25; Rev 5:6-14; Rev 19:5-8).
+- **聖潔:** 私たちは、神の本質と性格を体現する、**聖く正しい生活を送る**ように召されています（レビ記 19:1-2; 詩篇 51:7-11; エレミヤ書 18:1-11; エゼキエル書 20:10-12; ゼカリヤ書 13:9; ルカによる福音書 1:68-75; エフェソの信徒への手紙 4:21-32; テトスへの手紙 2:11-14; ペトロの手紙一 2:9,21-25; ヨハネの手紙一 3:1-3）。
 
-* **Holiness:** We are called to **lead holy and righteous lives** that exemplify the nature and character of God (Lev 19:1-2; Psa 51:7-11; Jer 18:1-11; Eze 20:10-12; Zec 13:9; Luk 1:68-75; Eph 4:21-32; Tit 2:11-14; 1Pe 2:9,21-25-3).
+- **証:** 私たちは、**イエス・キリストの福音を知らない人々に伝える**ように召されています（詩篇 78:1-7; イザヤ書 40:3-11; ミカ書 4:1-2; ハバクク書 2:14; ルカによる福音書 24:44-48; 使徒言行録 3:12-26; 使徒言行録 10:39-43; コリントの信徒への手紙一 9:19-23; コリントの信徒への手紙二 2:12-17; ペトロの手紙一 3:15-18）。
 
-* **Witness:** We are called to **share the Gospel of Jesus Christ** with those who do not know Him (Psa 78:1-7; Isa 40:3-11; Mic 4:1-2; Hab 2:14; Luk 24:44-48; Act 2:32-26; Act 10:39-43; 1Co 9:19-23; 2Co 2:12-17; 1Pe 3:15-18).
+- **祈り:** 私たちは、神の心にある人々や目的のために、またあらゆる悪に立ち向かうために、**執り成しの祈りをする**ように召されています（創世記 18:20-33; 出エジプト記 32:1-16; 士師記 3:9,15; 列王記上 8:22-61; エゼキエル書 22:30-31; エゼキエル書 33:1-11; マタイによる福音書 6:5-15; マタイによる福音書 9:36-38; エフェソの信徒への手紙 3:14-21; テサロニケの信徒への手紙二 3:1-5）。
 
-* **Prayer:** We are called to **engage in intercessory prayer** for the people and causes on God's heart, including standing against evil in every form (Gen 18:20-33; Exo 32:1-16; Jdg 3:9,15; 1Ki 8:22-61; Eze 22:30-31; Eze 33:1-11; Mat 6:5-15; Mat 9:36-38; Eph 3:14-21; 2Th 3:1-5).
+- **交わり:** 私たちは、地域教会という養いの場と、移動する拡大する**教会という表現の両方にコミットする**ように召されています（歴代誌下 29:20-30; 詩篇 22:25-28; 詩篇 122:1-4; ヨエル書 2:15-17; マタイによる福音書 18:19-20; 使徒言行録 2:44-47; 使徒言行録 4:32-35; コリントの信徒への手紙一 14:26-40; エフェソの信徒への手紙 2:11-18; ヘブライ人への手紙 10:23-25）。
 
-* **Fellowship:** We are called to **commit to the Church** in both its local nurturing expression and its mobile multiplying expression (2Ch 29:20-30; Psa 22:25-28; Psa 122:1-4; Joe 2:15-17; Mat 18:19-20; Act 2:44-47; Act 4:32-35; 1Co 14:26-40; Eph 2:11-18; Heb 10:23-25).
+- **奉仕:** 私たちは、生活のあらゆる領域で**神の御国の目的に貢献する**ように召されています（申命記 15:7-11; 申命記 24:17-22; 詩篇 112:4-9; 箴言 11:10-11; ゼカリヤ書 7:8-10; マタイによる福音書 5:14-16; テサロニケの信徒への手紙二 3:13; テトスへの手紙 3:4-8; ヘブライ人への手紙 13:15-16; ヤコブの手紙 2:14-26）。
 
-* **Service:** We are called to **contribute toward God's Kingdom purposes** in every sphere of life (Deu 15:7-11; Deu 24:17-22; Psa 112:4-9; Pro 11:10-11; Zec 7:8-10; Mat 5:14-16; 2Th 3:13; Tit 3:4-8; Heb 13:15-16; Jam 2:14-26).
+### B. ワイワムの基本理念
 
-### B. YWAM's Foundational Values
+#### 1. 神を知る
+ワイワムは、聖書に示された神の性質、品性、御業を知ることに専念しています。聖書は、神の霊感を受け、権威ある神の言葉です。私たちは、生活と奉仕のあらゆる側面で、神がどのような方であるかを反映することを目指しています。神を知り、神との交わりを楽しむことから自然に溢れ出るものが、他者に神を伝えたいという願いです。（列王記下 19:19; ヨブ記 42:5; 詩篇 46:10; 詩篇 103:7-13; エレミヤ書 9:23-24; ホセア書 6:3; ヨハネによる福音書 17:3; エフェソの信徒への手紙 1:16-17; フィリピの信徒への手紙 3:7-11; ヨハネの手紙一 2:4-6）。
 
-#### 1. Know God
-YWAM is committed to know God, His nature, His character and His ways as revealed in the Bible, the inspired and authoritative Word of God. We seek to reflect who He is in every aspect of our lives and ministry. The automatic overflow of knowing and enjoying fellowship with God is a desire to share Him with others. (2Ki 19:19; Job 42:5; Psa 46:10; Psa 103:7-13; Jer 9:23-24; Hos 6:3; Joh 17:3; Eph 1:16-17; Php 3:7-11; 1Jo 2:4-6)
+#### 2. 神を知らしめる
+ワイワムは、全世界に、そして社会のあらゆる領域に、福音宣教、訓練、慈善活動を通じて神を知らしめるように召されています。魂の救いは社会の変革に繋がるべきであり、イエスの命令に従ってすべての国を弟子とすることを信じています。（歴代誌上 16:24-27; 詩篇 68:11; 詩篇 71:15-16; 詩篇 145:4-7; マタイによる福音書 28:18-20; マルコによる福音書 16:15; 使徒言行録 1:8; 使徒言行録 13:1-4a; ローマの信徒への手紙 10:8-15; ローマの信徒への手紙 15:18-21）。
 
-#### 2. Make God Known
-YWAM is called to make God known throughout the whole world, and into every arena of society through evangelism, training and mercy ministries. We believe that salvation of souls should result in transformation of societies thus obeying Jesus’ command to make disciples of all nations. (1Ch 16:24-27; Psa 68:11; Psa 71:15-16; Psa 145:4-7; Mat 28:18-20; Mar 16:15; Act 1:8; Act 13:1-4a; Rom 10:8-15; Rom 15:18-21)
+#### 3. 神の声を聞く
+ワイワムは、神の声を聞き、祈り、従うことを通して、神と共に創造することに専念しています。私たちは個々に、チームの中で、また大きな集会の中で、決断を下す過程において、神の声を聞くことに依存しています。（サムエル記上 3:7-10; 歴代誌下 15:2-4; 詩篇 25:14; イザヤ書 6:8; アモス書 3:7; ルカによる福音書 9:35; ヨハネによる福音書 10:1-5; ヨハネによる福音書 16:13-15; ヘブライ人への手紙 3:7-8,15; 黙示録 2:7,11,17,27; 3:6,13,22）。
 
-#### 3. Hear God’s Voice
-YWAM is committed to creating with God through listening to Him, praying His prayers and obeying His commands in matters great and small. We are dependent upon hearing His voice as individuals, together in team contexts and in larger gatherings, as an integral part of our process for decision making. (1Sa 3:7-10; 2Ch 15:2-4; Psa 25:14; Isa 6:8; Amo 3:7; Luk 9:35; Joh 10:1-5; Joh 16:13-15; Heb 3:7-8,15; Rev 2:7,11,17,27; 3:6,13,22)
+#### 4. 礼拝と執り成しの祈りを実践する
+ワイワムは、日常生活の中で神を礼拝し、執り成しの祈りに取り組むことに専念しています。また、サタンが神の働きを破壊しようとする意図を認識しており、私たちは個々の生活や国々の出来事において、聖霊の力に頼り、その策略を打ち破ります。（サムエル記上 7:5; 歴代誌下 7:14; 詩篇 84:1-8; 詩篇 95:6-7; 詩篇 100:1-5; マルコによる福音書 11:24-25; 使徒言行録 1:14; エフェソの信徒への手紙 6:13-20; テサロニケの信徒への手紙一 5:16-19; テモテへの手紙一 2:1-4）。
 
-#### 4. Practice Worship and Intercessory Prayer
-YWAM is dedicated to worship God and engage in intercessory prayer as integral aspects of daily life. We also recognize the intent of Satan to destroy the work of God and we rely upon God’s empowering presence, the Holy Spirit, to overcome Satan’s strategies in the lives of individuals and in the affairs of nations. (1Sa 7:5; 2Ch 7:4; Psa 84:1-8; Psa 95:6-7; Psa 100:1-5; Mar 11:24-25; Act 1:14; Eph 6:13-20; 1Th 5:16-19; 1Ti 2:1-4)
+#### 5. ビジョンを持つ
+ワイワムは、神から新しいビジョンを絶えず受け取り、育み、解き放つことに召されています。私たちは、新しい奉仕や方法を開拓することを支援し、すべての世代、人々のグループ、社会の領域に適した形で、常に大胆であることを望んでいます。ワイワムの使徒的な召しは、霊的な長老の役割、聖霊における自由、そして神の言葉を中心とした関係の統合が必要であると信じています。（民数記 12:6; サムエル記上 12:16; 箴言 29:18; エゼキエル書 1:1; ハバクク書 2:2-3; マルコによる福音書 1:35-39; ルカによる福音書 9:1-6; 使徒言行録 16:9-10; 使徒言行録 26:19; ペトロの手紙二 3:9-13）。
 
-#### 5. Be Visionary
-YWAM is called to be visionary, continually receiving, nurturing and releasing fresh vision from God. We support the pioneering of new ministries and methods, always willing to be radical in order to be relevant to every generation, people group, and sphere of society. We believe that the apostolic call of YWAM requires the integration of spiritual eldership, freedom in the Spirit and relationship, centered on the Word of God. (Num 12:6; 1Sa 12:16; Pro 29:18; Eze 1:1; Hab 2:2 3; Mar 1:35-39; Luk 9:1-6; Act 16:9-10; Act 26:19; 2Pe 3:9-13)
+#### 6. 若者を応援する
+YWAMは若者を応援することに召されています。私たちは、神が若者にビジョンとミニストリーの先頭に立つ賜物と召しを与えたと信じています。彼らを尊重し、信頼し、訓練し、支え、彼らにスペースを与え、解き放つことを私たちは誓います。彼らは未来の教会であるだけでなく、今日の教会でもあります。私たちは、神の御心の中で、彼らが導く場所に従うことを約束します。（サムエル記上 17:32-50; 伝道の書 4:13-14; 伝道の書 12:1-7; エレミヤ書 1:5-10; ダニエル書 1:17-20; ヨエル書 2:28; ヨハネによる福音書 6:9; 使徒言行録 16:1-5; テモテへの手紙一 4:12-16; ヨハネの手紙一 2:12-14）。
 
-#### 6. Champion Young People
-YWAM is called to champion youth. We believe God has gifted and called young people to spearhead vision and ministry. We are committed to value, trust, train, support and make space in order to release them. They are not only the Church of the future; they are the Church of today. We commit to follow where they lead, in the will of God. (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)
+#### 7. 分散型の組織である
+ワイワムは、キリスト中心で信仰に基づいた世界的なボランティア運動であり、共通のビジョン、基本的な信仰、価値観、そして関係によって結ばれています。私たちには中央集権的な構造はありません。すべてのワイワムミニストリーは、適切な権威と長老会との健全な関係を発展させ、維持する特権と霊的な責任を負っています。（出エジプト記 18:13-26; 民数記 1:16-19; 民数記 11:16-17,24-30; 申命記 29:10-13; ヨシュア記 23:1-24:28; 使徒言行録 14:23; 使徒言行録 15:1-31; コリントの信徒への手紙一 3:4-11; テトスへの手紙 1:5-9; ヘブライ人への手紙 13:7,17）。
 
-#### 7. Be Decentralized
-YWAM is called to champion youth. We believe God has gifted and called young people to spearhead vision and ministry. We are committed to value, trust, train, support and make space in order to release them. They are not only the Church of the future; they are the Church of today. We commit to follow where they lead, in the will of God. (1Sa 17:32-50; Ecc 4:13-14; Ecc 12:1-7; Jer 1:5-10; Dan 1:17-20; Joe 2:28; Joh 6:9; Act 16:1-5; 1Ti 4:12-16; 1Jo 2:12-14)
+#### 8. 国際的かつ超教派である
+ワイワムは、グローバルな視野で国際的かつ超教派的な組織であり、地元のコミュニティにおいてもその特質を持っています。私たちは、民族的、言語的、教派的な多様性や文化の中で贖われた側面が、ミッションの健全さと成長に寄与する要素であると信じています。（創世記 12:1-4; 創世記 26:2-5; 詩篇 57:9-10; エレミヤ書 32:27; ダニエル書 7:13-14; 使徒言行録 20:4; コリントの信徒への手紙一 12:12-31; エフェソの信徒への手紙 4:1-16; コロサイの信徒への手紙 3:11; 黙示録 7:9）。
 
-#### 8. Be International and Interdenominational
-YWAM is international and interdenominational in its global scope as well as its local constituency. We believe that ethnic, linguistic and denominational diversity, along with redeemed aspects of culture, are positive factors that contribute to the health and growth of the Mission. (Gen 12:1-4; Gen 26:2-5; Psa 57:9-10; Jer 32:27; Dan 7:13-14; Act 20:4; 1Co 12:12-31; Eph 4:1-16; Col 3:11; Rev 7:9)
+#### 9. 聖書的なキリスト教の世界観を持つ
+ワイワムは、聖書的なキリスト教の世界観を持つことに召されています。私たちは、聖書が人生のすべての教科書であり、善と悪、正しいことと間違っていることの明確な区別を示していると信じています。人生の実践的な側面は、ミニストリーの表現に劣るものではありません。神に従って行われるすべてのことは霊的なものです。私たちは、神を尊重し、すべての行いにおいて神をたたえることを目指し、社会のあらゆる領域で奉仕と影響力を持つ神の人々を装備し、動員します。（申命記 8:1-3; 申命記 32:45-47; 列王記下 22:8; 詩篇 19:7-11; ルカによる福音書 8:21; ヨハネによる福音書 8:31-32; フィリピの信徒への手紙 4:8-9; テモテへの手紙二 3:16-17; ヘブライ人への手紙 4:12-13; ヤコブの手紙 4:17）。
 
-#### 9. Have a Biblical Christian Worldview
-YWAM is called to a biblical Christian worldview. We believe that the Bible—the textbook for all of life—makes a clear division between good and evil; right and wrong. The practical dimensions of life are no less spiritual than the ministry expressions. Everything done in obedience to God is spiritual. We seek to honor God with all that we do, equipping and mobilizing men and women of God to take roles of service and influence in every arena of society. (Deu 8:1-3; Deu 32:45-47; 2Ki 22:8; Psa 19:7-11; Luk 8:21; Joh 8:31-32; Php 4:8-9; 2Ti 3:16 17; Heb 4:12-13; Jam 4:17)
+#### 10. チームで働く
+ワイワムは、すべての奉仕とリーダーシップにおいてチームで働くことに召されています。私たちは、互いに補完し合う賜物、召し、視点、ミニストリー、そして世代が一緒に働くことが、ミッションのあらゆるレベルで知恵と安全を提供すると信じています。チームの中で神の御心を求め、意思決定を行うことは、責任を果たし、関係を深め、ビジョンに対する動機、責任感、所有感を高めることに貢献します。（申命記 32:30-31; 歴代誌下 17:7-9; 箴言 15:22; 伝道の書 4:9-12; マルコによる福音書 6:7-13; ローマの信徒への手紙 12:3-10; コリントの信徒への手紙二 1:24; エフェソの信徒への手紙 5:21; フィリピの信徒への手紙 2:1-2; ペトロの手紙一 4:8）。
 
-#### 10. Function in Teams
-YWAM is called to function in teams in all aspects of ministry and leadership. We believe that a combination of complementary gifts, callings, perspectives, ministries and generations working together in unity at all levels of our Mission provides wisdom and safety. Seeking God’s will and making decisions in a team context allows accountability and contributes to greater relationship, motivation, responsibility and ownership of the vision. (Deu 32:30-31; 2Ch 17:7-9; Pro 15:22; Ecc 4:9-12; Mar 6:7-13; Rom 12:3-10; 2Co 1:24; Eph 5:21; Php 2:1-2; 1Pe 4:8)
+#### 11. 奉仕型リーダーシップを実践する
+ワイワムは、リーダーシップの階層ではなく、奉仕型リーダーシップを生活様式として実践することに召されています。奉仕型リーダーとは、自分のケアの下にある人々の賜物と召しを尊重し、その権利と特権を守る人のことです。イエスが弟子たちに仕えたように、私たちは、リーダーシップの責任を負う者が、自分が導く人々に仕えることの重要性を強調します。（申命記 10:12-13; 詩篇 84:10; イザヤ書 42:1-4; ミカ書 6:8; マルコによる福音書 10:42-45; ヨハネによる福音書 13:3-17; ローマの信徒への手紙 16:1-2; ガラテヤの信徒への手紙 5:13-14; フィリピの信徒への手紙 2:3-11; ペトロの手紙一 4:10-11）。
 
-#### 11. Exhibit Servant Leadership
-YWAM is called to servant leadership as a lifestyle, rather than a leadership hierarchy. A servant leader is one who honors the gifts and callings of those under his/her care and guards their rights and privileges. Just as Jesus served His disciples, we stress the importance of those with leadership responsibilities serving those whom they lead. (Deu 10:12-13; Psa 84:10; Isa 42:1-4; Mic 6:8; Mar 10:42-45; Joh 13:3-17; Rom 16:1-2; Gal 5:13-14; Php 2:3-11; 1Pe 4:10-11)
+#### 12. まず実践し、それから教える
+ワイワムは、まず実践し、それから教えることに献身しています。私たちは、実際の経験が言葉に権威を与えると信じています。神の性格と神からの召しは、個人の賜物、能力、専門知識よりも重要です。（申命記 4:5-8; エズラ記 7:10; 詩篇 51:12-13; 詩篇 119:17-18; 箴言 1:1-4; マタイによる福音書 7:28-29; 使徒言行録 1:1-2; コロサイの信徒への手紙 3:12-17; テモテへの手紙二 4:1-5; ペトロの手紙二 1:5-10）。
 
-#### 12. Do First, Then Teach
-YWAM is committed to doing first, then teaching. We believe that firsthand experience gives authority to our words. Godly character and a call from God are more important than an individual’s gifts, abilities and expertise. (Deu 4:5-8; Ezr 7:10; Psa 51:12-13; Psa 119:17-18; Pro 1:1-4; Mat 7:28-29; Act 1:1-2; Col 3:12 17; 2Ti 4:1-5; 2Pe 1:5-10)
+#### 13. 関係を重視する
+ワイワムは、共に生活し働く中で、関係を重視することに献身しています。私たちは、構造や規則に依存するのではなく、聖なる生活、相互支援、透明性、謙遜、そしてオープンなコミュニケーションを通じて一致することを望んでいます。（レビ記 19:18; 詩篇 133:1-3; 箴言 17:17; 箴言 27:10; ヨハネによる福音書 13:34-35; ヨハネによる福音書 15:13-17; ヨハネによる福音書 17:20-23; ローマの信徒への手紙 13:8-10; ヨハネの手紙一 1:7; ヨハネの手紙一 4:7-12）。
 
-#### 13. Be Relationship-oriented
-YWAM is dedicated to being relationship-oriented in our living and working together. We desire to be united through lives of holiness, mutual support, transparency, humility, and open communication, rather than a dependence on structures or rules. (Lev 19:18; Psa 133:1-3; Pro 17:17; Pro 27:10; Joh 13:34-35; Joh 15:13-17; Joh 17:20-23; Rom 13:8-10; 1Jo 1:7; 1Jo 4:7-12)
+#### 14. 個人を尊重する
+ワイワムは、個人を尊重することに召されています。私たちは、すべての人に平等な機会と正義を信じています。神の姿に創造されたすべての国籍、年齢、役割を持つ人々は、それぞれ独自の貢献と召しを持っています。私たちは、男性と女性の両方に与えられた神からのリーダーシップとミニストリーの賜物を尊重することに献身しています。（創世記 1:27; レビ記 19:13-16; 申命記 16:18-20; 詩篇 139:13-16; マルコによる福音書 8:34-37; 使徒言行録 10:34-35; ガラテヤの信徒への手紙 3:28; エフェソの信徒への手紙 6:5-9; ヘブライ人への手紙 2:11-12; ヤコブの手紙 2:1-9）。
 
-#### 14. Value the Individual
-YWAM is called to value each individual. We believe in equal opportunity and justice for all. Created in the image of God, people of all nationalities, ages and functions have distinctive contributions and callings. We are committed to honoring God-given leadership and ministry gifts in both men and women. (Gen 1:27; Lev 19:13-16; Deu 16:18-20; Psa 139:13-16; Mar 8:34 37; Act 10:34-35; Gal 3:28; Eph 6:5-9; Heb 2:11-12; Jam 2:1-9)
+#### 15. 家族を尊重する
+ワイワムは、父親や母親だけでなく、家族全体が神に仕えることの重要性を確認しています。また、シングルペアレントの家族も受け入れています。私たちは、家族の一員一人ひとりがミッションへの召しを共有し、独自かつ補完的な方法でそれぞれの賜物を生かしていく、強く健全な家族ユニットの発展を奨励しています。また、神聖な結婚が一人の男性と一人の女性の間であるという聖書の見解を支持し、祝います。（創世記 2:21-24; 創世記 18:17-19; 申命記 6:6-7; 箴言 5:15-23; 箴言 31:10-31; マラキ書 2:14-16; マタイによる福音書 19:3-9; コリントの信徒への手紙一 7:1-16; テモテへの手紙一 3:2-5; ヘブライ人への手紙 13:4）。
 
-#### 15. Value Families
-YWAM affirms the importance of families serving God together in missions, not just the father and/or mother. We also embrace the inclusion of single-parent families. We encourage the development of strong and healthy family units, with each member sharing the call to missions and contributing their gifts in unique and complementary ways. We uphold and celebrate the biblical view that God’s intent for holy matrimony is between one man and one woman. (Gen 2:21-24; Gen 18:17 19; Deu 6:6-7; Pro 5:15-23; Pro 31:10-31; Mal 2:14-16; Mat 19:3-9; 1Co 7:1-16; 1Ti 3:2-5; Heb 13:4)
+#### 16. 神への依存を実践する
+ワイワムは、財政的な供給について神への依存を実践するように召されています。個人にとっても、ワイワムのチームやコミュニティにとっても、それは主に神の民を通してもたらされます。神が私たちに寛大であられたように、私たちも寛大であり、見返りを期待せずに、自分自身や時間、才能を神に捧げることを望んでいます。（創世記 22:12-14; 出エジプト記 36:2-7; 民数記 18:25-29; マラキ書 3:8-12; マタイによる福音書 6:25-33; ルカによる福音書 19:8-9; コリントの信徒への手紙二 8:1-9:15; フィリピの信徒への手紙 4:10-20; テトスへの手紙 3:14; ヨハネの手紙三 5-8）。
 
-#### 16. Practice Dependence on God
-YWAM is called to practice a life of dependence upon God for financial provision. For individuals and for any YWAM team or community, this comes primarily through His people. As God has been generous toward us, so we desire to be generous, giving ourselves, our time and talents to God with no expectation of remuneration. (Gen 22:12-14; Exo 36:2-7; Num 18:25-29; Mal 3:8-12; Mat 6:25-33; Luk 19:8-9; 2Co 8:1-9:15; Php 4:10-20; Tit 3:14; 3Jo 5-8)
+#### 17. ホスピタリティ（おもてなし）を実践する
+ワイワムは、ホスピタリティのミニストリーを神の性格と人々の価値を表現するものとして確認しています。私たちは、心、家庭、ワイワムの拠点やキャンパスを開放し、お互いを、またゲストや貧しい人々、困窮している人々を、社会的な儀礼としてではなく、寛大さの表現として仕えることが重要であると信じています。（創世記 18:1-8; サムエル記下 9:1-11; 詩篇 68:5-6; 箴言 22:9; イザヤ書 58:7; マタイによる福音書 25:31-46; 使徒言行録 28:7-8; ローマの信徒への手紙 12:13; ヘブライ人への手紙 13:1-3; ペトロの手紙一 4:9）。
 
-#### 17. Practice Hospitality
-YWAM affirms the ministry of hospitality as an expression of God’s character and the value of people. We believe it is important to open our hearts, homes, YWAM locations and campuses to serve and honor one another, our guests and the poor and needy, not as acts of social protocol, but as expressions of generosity. (Gen 18:1-8; 2Sa 9:1-11; Psa 68:5-6; Pro 22:9; Isa 58:7; Mat 25:31 46; Act 28:7-8; Rom 12:13; Heb 13:1-3; 1Pe 4:9)
-
-#### 18. Communicate with Integrity
-YWAM affirms that everything exists because God communicates. Therefore, YWAM is committed to truthful, accurate, timely and relevant communication. We believe good communication is essential for strong relationships, healthy families and communities, and effective ministry. (Gen 1:3-5; Num 23:19; Pro 10:19; Pro 25:9-14; Zec 8:16-17; Mat 5:33-37; Luk 4:16-22; Joh 1:1 5; Col 4:6; Jam 3:1-18)
+#### 18. 誠実さを持ってコミュニケーションする
+ワイワムは、すべてが存在するのは神がコミュニケーションするからだと確認しています。したがって、ワイワムは、真実で正確、タイムリーかつ関連性のあるコミュニケーションに献身しています。良いコミュニケーションは、強い関係、健全な家族とコミュニティ、そして効果的なミニストリーのために不可欠であると信じています。（創世記 1:3-5; 民数記 23:19; 箴言 10:19; 箴言 25:9-14; ゼカリヤ書 8:16-17; マタイによる福音書 5:33-37; ルカによる福音書 4:16-22; ヨハネによる福音書 1:1-5; コロサイの信徒への手紙 4:6; ヤコブの手紙 3:1-18）。

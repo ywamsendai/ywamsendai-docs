@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'YWAM UofN Sendai Handbook',
-  tagline: 'Making God Known to the Japanese, Documented',
+  tagline: 'Know God and Make Him Known in Tohoku, Japan, and Beyond!',
   url: 'https://docs.ywamsendai.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',

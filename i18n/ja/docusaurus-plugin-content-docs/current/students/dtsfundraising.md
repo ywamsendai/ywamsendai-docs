@@ -1,78 +1,70 @@
 ---
 id: dtsfundraising
-title: Fundraising for DTS
+title: DTSのための募金活動
 ---
 
-If you are planning on attending a DTS in Sendai, but you don't have the finances for it, you're in good company! People have done DTSes all over the world throughout the years not knowing how they will afford it. But God is our provider! If He is leading you to do a DTS in Japan, He is more than capable of providing all you need!
+もし仙台でDTSに参加する予定があるが、資金がない場合でも心配しないでください！人々は、どのように資金を調達するか分からないまま、これまで世界中でDTSを行ってきました。しかし、神は私たちの供給者です！もし神があなたを仙台でDTSに導いているのなら、必要なものをすべて提供する能力を持っています！
 
-The most important thing for you to do is to **pray**! Before thinking about *how* to get your finances together, you need to know *who* is providing for you. In many ways, your DTS starts now!
+最も重要なことは、**祈ること**です！資金を集める方法を考える前に、誰があなたを供給しているのかを知る必要があります。多くの意味で、あなたのDTSは今始まります！
 
-With that said, we hope you will find the following fundraising tips useful.
+それを踏まえ、以下の資金調達のヒントが役立つことを願っています。
 
-## Contact List
+## 連絡先リスト
 
-We recommend **making a list** of all your friends, family, church members and contacts, and gather their emails, social network IDs, addresses, and phone numbers. Good communication is essential for fundraising, so be ready to communicate a lot in many ways!
+友人、家族、教会のメンバー、連絡先のリストを**作成すること**をお勧めします。彼らのメールアドレス、SNSのID、住所、電話番号を集めましょう。良好なコミュニケーションは資金調達に不可欠ですので、多くの方法でコミュニケーションを取る準備をしてください！
 
-## Write Letter / Pamphlet
+## 手紙・パンフレットを書く
 
-First, write out your **reasons why you feel God is calling you to DTS in Japan**. (Being able to clearly state your reasons for wanting to come to Japan is very important in helping people want to support you in your goal.) Include your testimony of how God has spoken to you, scriptures, confirmations, etc. Include activities you will be doing, and how you personally will be serving.
+まず、**なぜ神があなたをDTSに招いていると感じるのかの理由**を書き出してください。（理由を明確に述べることは、他の人があなたの目標をサポートしたいと思う手助けになります。）神があなたに語りかけた証、聖書の箇所、確認などを含めてください。あなたが行う活動と、あなた自身がどのように奉仕するのかを含めます。
 
-Secondly, you can share about **the need for Christ in Japan**. (You can find some points [here](../about/whyjapan.md), or you can do your own research.)
+次に、**世界宣教の必要性**についても共有できます。
 
-In the letter, put **the total amount** you will need, including Lecture Phase fee, estimated Outreach Phase amount, and estimated airfare to and from Japan. Then make an appeal for people to help you raise these costs by donating. (You can also include a sentence about your own efforts to save money via working, fundraising, etc, but despite these efforts, you still need help.) Make sure you give specific details about how people can send you money - the address, bank details and any specific instructions. (Most people like to receive a tax deduction. Please see the following section.)
+手紙には、講義段階の費用、推定のアウトリーチ段階の金額、仙台への往復の交通費を含む**必要な合計金額**を記載してください。それから、これらの費用を寄付で助けてもらえるようお願いしましょう。（お金を節約するために働くことや資金調達を行う努力についての文も含めることができますが、これらの努力にもかかわらず助けが必要であることを伝えましょう。）お金を送るための具体的な方法を提供することを忘れずに - 住所、銀行情報、具体的な指示など。（ほとんどの人は、税控除を受けることが好きです。次のセクションを参照してください。）
 
-Your letter should be 1 - 2 pages maximum in length. We recommend your letter have at least one picture in it (more is better), and that you break up the text into frequent paragraphs (a huge block of words might be overwhelming for people to read on a busy day). Consider giving clear titles to sections of your letter. For example: **My story: Why Japan? What’s Next? How you can help!** You can go online and grab some photos of Japan that might make the letter more interesting. Send the letter to everyone you know - church, family, friends, your parents’ friends, etc. Even non-Christian friends and family who love you may wish to help.
+手紙は最大1〜2ページの長さであるべきです。少なくとも1枚の写真を含めることをお勧めします（多い方が良いです）、また、頻繁に段落を分けてテキストを分けてください（巨大なブロックの単語は、忙しい日に読むには圧倒されるかもしれません）。手紙のセクションには明確なタイトルを付けることを考えてください。例えば、**私のストーリー: なぜDTS？次は何？あなたがどのように助けられるか！**仙台や世界宣教に関する写真をオンラインで取得して、手紙をもっと面白くすることができます。手紙を知っているすべての人に送信してください - 教会、家族、友人、あなたの親の友人など。クリスチャンでない友人や家族でも、あなたを愛している人々は助けたいと思うかもしれません。
 
-## Receiving Donations
+## 献金を受け取る
 
-Make sure you set up different ways where people can easily donate to you and communicate this clearly. Here are some ideas to help you:
+人々が簡単に寄付できる方法をいくつか設定し、これを明確にコミュニケーションしてください。以下はいくつかのアイデアです：
 
-### Church
+### 教会
 
-Many people like to receive tax benefits when donating (e.g. Gift-Aid in the UK, or a tax deduction in the US) so perhaps your church will allow you to have donations sent through them. Check into this possibility when you meet with the pastor or missions director at your church (more about that later).
+おそらくあなたの教会は、寄付をその経由で送ってもらうことを許可するでしょう。牧師に会う際にこの可能性を確認してください（そのことについては後で詳しく説明します）。
 
-### Other Payment Options
+### その他の支払いオプション
 
-If people don’t care much about Gift-Aid or a tax deductible receipt, you can also open an account with [PayPal](https://www.paypal.com) or [Wise](https://wise.com/). Or people may simply prefer to set up bank transfers! Supporters really appreciate options that are familiar and convenient! Make sure to list every way people can give to you somewhere (on a website or blog).
+[PayPal](https://www.paypal.com)や[Wise](https://wise.com/)でアカウントを開設することもできます。また、銀行振込を設定することを好む人もいるかもしれません！支援者は、馴染みのある便利なオプションを本当に感謝します！人々があなたに寄付できる方法をすべてどこかに（ウェブサイトやブログなど）記載してください。
 
-## Regular Updates
+## 定期的な更新
 
-After you send your letter, you can also **post updates on social media, write blog posts, and/or send email newsletters** to keep people informed on how your support is coming in (e.g. "I only need ¥50,000 more” or, “¥70,000 has been pledged so far" etc). This will encourage people who were intending to give (but who have forgotten) that there is still a need and they could still help. Be sure to let people know that you need their prayers, too, and include any miracle stories that happen. That really encourages people that God is helping you, and that going to Japan is His idea.
+手紙を送信した後、**ソーシャルメディアに更新を投稿したり、ブログ投稿を書いたり、メールニュースレターを送信したり**して、サポートがどのように進んでいるかを人々に知らせることができます（例えば、「あと¥50,000だけ必要です」や「これまでに¥70,000が約束されました」など）。これは、寄付をしようとしていた人々（しかし忘れてしまった人々）に、まだ必要があり、彼らが助けられるかもしれないことを奨励します。祈りが必要だということも知らせ、発生した奇跡の話を含めることを忘れないでください。それは、本当に神があなたを助けており、DTSに参加することが彼の考えであることを人々に励ますのです。
 
-Also include things that aren’t related to money, like what God is doing in your life, a verse from your quiet time that meant something, or a bit of personal news. These follow up updates can be short - a few sentences or paragraphs are fine. Thank people for their prayers and never be pushy about money. It is God that supports you.
+また、あなたの生活の中で神が何をしているのか、静かな時間からの意味のある聖句や少しの個人的なニュースなど、お金に関連しないことも含めてください。これらのフォローアップの更新は短くても大丈夫です - 数文や段落で構いません。祈りに感謝し、決してお金について強引にならないでください。あなたを支えるのは神です。
 
-We highly recommend you **set up your own blog (e.g. [Medium](https://medium.com)) or social network accounts ([Facebook](https://www.facebook.com/), [Twitter](https://twitter.com/), [TikTok](https://www.tiktok.com/), [YouTube](https://www.youtube.com/))**. From there you can post pictures or videos and journal about your journey of getting to Japan, and your adventures once there.
+**自分自身のブログ（例えば、[Medium](https://medium.com)）やソーシャルネットワークアカウント（[Facebook](https://www.facebook.com/)、[Twitter](https://twitter.com/)、[TikTok](https://www.tiktok.com/)、[YouTube](https://www.youtube.com/)）を設定することを強くお勧めします。**そこから、写真やビデオを投稿し、DTSに行く旅やそこに到着した後のことを日記のように書くことができます。
 
-## Thankfulness and Good Manners
+## 感謝と思いやり
 
-If someone replies to your updates, write them back. Also, it is very important to **personally thank supporters** with at least a thank you message -- a video call or physical card is even better! A little appreciation goes a long way. Be sure to share personal stories and news, too, not just ministry or financial needs. As God does new things in your life, share these, because the Lord wants to use your stories to bless and encourage others.
+誰かがあなたの更新に返信した場合は、返事を書いてください。また、**支援者に個人的に感謝すること**が非常に重要です - 感謝のメッセージだけでなく、ビデオ通話や物理的なカードがさらに良いです！少しの感謝が大きな違いを生むことがあります。ミニストリーや金銭的なニーズだけでなく、個人的なストーリーやニュースも共有してください。神があなたの人生で新しいことを成し遂げるとき、これを共有してください。なぜなら、主はあなたのストーリーを使って他の人を祝福し、励ますことを望んでいるからです。
 
-## Involving your church
+## 教会を巻き込む
 
-**Meet with your pastor/missions board/youth pastor** or whoever is most appropriate at your home church. Explain that you have a desire to train in Japan with YWAM. Ask if they have any advice regarding obtaining prayer and possible financial support from the church. Here are some things that can be done:
+**牧師と会う**か、教会で最も適切な人に会ってください。ワイワムで仙台で訓練を受ける意向があることを説明してください。教会から祈りと可能な資金援助を得るためのアドバイスがあるかどうか尋ねてください。できることは以下の通りです：
 
-- **During a Sunday service**, the pastor can interview you about your plans, (or they may simply share what you are doing), and ask for the congregation to pray over you or even take up an offering. This would be a good opportunity to announce a fundraiser you are planning and ask the people to support you in that. (Hopefully your church can pray over you again right before you leave for Japan, so the congregation sends you out officially with prayer.) It is really nice to involve your church so they feel part of the process – it gives them the opportunity to know what you are doing, pray for you, perhaps even support you.
-- You can do **fundraising** with your church's permission after a service, with a bake sale, car wash, or whatever works well in your area. Ask around or search online for fundraising ideas that may work for you. Pray for creativity! At each fundraising event, make sure you have some sort of display - some photos on a display board, a sign, or something, which captures what you’ll be doing in Japan.
-- **Try a fundraising campaign** where you set up a chart that measures your support progress. Let people know the amount you need to raise monthly in total (the amount agreed upon with your receiving YWAM location). Set a goal of raising 100 friends to support you at ¥1,000 per month (or similar in your local currency). Design the chart to show your progress throughout the fundraising drive (perhaps include a moveable, humourous, cut-out photo of you climbing a “fundraising mountain” which indicates your progress). Just about anybody can give ¥2,000! If you have a large community, this could be a good way to reach your goal. Be sure to let people know that larger pledges are OK, too!
-- **Involve your family and friends** or youth/small group in your fundraisers for extra help. If any of them can commit to helping you, utilise them for developing ideas and practical help in your fundraising events. Have a “thank you” for them before leaving for Japan by inviting them to a thank you dinner, or something similar. Vocalise your appreciation for them often (and publicly at events that they are helping you with).
-- You can ask **home group or student group leaders** if you can visit an upcoming group meeting, share your heart, and have them pray over you. Be honest that you need to raise funds, and ask if you can share about your needs. The leader could then ask the group to consider adopting you as their missionary for a period of time, or taking up an offering for you. Because of video calling, you can continue to share at these group meetings even after you are in Japan.
-- **You can host a meeting in your home** (or somewhere) where you invite people you know, show photos on a projector screen, and share about your desire to go to Japan, and why. (You can even visit our YWAM Sendai website and show our Why Japan? video to help present the need in Japan.) Plan to have someone share about your financial and other needs and ask people to pray for you, and possibly take up an offering, etc. It is sometimes a good idea to have someone else make the financial appeal because it is usually easier to boldly ask for someone else, but difficult to ask for ourselves!
-- **Sometimes a church will support you directly**. Each church has its own process, but you could ask the appropriate person if you could be considered for the church's support. They may ask for you to meet with them and share. It is important that you be well prepared: have information on YWAM and Japan and be ready to share what you will be doing and the costs involved, as well as your long-term vision, if it is connected to mission. Tell your testimony and what you feel God is calling you to do. You should be prepared to share for at least 10 minutes (this sort of preparation is important for the other meetings mentioned too.)
-- At any meeting or fundraising effort you do, it is important to **have a notebook or clipboard sign-up sheet** with which you can take down names, emails, social network IDs and addresses of people you meet. If someone stops and takes the time to ask you some questions, ask if you can add them to your newsletter list (inform your friends helping you to do the same with anyone who talks with them). Pass a clipboard around the room at meetings, etc. God will bring people across your path to support you both in prayer and finances.
-- It is also sometimes appropriate and Biblical to **ask directly for support** in a conversation. In the New Testament, there are many passages where Paul asks for support for missions! We recommend the following approach: If you have relationship with someone who believes in what you are doing, it is ok to simply ask, “would you pray about supporting me to train/serve in Japan?” They will most likely say they will pray about it, or they may say no. Never be pushy or manipulate in any way. If they say they can’t, then graciously say something like, “I completely understand. I felt like God is challenging me to ask different people about this, but I also know that He is the One who will provide for it, if it is really his idea.” Then you can just change the subject.  If they seem open to the idea, you can share about your fundraising process, and what you still need to raise. Graciously thank them for even considering it, and say you understand completely if they decide not to give at this time. Some people may not have money to give but could give you their time in helping you with different projects or fundraisers, and in being part of your prayer support, too. Remember to never look at people as the source of your fundraising!
+- **日曜日の礼拝中**に、牧師があなたの計画についてインタビューを行ったり（あるいは単にあなたがしていることを共有したり）、会衆に祈ってもらったり、献金を募ったりすることができます。これは、あなたが計画しているファンドレイジングを発表し、人々にその支援をお願いする良い機会となるでしょう。（願わくば、教会があなたが仙台に出発する前に再度祈ってくれるといいですね。会衆が公式にあなたを祈りで送り出してくれることになります。）教会を巻き込むことで、彼らもそのプロセスの一部だと感じることができ、本当に素晴らしいです。これにより、彼らはあなたが何をしているかを知り、あなたのために祈り、場合によっては支援する機会を得ることができます。
+- **ファンドレイジング**を行うために、教会の許可を得て礼拝後にバザーや洗車など、地域でうまくいくことを行うことができます。周りに聞いたり、オンラインでファンドレイジングのアイデアを探したりしてみてください。創造性を祈り求めましょう！各ファンドレイジングイベントでは、あなたが仙台で何をするかを示す展示物（写真やサインなど）を用意してください。
+- **ファンドレイジングキャンペーンを試してみてください。**支援の進捗を測定するチャートを設定します。必要な総額を人々に知らせて、ファンドレイジング期間中の進捗を示すようにチャートをデザインします。ほとんどの人が¥2,000を寄付できます！大きなコミュニティがあれば、目標達成の良い方法となるでしょう。人々に大きな誓約も受け入れることを伝えてください。
+- **家族や友人、または青年/小グループ**をファンドレイジングに巻き込んで、さらなる助けを得ましょう。彼らの中で手伝うことを約束できる人がいれば、アイデアを考えたり、ファンドレイジングイベントでの実践的な支援を得たりするのに利用してください。日本に出発する前に、感謝の気持ちを込めて「ありがとうディナー」を招待したり、似たようなことを考えたりしましょう。彼らに対する感謝の気持ちをしばしば（できれば公の場で）表現してください。
+- **ホームグループや学生グループのリーダー**に、今後のグループミーティングに訪問し、あなたの気持ちを共有し、祈ってもらえないか尋ねることができます。資金を集める必要があることを正直に伝え、あなたのニーズについて話しても良いか尋ねてみてください。リーダーは、そのグループにあなたを一時的に宣教師として支援することを検討させたり、献金を集めるように求めたりすることができます。ビデオ通話を利用すれば、仙台にいる間でもこれらのグループミーティングで共有し続けることができます。
+- **自宅（またはどこか）でミーティングを主催し**、知っている人々を招待して、プロジェクタースクリーンで写真を見せたり、DTSに参加したい理由を共有したりすることができます。誰かがあなたの財政的なニーズについて話し、人々に祈ってもらうように計画してください。場合によっては、他の人に金銭的な訴えをしてもらうのが良いアイデアです。自分のためにお願いするのは難しいことが多いですが、他の誰かのためにお願いするのは比較的簡単です！
+- **時には教会が直接支援してくれることもあります。**各教会には独自のプロセスがありますが、教会の支援の対象として考慮されるか尋ねてみてください。彼らはあなたに会って話をすることを求めてくるかもしれません。しっかり準備しておくことが重要です：ワイワムやDTSについての情報を持っていて、あなたが何をするつもりで、どのくらいの費用がかかるかを共有できるようにし、もしミッションに関連する長期的なビジョンがあれば、それについても話してください。あなたの証や、神があなたに何を求めているのかを話してください。最低でも10分間は話せるように準備しておくべきです（このような準備は、他のミーティングでも重要です）。
+- どんなミーティングやファンドレイジング活動を行う際も、**ノートやクリップボードのサインアップシートを用意して**、出会った人々の名前、メールアドレス、SNSのID、住所を書き留めることが重要です。誰かが質問をしてきた場合、その人をニュースレターリストに加えても良いか尋ねてみてください（手伝っている友達にも、彼らと話す人たちと同じことをするように伝えましょう）。ミーティングでクリップボードを回すのを忘れずに。神は、あなたのために祈りや資金で支えてくれる人々を道に導いてくれるでしょう。
+- 時には会話の中で**直接支援をお願いすることも適切であり、聖書にも基づいています**。新約聖書には、パウロが宣教のために支援をお願いする多くの箇所があります！次のアプローチをお勧めします：あなたがしていることを信じている人との関係があれば、単純に「ワイワムでトレーニングや奉仕をするための支援を祈ってもらえませんか？」と尋ねるのはOKです。彼らはほとんどの場合、祈ってみると言うか、あるいは「いいえ」と言うかもしれません。決して押し付けたり、操作したりしないでください。もし彼らができないと言ったら、「私は完全に理解しています。神が私にこのことを異なる人々に尋ねるように挑戦しているように感じていますが、もしそれが本当に神の考えであれば、彼がそれを提供してくれることを知っています」と優しく言って、話題を変えましょう。もし彼らがそのアイデアにオープンなようなら、あなたのファンドレイジングプロセスや、まだ集めなければならない金額について共有してください。彼らが考えてくれることに感謝の気持ちを伝え、もし今の時点で支援しないことを決めても理解していると言ってください。お金を寄付できない人もいるかもしれませんが、さまざまなプロジェクトやファンドレイジングで手伝ってくれたり、あなたの祈りの支援になってくれたりするかもしれません。決して人々をファンドレイジングの源と見なさないでください！
 
+## さらにいくつかのポイント
 
-We can recommend **a few books**: *Daring to Live* on the Edge by Loren Cunningham (great stories and principles for walking by faith) and *Friend Raising* by Betty Barnett (principles and practical advice). These should be available on the Internet through YWAM Publishing, Christian Book Distributors, or maybe in local Christian bookstores.
+**神があなたの源であるため、財政について心配したりストレスを感じたりしないでください。**神は私たちのために計画するすべてを提供する力を持っています。彼はしばしば、私たちの人生の中で信仰の試練を用いて、心の中にあることを明らかにします - 神が提供できるかどうかの疑いや不信、助けを求めることへの恐れ、人々の助けを受けることに対する無価値感、過去の罪に対する罪悪感... そして他にもたくさんのこと。聖書を読む時間を持ち、不安を感じているときに神の声に耳を傾け、あなたの信仰を励ます聖句を黙想してください。問題が発生した場合は、神があなたの心にアクセスできるようにしてください。これも彼の願いです。これらの問題は、あなたの神との歩みにおいて常に問題になるため、神はその問題が明らかになるようにし、あなたの神に対するイメージや、彼の大切な息子または娘としての自分自身のイメージを癒し、他の罪に対処する機会を与えてくれます。ヤコブの手紙1:3-4を読みましょう。
 
-Here are two articles that may also be helpful for you too:
+**寛大でいることも忘れないでください。**神の与えることと受け取ること、播種と収穫の原則は非常に重要です。あなたは寛大であることで神の供給を得るわけではありませんが、従順で王国の原則に基づいて行動すれば、神はあなたをさらに祝福することができます。研究用の聖書を使い、神がどのように提供するかについての聖句を見つけて、これらの約束を本当に信じてください。コリントの信徒への手紙第二9:6-11およびマルコ10:28-30を読んでください。
 
-- [Not Enough Support](http://fundingyourministry.com/downloads/Not-Enough-Support.pdf)
-- [How to Increase Your Support](http://fundingyourministry.com/downloads/How-to-Increase-your-support.pdf)
-
-## A few more points
-
-**Because it is God who is your source, do not worry or stress over your finances**. God is very capable of providing for all His plans for us. He often uses these trials of faith in our lives to reveal things in our hearts - doubt and unbelief that God can provide, fear of asking for help, feeling unworthy of people’s help, or guilt about past sins... and a million other things. Spend time in the Word and listen to God when you are feeling anxious, and meditate on Scriptures that encourage your faith. Allow God access to your heart if issues come up, because this is also His desire. These issues will continually be a problem in your walk with God, so in His mercy, He lets them be exposed so that He can heal your image of Him, your image of yourself as His precious son or daughter, or deal with some other sin that will certainly hinder your pursuit of Him. Read James 1:3-4.
-
-Don't forget to **be generous** as well, because God's principles of giving and receiving, and sowing and reaping are very important. You will not be earning his provision by being generous - but if you are obedient and operate by Kingdom principles, He can bless you more and more. Use a study Bible and find scriptures on how God provides, and really stand on these promises. Read 2 Corinthians 9:6-11 and Mark 10:28-30.
-
-**Don’t be passive!** If God is calling you to Japan now, He will certainly pay for it! It will be a confirmation of His will when the funds begin coming in. However, He will often ask you to step out in faith before the funds come in. If we wait passively for money to be in hand before turning in our application, or before taking steps of faith toward moving to Japan, often the funds will not come in because the Lord is moved by our faith, which requires some action, too. If you believe that God is calling you to Japan, then step out in faith in the application process, and take the steps required as if the funds were definitely coming in. This puts you in an active position of faith. By applying the above principles of prayer, standing on God’s promises, asking Him for steps of faith and obedience (like giving to others, or practical fundraising efforts) and then taking those steps, we have personally seen God move sovereignly again and again to provide.
+**消極的であってはいけません！ **神が今DTSを行うようにあなたを召しているのであれば、確実にそれを支払ってくれるでしょう！資金が集まり始めると、それが彼の意志の確認となります。しかし、神はしばしば資金が入る前にあなたに信仰の一歩を踏み出すように求めます。お金が手元にあるのを待つだけではなく、申し込みを提出する前に、あるいは仙台に来るための信仰の一歩を踏み出す前に、しばしば資金は集まらないでしょう。なぜなら、主は私たちの信仰に動かされ、それには何らかの行動も必要だからです。もし神があなたをDTSに召していると信じるなら、申請プロセスで信仰を持って前に進み、資金が必ず集まるかのように必要なステップを踏んでください。これはあなたを信仰の積極的な立場に置きます。祈り、神の約束を信じ、信仰と従順のステップ（他者への与え、実践的なファンドレイジング活動など）を求め、そしてそのステップを踏むことによって、私たちは神がまた再び超自然的に提供してくれるのを見てきました。

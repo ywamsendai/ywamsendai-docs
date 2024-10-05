@@ -7,8 +7,8 @@ In order to successfully complete the DTS, there are assignments that need to be
 
 ## Journal Assignment
 
-**Deadline:** Every Monday morning before 08:30
-**Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) (digital), or hand in to one-on-one staff (written)
+- **Deadline:** Every Monday morning before 08:30
+- **Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) (digital), or hand in to one-on-one staff (written)
 
 During the whole lecture phase you will receive a lot of new content, ideas and experiences. In order to learn from these, it is important to take time to evaluate, process and apply what we have learned. We will have time to process together with others in class, small group and one-on‐ones. The journal will be a more personal way to process what you have learned and to keep track of what God has done and spoken into your life each week during this DTS.
 
@@ -49,8 +49,8 @@ For this part of your journal assignment, write the name of the preacher and a p
 
 ## Book Reports
 
-**Deadline:** Different for each book.
-**Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) (digital), hand in to one-on-one staff (written), or a creative presentation in a process group.
+- **Deadline:** Different for each book.
+- **Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) (digital), hand in to one-on-one staff (written), or a creative presentation in a process group.
 
 During the lecture phase you are required to read at least 3 books that you are to give a report on.
 
@@ -71,8 +71,8 @@ Your presentation may be given through a song, drama, video, power point, teachi
 
 ## Tohoku Project
 
-**Deadline:** Monday 2 December
-**Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu)
+- **Deadline:** Monday 2 December
+- **Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu)
 
 During your DTS you have the opportunity to adopt a prefecture in Tohoku in prayer and do research on to create intercession tools for YWAM Sendai. You will also have an opportunity to go on a vision trip to one of the prefectures during the lecture phase.
 

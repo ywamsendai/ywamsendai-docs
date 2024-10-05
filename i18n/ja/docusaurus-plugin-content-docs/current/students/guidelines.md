@@ -1,81 +1,82 @@
 ﻿---
 id: guidelines
-title: DTS Guidelines
+title: DTSガイドライン
 ---
 
-In order to make the most of this short but intense DTS season, we have some guidelines to help us to honour and love each other as a community.
+この短くも濃密なDTSの期間を最大限に活用するために、私たちはお互いを尊重し愛するためのガイドラインを用意しました。
 
-## The One Another Passages
+## 「互いに関する」聖句
 
-Primarily, we look to the Bible for how we should live in community that loves one another. We encourage you to read and meditate on the following verses.
+まず、私たちはお互いを愛し合うコミュニティとしてどのように生きるべきか、聖書を手本としています。以下の聖句を読み、黙想することをお勧めします。
 
-- Be devoted to one another in brotherly love (Rom 12:10)
-- Give preference to one another in honour (Rom 12:10)
-- Accept one another (Rom 15:7)
-- Serve one another (Gal 5:13)
-- Submit to one another (Eph 5:21)
-- Teach and admonish one another (Col 3:16)
-- Encourage one another (1 Thes 5:11)
-- Build up one another (1 Thes 5:11)
-- Stimulate one another to love and good deeds (Heb 10:24)
-- Confess sins to one another (James 5:16)
-- Pray for one another (James 5:16)
-- Be hospitable to one another without complaint (1 Peter 4:9)
-- Speak truth in love to one another (Eph 4:15-16)
+- 兄弟愛をもって互いに愛し合いなさい（ローマ12:10）
+- 名誉をもって互いに優れた者としなさい（ローマ12:10）
+- 互いに受け入れなさい（ローマ15:7）
+- 互いに仕えなさい（ガラテヤ5:13）
+- 互いに従いなさい（エペソ5:21）
+- 互いに教え、戒めなさい（コロサイ3:16）
+- 互いに励まし合いなさい（テサロニケ第一5:11）
+- 互いを建て上げなさい（テサロニケ第一5:11）
+- 互いに愛と善行を励まし合いなさい（ヘブル10:24）
+- 互いに罪を告白しなさい（ヤコブ5:16）
+- 互いのために祈りなさい（ヤコブ5:16）
+- 不平を言わずに互いにもてなしなさい（ペテロ第一4:9）
+- 互いに愛をもって真理を語りなさい（エペソ4:15-16）
 
-## Community Guidelines
+## コミュニティガイドライン
 
-Though we keep each other to the above standards, we do have some guidelines to help facilitate a healthy community and space.
+私たちは上記の聖書の基準に従うことを心がけますが、健全なコミュニティと空間を維持するためのいくつかのガイドラインも設けています。
 
-1. To encourage everyone to be an active part of the DTS community, as well as to give focus to God, **exclusive relationships (especially romantic) are strongly discouraged** during DTS.
-2. To encourage good rest and sleep during this intense season, aim to be **quiet and have lights off by 10pm**.
-3. To encourage focus and intentionality, **refrain from using electronic devices** (besides note taking and Bible) during all DTS schedule (lectures & breaks, mealtimes, worship, intercession, small groups, outreach etc.). Also be mindful of excessive use of electronic devices in communal areas in free time.
+1. DTSコミュニティの一員として積極的に参加し、神に集中するために、**特に恋愛関係などの排他的な関係はDTS中に強く控えることが推奨**されています。
+2. この集中した期間中に良い休息と睡眠を確保するために、**22時までには静かにして、照明を消すことを心がけましょう**。
+3. 集中力と意識を保つために、**DTSのスケジュール中（講義・休憩、食事、礼拝、執り成し、小グループ、アウトリーチ等）には、電子機器の使用は控えましょう**（メモ取りや聖書以外）。また、自由時間中の共用エリアでの過度な電子機器の使用にも気をつけましょう。
 
-## Facility Guidelines
+## 施設ガイドライン
 
-Please note that the facility we use for the DTS belongs to the Sendai Baptist Seminary. It is NOT a YWAM property! Because of this, please respect these facilities and adhere to these guidelines. Takeishi-san is the facility warden. He doesn't speak English but is friendly and happy to help if necessary.
+私たちがDTSで使用する施設は、仙台バプテスト神学校の所有物です。ワイワムの施設ではないため、この施設を尊重し、以下のガイドラインを守ってください。施設管理人の竹石さんは親切で必要があれば助けてくれます。
 
-### General
+### 一般
 
-- Keep ALL areas (both communal & bedroom) clean and tidy.
-- Alcohol, tobacco, or vapes cannot be consumed nor stored on site.
-- The wifi details are displayed on the wall by the office door.
-- If you are given keys, do not lose them! (This would only apply for those staying in the apartment or house.)
+- すべてのエリア（共用エリア・寝室ともに）を清潔に保ちましょう。
+- アルコール、タバコ、電子タバコは、持ち込みや保管、使用は禁止されています。
+- Wi-Fiの詳細は、オフィスのドア横に掲示されています。
+- 鍵を受け取った場合は、絶対に紛失しないでください！（アパートや家に滞在している人にのみ適用されます）。
 
-### Entrance Area (Genkan)
+### 玄関
 
-- After taking off your shoes at the entrance, move them to the shoe-rack on the side (keep the entrance area shoe-free).
-- Don't hang out outside the main entrance to the main building.
+- 玄関で靴を脱いだ後は、靴を横の靴棚に置き、玄関エリアを靴でふさがないようにしてください。
+- 主な建物の正面玄関でたむろしないようにしましょう。
 
-### Bedrooms
+### 寝室
 
-- Don’t enter the sleeping areas of the opposite gender (Girls: upstairs in the house. Guys: upstairs dorms in the main building).
-- For **bedding**, each person will get a brown futon set, two white sheets, and a pillowcase. Put the pillow in the pillowcase, spread one sheet on the futon, another sheet on top of yourself, and then the duvet goes on top (your skin shouldn’t touch the brown futon!).
-- Please wash the sheets and pillowcase regularly (at least once every one to two weeks).
-- When departing the property, take off the white sheets and pillowcase and leave them on the floor. No need to remove the brown covers. Please fold up the brown futons and leave them on the bed.
+- 異性の寝室エリアには入らないでください（女子: 家の2階、男子: メインビルの2階の寝室）。
+- **寝具**については、各自が茶色の布団セット、白いシーツ2枚、枕カバーを受け取ります。枕を枕カバーに入れ、1枚のシーツを布団に広げ、もう1枚のシーツを体の上にかけ、その上に掛け布団をかけます（茶色の布団には直接触れないようにしてください）。
+- シーツと枕カバーは、少なくとも1〜2週間に一度は洗ってください。
+- 施設を退去する際は、白いシーツと枕カバーを外して床に置いてください。茶色の布団カバーを外す必要はありません。茶色の布団は畳んでベッドに置いてください。
 
-### Upstairs Classroom/Sanctuary
+### 2階の教室/礼拝堂
 
-- **NO eating or drinking** is allowed in the upstairs classroom (including water).
-- Straighten up the chairs and tables as they were when you are finished using the room.
+- 2階の教室では**飲食は禁止**です（水も含む）。
+- 使用後は、椅子やテーブルを元の配置に戻してください。
 
-### Kitchen & Dining Hall
+### キッチンとダイニングホール
 
-- If you cook and eat in the main kitchen/dining hall, make sure to wash and dry everything you used and return it to its original place. This needs to be done BEFORE you leave the area!
-- As there is a church using the kitchen/dining hall on the weekends, make sure it is especially clean and tidy with no personal belongings every Friday evening. If you want to cook or hang out over the weekend, please use the house.
-- Sometimes, seminars will be held in the dining hall, so if there are people you don’t know in there, do NOT enter and be quiet in the hallways.
+- メインキッチンやダイニングホールで調理や食事をした場合は、使用したすべての物を洗って乾かし、元の場所に戻してください。この作業は、エリアを出る前に行う必要があります！
+- 週末には教会がキッチンやダイニングホールを使用するため、金曜日の夜には特にきれいに片付け、個人の持ち物を残さないようにしてください。週末に調理やくつろぎたい場合は、家を使用してください。
+- 冷蔵庫に保管している個人の食品には、必ず名前を書いてください。名前が書かれていない場合、予告なしに処分されることがあります。
+- 時折、ダイニングホールでセミナーが開催されることがあるので、知らない人がいる場合は、部屋に入らず、廊下でも静かにしてください。
 
-### Garbage
+### ゴミの処理
 
-Please separate the garbage into the different bins/bags in the backroom of the main kitchen.
+ゴミは、メインキッチンのバックルームにある各種のゴミ箱や袋に分別してください。
 
-- Food waste is collected in a bucket in the kitchen. The contents should be taken and emptied in a compost bin outside every day. The bucket needs to be rinsed before placing back in the kitchen.
-- Rinse out cans, PET bottles, and glass jars, then put them into the designated bins/bags in the backroom. 
-- Cardboard can be piled neatly in the backroom.
-- Everything else goes into normal garbage, which you can collect in plastic bags and disposed of in the large bin in the backroom.
+- 生ごみはキッチンにあるバケツに集め、毎日外のコンポストに捨ててください。バケツは、戻す前にすすいでください。
+- 缶、ペットボトル、ガラス瓶はすすいでからバックルームの指定されたゴミ箱や袋に入れてください。
+- 段ボールはバックルームにきちんと積んでください。
+- それ以外のゴミは通常のゴミ袋に集め、バックルームにある大きなゴミ箱に捨ててください。
 
-### Shower, Washing Machine & Toilets
+### シャワー、洗濯機、トイレ
 
-- For those staying in the main building, you may use the shower room downstairs. Make sure to finish within around 20 minutes, to ensure other people can use it too! Please bring your own towel, shampoo and body soap.
-- You may use the washing machine and detergent (unless labelled with a name). Hang your laundry where it won't get in the way (e.g. an empty bedroom), or use the coin laundry near Ayashi station.
-- Guys: As the urinals don't automatically flush, please make it a habit to flush after use to keep them clean and smelling pleasant.
+- メインビルに滞在している人は、1階のシャワールームを使用できます。他の人も使えるように、**20分程度でシャワーを終えるように**しましょう。タオル、シャンプー、ボディソープは各自で持参してください。
+- 洗濯機と洗剤（名前が書かれていないもの）は自由に使用できます。洗濯物は邪魔にならない場所（例：空いている寝室）に干すか、あやし駅近くのコインランドリーを使用してください。
+- 男性の方へ: 尿器は自動で流れませんので、使用後は必ず流して、きれいに保ち、快適な状態にしてください。

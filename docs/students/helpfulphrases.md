@@ -1,5 +1,5 @@
 ---
-id: japanesephrases
+id: helpfulphrases
 title: Helpful Japanese Phrases
 ---
 

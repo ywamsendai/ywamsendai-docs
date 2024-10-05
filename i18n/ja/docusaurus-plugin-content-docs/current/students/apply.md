@@ -9,7 +9,7 @@ title: 出願する
 
 ## 出願する方法
 
-* このプロセスでは、いつでも[Discord](../community/communication.md)を介して私たちとつながり、自己紹介や質問をすることができます。また、[people@ywamsendai.org](mailto:people@ywamsendai.org)までメールを送っていただいても結構です。
+* このプロセスでは、いつでも[Discord](../community/communication.md)を介して私たちとつながり、自己紹介や質問をすることができます。また、[ywamsendai.students@gmail.com](mailto:ywamsendai.students@gmail.com)までメールを送っていただいても結構です。
 
 * まず、**[ＤＴＳ出願書](https://www.ywamsendai.org/ja/dtsapp/)**に必要事項を記入します。これを受け取った後、あなたをよく知る教会のリーダーや牧師に**個人調査書**を送ります。
 

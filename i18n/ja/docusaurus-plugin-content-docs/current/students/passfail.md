@@ -1,60 +1,60 @@
 ﻿---
 id: passfail
-title: Successful Completion of the DTS
+title: DTS合格
 ---
 
-As the YWAM DTS is a programme registered with the University of the Nations, students receive a grade. For the DTS, this is either "Successful" (S) or "Unsuccessful" (U). This page outlines how to successfully complete the DTS, as well as the process for being unsuccessful.
+ワイワムDTSはユニバーシティ・オブ・ザ・ネイションズ（UofN）に登録されたプログラムであるため、生徒には成績が与えられます。DTSの場合は、「合格」（S）か「不合格」（U）のどちらかになります。このページでは、DTSを無事に合格する方法と、不合格になった場合のプロセスについて説明します。
 
-## Successful (S)
+## 合格（S）
 
-A certificate of completion of the DTS will be given with the satisfactory completion of the following: 
+DTSの修了証は、以下の項目を満たしている場合に授与されます： 
 
-1. Full payment of fees
-2. Completion of all [required assignments](assignments.md) (journal, book reports, & projects)
-3. Participation in at least two local ministries each week
-4. Successful completion of the eight week outreach
-5. Actively participating in all required school related activities
-6. Consistent and prompt attendance of all required school related activities
-7. Adherence to the [DTS guidelines](guidelines.md)
+1. 費用の全額支払い。
+2. すべての[必須課題](assignments.md)(ジャーナル、読書感想文、プロジェクト)を完了すること。
+3. 毎週少なくとも2つの地域ミニストリーに参加すること。
+4. 8週間のアウトリーチを無事に終えること。
+5. 学校関連のすべての必須活動に積極的に参加すること。
+6. 学校関連のすべての必須活動に一貫して速やかに出席すること。
+7. [DTSガイドライン](guidelines.md)を遵守すること。
 
-**Note:** Absence from class for any other reason than illness must be preauthorized by your school leader.
+**注意：** 病気以外の理由による欠席は、スクールリーダーの事前承認が必要です。
 
-## Unsuccessful (U)
+## 不合格（U）
 
-Being unsuccessful in completing the DTS would be due to not ensuring the above, or due to repeated bad behaviour or actions. We follow the following process, which would end in the student being expelled from the school.
+DTSが不合格となるのは、上記のことが確実でない場合、または度重なる素行不良や行動によるものです。その場合、当校では以下のプロセスを踏み、最終的に生徒は退学処分となります。
 
-### Step 1 - The Informal Stage: Normal ongoing interaction between staff and student
+### ステップ1 - 非公式な段階： スタッフと生徒間の通常の継続的な交流
 
-From the beginning, the DTS community and staff should function according to the [school guidelines](guidelines.md). In this stage, staff are to give consistent encouragement to students in natural ways.
+最初から、DTSのコミュニティとスタッフは[DTSガイドライン](guidelines.md)に従って機能しなければなりません。この段階では、スタッフは自然な方法で生徒に一貫した励ましを与えます。
 
-When a student's attitudes or actions have a negative effect on those around them, it is the responsibility of those they affect to confront them. If they resist changing, the staff are to help the student take responsibility for their behaviour. The student simply needs to seek understanding from God and others regarding the attitude or action, ask forgiveness from those affected, and seek to be more Christ-like in this area.
+生徒の態度や行動が周囲に悪影響を及ぼす場合、それに立ち向かうのは、影響を与える者の責任である。生徒が改めることに抵抗する場合、職員は生徒が自分の行動に責任を持つよう手助けをする。生徒は、その態度や行動について、神や他の人たちに理解を求め、影響を受けた人たちに許しを請い、この分野でよりキリストらしくなるよう努めるだけでよいのです。
 
-We are not looking for perfection but for attitudes of humility, teachability, and true desire to change. We are most concerned when the student is blind and does not accept any responsibility for their attitudes or behaviours. In this case, it is critical that staff continue to reach out to the student in love and wisdom, without judgement, in an effort to see a breakthrough. When no breakthrough seems apparent Step 2 needs to be taken.
+私たちが求めているのは完璧さではなく、謙虚さ、教えやすさ、変わりたいという真の願いです。私たちが最も懸念するのは、生徒が盲目であり、自分の態度や行動に何の責任も認めない場合です。この場合、スタッフは愛と知恵をもって、裁くことなく、生徒に手を差し伸べ続け、突破口を見出す努力をすることが重要です。突破口が見えない場合は、ステップ2を踏む必要があります。
 
-### Step 2 - The Formal Stage: Warning of failure or expulsion
+### ステップ2 - 正式な段階： 不合格または退学の警告
 
-When behaviour is serious enough to warrant possible expulsion or failure from the DTS and/or the student is not responding to the informal efforts in Step 1 then Step 2, the formal stage, is to be taken.
+DTSからの退学や不合格の可能性があるほど行動が深刻な場合、および/または生徒がステップ1の非公式な努力に反応しない場合、ステップ2、つまり正式な段階が取られます。
 
-Formal Meeting - This is a planned session between a DTS staff member and the student. The goal of this meeting is twofold:
+正式なミーティング - これはDTSのスタッフと学生との間で計画されたセッションです。このミーティングの目的は2つあります：
 
-1. For the student to understand if the behaviour doesn't change they will fail from the program or be expelled. 
-2. For the student to understand what changes are necessary for them to pass and not be expelled.
+1. 行動を改めなければ、プログラムから脱落するか、退学になることを生徒に理解させる。
+2. 生徒が合格し、退学にならないためにはどのような変化が必要かを理解すること。
 
-It is important that the student verbalises that they understand these two things. The staff and the student then work on the solution together, with the staff person coaching and helping them to see the practical steps they can take to rectify the problem. It is vital that the student owns the decision and takes responsibility to implement the steps discussed. It is essential that staff facilitate the student partnering with the Holy Spirit to make the necessary changes. It is necessary to maintain a connection with the student to ensure needed changes are made.
+生徒がこの2つのことを理解していることを言葉で伝えることが重要である。その後、スタッフと生徒が一緒に解決策を考え、スタッフがコーチングし、生徒が問題を解決するための実際的なステップを理解できるようにサポートします。生徒が自分の意思で決定し、話し合ったステップを実行する責任を持つことが重要です。スタッフは、生徒が必要な変化を起こすために聖霊と協力するよう促すことが不可欠である。必要な変更がなされるよう、学生とのつながりを維持することが必要です。
 
-### Step 3 - Final Warning
+### ステップ3 - 最終警告
 
-When the agreed upon change does not occur, the student is given one final warning where the staff member and school leader discuss with the student the problem behaviour. The student is given a set period of time within which they are to make their decision to change their behaviour or face the consequences. At this point it might be advisable to share a general account of the issue and process with the rest of the school in line with Matthew 18.
+合意された変更が行われない場合、その生徒には最終警告が与えられ、そこで職員とスクールリーダーは問題の行動について生徒と話し合います。生徒には決められた期間が与えられ、その期間内に行動を改めるか、その結果に直面するかの決断を迫られます。この時点で、マタイによる福音書18章に従い、問題とその過程についての一般的な説明を全校生徒と共有することが望ましいかもしれません。
 
-If after this time period the student's decision is not to change, the response is automatic expulsion or failure. If the decision is yes they will change and staff decide the student can continue on in the DTS; but if as time goes by the student does not change, then the student can be expelled or failed without any further warning.
+この期間が過ぎても生徒が改めない場合、自動的に退学または不合格となります。しかし、時間が経っても生徒が変わらない場合は、それ以上の警告なしに退学または不合格となります。
 
-### Step 4 - Expulsion / Failure
+### ステップ4 - 退学/不合格
 
-This step results when:
+このステップは以下の場合に行われます：
 
-- All other avenues have been exhausted 
-- As a result of the decision the student made in the Final Warning stage or for a major and serious breach of the [school guidelines](guidelines.md). 
-- After prayer 
-- By DTS Leader in consultation with appropriate base leadership
+- 他の手段がすべて尽くされた場合。
+- 最終警告の段階で生徒が下した判断の結果、または[DTSガイドライン](guidelines.md)に対する重大かつ深刻な違反があった場合。
+- 祈りの後。
+- DTSリーダーが適切な指導者と協議の上、決定する。
 
-A formal meeting should be held where the student being asked to leave has verbalised the reasons for his expulsion. The student should be clear on what the problem is and where it is he has failed to make right choices or adjust behaviour. The meeting is to be brief and a summary of the process that has brought you to this decision should be given.
+正式なミーティングを開き、退学を命じられた生徒が退学の理由を話す。生徒は、何が問題なのか、どこが正しい選択をしなかったのか、行動を修正できなかったのかを明確にする必要があります。ミーティングは手短に行い、この決定に至った過程を要約する。

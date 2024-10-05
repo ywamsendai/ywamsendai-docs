@@ -1,88 +1,94 @@
 ---
 id: assignments
-title: DTS Assignments
+title: DTS課題
 ---
 
-In order to successfully complete the DTS, there are assignments that need to be completed throughout the school.
+DTSを成功裏に修了するためには、学校全体でいくつかの課題を完了する必要があります。
 
-## Journal Assignment
+## ジャーナル課題
 
-During the whole lecture phase you will receive a lot of new content, ideas and experiences. In order to learn from these, it is important to take time to evaluate, process and apply what we have learned. We will have time to process together with others in class, small group and one-on‐ones. The journal will be a more personal way to process what you have learned and to keep track of what God has done and spoken into your life during this DTS.
+**締め切り：** 毎週月曜日の朝08:30まで
+**提出方法：** [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu)までメール（デジタル）、または1対1のスタッフに手渡し（手書き）
 
-The journal assignments will be done in either written or digital format once a week. If you chose the digital format you must email it to [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu). If written, you can hand it in to your one-on-one staff. **The deadline for this is before 8:30am on Monday morning.** Your one-on-one staff and occasionally the school leader will read it and ask questions to help you expand upon what was written. 
+講義期間全体を通して、多くの新しい内容、アイデア、体験を受け取ることになります。これらから学ぶためには、時間をかけて評価し、処理し、学んだことを実際に適用することが重要です。クラスや少人数グループ、1対1で他の人と一緒に考える時間が設けられますが、ジャーナルは、学んだことを個人的に処理し、DTS期間中に神が自分の人生に何を語り、何を成したのかを毎週記録するための手段となります。
 
-Every week the following things are to be in your journal:
+1対1のスタッフや時には学校のリーダーがジャーナルを読み、書かれたことについて質問し、さらに深く掘り下げる助けをします。
 
-### 1. Outreach Experiences
+毎週、以下の内容をジャーナルに記入してください：
 
-Every week we will do 2 local outreaches. One of them either on Tuesday *or* Thursday afternoons, and the other on Wednesday evenings. The aim of this time is to reach people to bring them a step closer in knowing Jesus. We pray that you will have opportunities to impact people with the gospel in your time here in Sendai. These times give us an opportunity to grow in our ability to reflect who Jesus is to those around us either through playing sports, conversation , praying walk, etc.
+### 1. アウトリーチ体験
 
-Write something about your experiences every week. You can use some of the following questions to help you:
+毎週、地元でのアウトリーチを2回行います。1回は火曜日または木曜日の午後、もう1回は水曜日の夜です。この時間の目的は、人々がイエスを知る一歩を進めるためのものです。ここ仙台で福音を通じて人々に影響を与える機会があることを祈っています。この時間は、スポーツをしたり、会話したり、祈りの散歩をしたりといった方法で、周囲の人々にイエスを反映する能力を育てる機会となります。
 
-- What did you do? 
-- What was your goal? 
-- What strategy did you use? 
-- What did God speak to or through you? 
-- How was the response? 
-- What would be an area of growth or what would you need (to learn) to be more effective?
+毎週、以下の質問を参考にして体験を記録してください：
 
-### 2. God is...
+- 何をしましたか？
+- 目標は何でしたか？
+- どのような戦略を使いましたか？
+- 神があなたに語ったこと、またはあなたを通して語ったことは何ですか？
+- 反応はどうでしたか？
+- より効果的になるために、成長が必要な部分や学ぶべきことは何ですか？
 
-Choose one characteristic of God per week and study your bible about this specific aspect of Gods character. (For example; grace, faithfulness, righteousness, love). Use at least 5 scriptures and explain what they teach you about who God is. Also write about how this affects your life or beliefs. If there is another topic you have on your heart to study about, you are free to do so.
+### 2. 神は…
 
-### 3. What three things has God spoken to you during this week?
+毎週、神の特徴のうち1つを選び、その特定の側面について聖書を学んでください。（例：恵み、忠実、義、愛など）少なくとも5つの聖句を使用し、それらが神について教えてくれることを説明してください。また、それがあなたの人生や信念にどのように影響を与えるかについても書いてください。他に心に留まっているテーマがあれば、それについて学ぶことも自由です。
 
-Write about what God has spoken to you during this week. Either through the lectures, events, relationships, quiet times or else. What will you do practically to apply what you have learned this week?
+### 3. 今週、神があなたに語った3つのことは何ですか？
 
-### 4. Questions about the content of the week
+今週、神があなたに語ったことについて書いてください。講義、イベント、人間関係、静かな時間、その他の何からでも構いません。また、学んだことをどのように実際に適用していくかについても書いてください。
 
-Some of the weeks we will give you additional questions that will help you process the things that have been taught during lectures or that have happened in class.
+### 4. その週の内容に関する質問
 
-### 5. Church
+いくつかの週には、講義で教えられたことやクラスでの出来事を処理するための追加の質問を提供します。
 
-During your time in the DTS you have the opportunity to be a part of the local body of Christ and this is part of your full learning week and a requirement for this DTS. You can find different options of the various churches in Sendai [here](churches.md). Feel free to visit different ones in the first few weeks and then commit to going to one regularly. 
+### 5. 教会
 
-For this part of your journal assignment, write the name of the preacher and a paragraph summary of the message and what God has encouraged and challenged you with from the message or through any significant conversations you have in the people you met at church.
+DTS期間中、地元のキリストの体の一部となる機会があります。これは、学びの一部であり、このDTSの要件でもあります。仙台にあるさまざまな教会の選択肢はこちらから確認できます。最初の数週間は異なる教会を訪れてみて、1つに定期的に通うことをお勧めします。
 
-## Book Reports
+ジャーナル課題のこの部分では、説教者の名前とメッセージの要約を1段落で書き、そのメッセージや教会での出会いの中で神があなたに励ましや挑戦を与えたことについて書いてください。
 
-During the lecture phase you are required to read at least 3 books. After reading them, you will either write a report of the book (to be emailed to [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) or handed in to your one‐on‐one staff), or give a creative presentation in a process group.
+## 読書レポート
 
-The books we will read for this school are:
+**締め切り：** 各本によって異なります。
+**提出方法：** [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu)までメール（デジタル）、1対1のスタッフに手渡し（手書き）、またはプロセスグループでの創造的なプレゼンテーション。
 
-1. "Is That Really You, God?" by Loren Cunningham ‐ (due Friday 25 October)
-2. "Making Jesus Lord" by Loren Cunningham ‐ (due Friday 22 November)
-3. A book of your choosing ‐ (due Friday 13 December)
+講義フェーズ中に、少なくとも3冊の本を読み、そのレポートを提出する必要があります。
 
-### Assignment for “Is that Really You, God?”
+この学校で読む本は以下の通りです：
 
-After reading through "Is That Really You, God?" each person is to prepare a presentation and share it during a process group:
+- ローレン・カニンガム著『Is That Really You, God?』‐ （締め切り：10月25日金曜日）
+- ローレン・カニンガム著『Making Jesus Lord』‐ （締め切り：11月22日金曜日）
+- あなたが選んだ本 ‐ （締め切り：12月13日金曜日）
 
-- Choose one principle of hearing God’s voice mentioned in the book and describe how it was applied in that situation, and how it is to be applied in your life.
-- Then choose one YWAM value. Using a specific situation in the book, describe how God made it clear that this particular value was to be foundational for YWAM.
+### 『Is That Really You, God?』の課題
 
-Your presentation may be given through a song, drama, video, power point, teaching, etc. A list of YWAM Foundational Values can be found [here](../about/values.md).
+『Is That Really You, God?』を読んだ後、各自がプレゼンテーションを準備し、プロセスグループで共有してください：
 
-## Tohoku Project
+- 本に記載されている「神の声を聞くための原則」のうち1つを選び、その状況でどのように適用されたか、またそれがあなたの人生にどのように適用されるかを説明してください。
+- 次に、1つのワイワムの価値観を選んでください。本の中の具体的な状況を使用して、神がどのようにしてその価値観がYWAMにとって基本的なものとなることを明確にされたかを説明してください。
 
-During your DTS you have the opportunity to adopt a prefecture in Tohoku in prayer and do research on to create intercession tools for YWAM Sendai. You will also have an opportunity to go on a vision trip to one of the prefectures during the lecture phase.
+プレゼンテーションは、歌、演劇、ビデオ、パワーポイント、教えなど、自由な形式で行って構いません。YWAMの基本的な価値観のリストはこちらから確認できます。
 
-We will use these tools for our team, future DTSes and outreach teams to continue to dream God’s dream for the Tohoku Region of Japan. You can be a part of seeing apostolic pioneering in the 6 prefectures in the Tohoku Region. You can work on this every Monday afternoon and we will use some of this during scheduled intercession times for Tohoku.
+## 東北プロジェクト
 
-Ask God to show you areas of significance where you can pray for specific ministry opportunities to be released in this prefecture. What are some of the greatest needs and opportunities short-term and long-term teams can be involved with?
+**締め切り：** 12月2日月曜日
+**提出方法：** [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu)までメールしてください
 
-Make an A4 2-page Prayer Resource. Write a summary of your research, like the
-land, the history and the people, and key facts of the prefecture that you are doing research on.
+DTS期間中、あなたは祈りで東北の1つの県を採用し、仙台ワイワムのために取り成しのツールを作成するためのリサーチを行う機会があります。講義フェーズ中に、1つの県へのビジョントリップに行く機会もあります。
 
-Your paper must include:
+これらのツールは、チーム、将来のDTS、アウトリーチチームのために使用し、神が日本の東北地方に対して持っている夢を見る手助けをします。東北地方の6つの県での使徒的な開拓を見る一部となることができます。毎週月曜日の午後にこの作業を進め、東北のための取り成しの時間にも一部を使用します。
 
-- A Map of Tohoku highlighting the prefecture that you’re focusing on
-- Capital City of that prefecture, and key cities/ places
-- The Population and age demographics of that prefecture
-- Estimated Christian population, churches, ministries, missionaries (you can write the addresses at the back of your paper of those churches, ministries, missionaries if there are any)
-- What are they known for? Major tourist attractions, products, festivals, etc.
-- What are the challenges in sharing the gospel?
-- What opportunities are there for short-term teams like DTS outreaches, as well as for long-term missionaries? 
-- Key prayer points
+神に祈り、特定の奉仕の機会がこの県で解放されるための重要な祈りの領域を示してもらってください。短期・長期チームが関わることのできる最も大きな必要と機会は何でしょうか？
 
-You must email the paper to [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) by **Monday 2 December**.
+2ページA4の祈りのリソースを作成してください。あなたが研究している県について、土地、歴史、住民、およびその県の重要な事実を要約してください。
+
+あなたのレポートには以下を含める必要があります：
+
+- 東北の地図（あなたが焦点を当てている県を強調）
+- その県の県庁所在地および主要都市/場所
+- その県の人口および年齢別人口分布
+- 推定されるキリスト教人口、教会、ミニストリー、宣教師（教会やミニストリー、宣教師がいる場合、その住所をレポートの最後に書くことができます）
+- その県が何で知られているか（主要な観光名所、製品、祭りなど）
+- 福音を伝える上での課題は何か？
+- 短期チーム（DTSアウトリーチなど）や長期宣教師にとってどのような機会があるか？
+- 重要な祈りのポイント

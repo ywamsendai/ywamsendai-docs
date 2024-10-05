@@ -7,9 +7,12 @@ In order to successfully complete the DTS, there are assignments that need to be
 
 ## Journal Assignment
 
-During the whole lecture phase you will receive a lot of new content, ideas and experiences. In order to learn from these, it is important to take time to evaluate, process and apply what we have learned. We will have time to process together with others in class, small group and one-on‐ones. The journal will be a more personal way to process what you have learned and to keep track of what God has done and spoken into your life during this DTS.
+**Deadline:** Every Monday morning before 08:30
+**Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) (digital), or hand in to one-on-one staff (written)
 
-The journal assignments will be done in either written or digital format once a week. If you chose the digital format you must email it to [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu). If written, you can hand it in to your one-on-one staff. **The deadline for this is before 8:30am on Monday morning.** Your one-on-one staff and occasionally the school leader will read it and ask questions to help you expand upon what was written. 
+During the whole lecture phase you will receive a lot of new content, ideas and experiences. In order to learn from these, it is important to take time to evaluate, process and apply what we have learned. We will have time to process together with others in class, small group and one-on‐ones. The journal will be a more personal way to process what you have learned and to keep track of what God has done and spoken into your life each week during this DTS.
+
+Your one-on-one staff and occasionally the school leader will read it and ask questions to help you expand upon what was written. 
 
 Every week the following things are to be in your journal:
 
@@ -46,7 +49,10 @@ For this part of your journal assignment, write the name of the preacher and a p
 
 ## Book Reports
 
-During the lecture phase you are required to read at least 3 books. After reading them, you will either write a report of the book (to be emailed to [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) or handed in to your one‐on‐one staff), or give a creative presentation in a process group.
+**Deadline:** Different for each book.
+**Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) (digital), hand in to one-on-one staff (written), or a creative presentation in a process group.
+
+During the lecture phase you are required to read at least 3 books that you are to give a report on.
 
 The books we will read for this school are:
 
@@ -65,13 +71,16 @@ Your presentation may be given through a song, drama, video, power point, teachi
 
 ## Tohoku Project
 
+**Deadline:** Monday 2 December
+**Method of Submission:** Email [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu)
+
 During your DTS you have the opportunity to adopt a prefecture in Tohoku in prayer and do research on to create intercession tools for YWAM Sendai. You will also have an opportunity to go on a vision trip to one of the prefectures during the lecture phase.
 
 We will use these tools for our team, future DTSes and outreach teams to continue to dream God’s dream for the Tohoku Region of Japan. You can be a part of seeing apostolic pioneering in the 6 prefectures in the Tohoku Region. You can work on this every Monday afternoon and we will use some of this during scheduled intercession times for Tohoku.
 
 Ask God to show you areas of significance where you can pray for specific ministry opportunities to be released in this prefecture. What are some of the greatest needs and opportunities short-term and long-term teams can be involved with?
 
-Make an A4 2-page Prayer Resource. Write a summary of your research, like the
+Produce a 2-page A4 Prayer Resource. Write a summary of your research, like the
 land, the history and the people, and key facts of the prefecture that you are doing research on.
 
 Your paper must include:
@@ -84,5 +93,3 @@ Your paper must include:
 - What are the challenges in sharing the gospel?
 - What opportunities are there for short-term teams like DTS outreaches, as well as for long-term missionaries? 
 - Key prayer points
-
-You must email the paper to [virmz.largo@uofn.edu](mailto:virmz.largo@uofn.edu) by **Monday 2 December**.

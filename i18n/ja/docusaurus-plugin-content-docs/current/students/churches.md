@@ -1,20 +1,22 @@
 ﻿---
 id: churches
-title: Churches in Sendai
+title: 仙台の教会
 ---
 
-Here is a list of churches some of our staff attend. It is a required part of the DTS schedule to attend and commit to a local church.
+以下は、私たちのスタッフの何人かが出席している教会のリストです。DTSのスケジュールの一環として、地元の教会に出席し、コミットすることが必須です。
 
-- [Ayashichuo Christ Church](https://ayashi.clbj.org/) - Lutheran Brethern church in Ayashi (Japanese-only)
+- [愛子中央キリスト教会](https://ayashi.clbj.org/) - 愛子にある日本ルーテル同胞教団の教会（日本語のみ）
 
-- [Grace Center Sendai](https://www.gracecentersendai.com/worship) - Presbyterian church in central Sendai (bilingual)
+- [フェイス・コミュニティ・バプテスト教会 (FCBC) 仙台](https://fcbcsendai.org/) - 仙台中心部にあるG12ムーブメントの教会（バイリンガル）
 
-- [Faith Community Baptist Church (FCBC) Sendai](https://fcbcsendai.org/) - A G12 movement church in central Sendai (bilingual)
+- [フリーダム・ライフ・チャーチ](https://www.freedomlifesendai.org/) - 仙台北部にあるアライアンス・チャーチ・ネットワークの教会（バイリンガル）
 
-- [Freedom Life Church](https://www.freedomlifesendai.org/) - An Alliance Church Network church in northern Sendai (bilingual)
+- [グレース・センター仙台](https://www.gracecentersendai.com/worship) - 仙台中心部にある日本長老教会（バイリンガル）
 
-- [Praise Community Church (PCC) Sendai](https://www.pccsendai.com/) - A pentecostal church in central Sendai (bilingual)
+- [ライフハウス仙台](https://mylifehouse.com/sendai/) - 仙台中心部にあるオーストラリア・クリスチャン・チャーチズによる教会開拓（バイリンガル）
 
-- [Mustard Seed](https://www.mustardseedsendai.com/) - A Mustard Seed Network church in central Sendai (bilingual)
+- [マスタード・シード仙台](https://www.mustardseedsendai.com/) - 仙台中心部にあるマスタード・シード・ネットワークの教会（バイリンガル）
 
-- [Victory Family Centre](https://www.victoryjapan.jp/sendai) - A Singaporean church plant in central Sendai (bilingual)
+- [プレイズ・コミュニティ・チャーチ (PCC) 仙台](https://www.pccsendai.com/) - 仙台中心部にあるペンテコステ派教会（バイリンガル）
+
+- [ビクトリー・ファミリー・センター](https://www.victoryjapan.jp/sendai) - 仙台中心部にあるシンガポールの教会開拓（バイリンガル）

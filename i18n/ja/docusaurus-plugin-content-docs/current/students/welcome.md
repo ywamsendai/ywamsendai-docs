@@ -40,4 +40,5 @@ title: 仙台ワイワムへようこそ！
 
 
 Gary Seddon & Virmz Largo
+
 仙台ワイワムUofN DTSリーダー

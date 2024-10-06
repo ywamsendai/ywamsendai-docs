@@ -17,6 +17,8 @@ Whether you are a current DTS student, or you're interested in attending the DTS
 
 ## DTS
 
+- [Schedule](schedule.md)
+
 - [Guidelines](guidelines.md)
 
 - [Assignments](assignments.md)

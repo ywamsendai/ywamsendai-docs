@@ -17,6 +17,8 @@ title: 仙台ワイワムへようこそ！
 
 ## DTS
 
+- [スケジュール](schedule.md)
+
 - [ガイドライン](guidelines.md)
 
 - [課題](assignments.md)

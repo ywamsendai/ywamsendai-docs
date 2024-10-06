@@ -14,7 +14,6 @@ title: DTS 2024 Schedule
 | **10:45-11:15**   | BREAK       | BREAK        | BREAK       | BREAK        | BREAK        |               |                     |
 | **11:15-12:30**   | Orientation Session | Orientation Session | Orientation Session | God's Big Story | God's Big Story |               |                     |
 | **12:30-14:00**   | LUNCH       | LUNCH        | LUNCH       | LUNCH        | LUNCH / Clean Up        |      |             |
-| 
 | **14:00-17:00**   | Spectacular SEND(ai) RACE!!! | Team Building | FREE (Meet at 16:40 to go to worship event) | Clean up & move to seminary | Work duties, book reports & journalling |               |                     |
 | **17:00-18:00**  | DINNER      | DINNER       | Worship event      | WELCOME DINNER       | DINNER      |               |                     |
 | **19:00-21:00**  | Small Group / Fun Night (Social) | FREE           |   |  | Fun Night       |               |                     |

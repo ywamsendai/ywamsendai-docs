@@ -100,7 +100,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'students/apply',
+            docId: 'students/welcome',
             position: 'left',
             label: 'Students',
           },
@@ -136,7 +136,7 @@ const config = {
               },
               {
                 label: 'Students',
-                to: '/docs/students/apply',
+                to: '/docs/students/welcome',
               },
             ],
           },
@@ -157,8 +157,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Join',
-                to: '/docs/staff/join',
+                label: 'Apply for DTS',
+                to: '/docs/students/apply',
               },
               {
                 label: 'GitHub',

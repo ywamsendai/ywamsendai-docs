@@ -3,7 +3,7 @@ id: communication
 title: Communication
 ---
 
-This page describes how YWAMers in Sendai communicate with each other.
+This page describes how both staff and students at YWAM Sendai communicate with each other.
 
 ## Chat
 

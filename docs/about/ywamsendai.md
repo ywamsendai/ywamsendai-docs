@@ -35,11 +35,11 @@ As Tohoku is a large region that is mostly unreached by the gospel, we want to s
 
 ### Evangelism
 
-A vast majority of people in Tohoku do not know Jesus. We should seek the creativity of the Holy Spirit in order to share the gospel by means of media, arts, preaching and supernatural manifestation, as well as simply sharing our lives with people. Looking ahead, we want to be involved in outreach during the 2019 Rugby World Cup which will include one town in Tohoku: Kamaishi. We also want to intercede for and send a team down to the 2020 Tokyo Olympics!
+A vast majority of people in Tohoku do not know Jesus. We should seek the creativity of the Holy Spirit in order to share the gospel by means of media, arts, preaching and supernatural manifestation, as well as simply sharing our lives with people.
 
 ### Training
 
-We are committed to disciple the Japanese, and those who God places in our community, through teaching the Word, helping them realise their original design, encouraging them to wholeheartedly pursue God and to receive all He has for them. In the future, we would love to have a bilingual DTS ran in Sendai, as well as other YWAM schools and discipleship programmes aimed especially at the Japanese.
+We are committed to disciple the Japanese, and those who God places in our community, through teaching the Word, helping them realise their original design, encouraging them to wholeheartedly pursue God and to receive all He has for them. Currently, we run bilingual DTSes. In the future, we would like to offer other YWAM UofN schools and discipleship programmes aimed especially at the Japanese, or reaching the Japanese.
 
 ### Mercy
 

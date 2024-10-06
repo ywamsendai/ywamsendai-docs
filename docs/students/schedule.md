@@ -38,4 +38,4 @@ title: DTS 2024 Schedule
 | **19:00~**             | Small Group / Fun Night (Social) | FREE          | Prayer for the City / Evangelism    | Community Worship & Word   | TBA                  |                          |    |
 | **22:00**              | REST / QUIET HOURS   | REST / QUIET HOURS                 | REST / QUIET HOURS              | REST / QUIET HOURS               | REST / QUIET HOURS  |                          |    |
 
-*Submit Journals by Monday Morning before Worship
+**Submit Journals by Monday morning before Worship**

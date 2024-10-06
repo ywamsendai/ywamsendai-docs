@@ -1,41 +1,42 @@
 ---
 id: schedule
-title: DTS 2024 Schedule
+title: DTS2024スケジュール
 ---
 
-## Orientation Week
+## オリエンテーション
 
-|                | **MONDAY**          | **TUESDAY**          | **WEDNESDAY**       | **THURSDAY**         | **FRIDAY**           | **SATURDAY**      | **SUNDAY**              |
+|                | **月曜日**         | **火曜日**         | **水曜日**       | **木曜日**         | **金曜日**         | **土曜日**      | **日曜日**              |
 |---------------------------------------------------|-----------------|------------------|-----------------|------------------|------------------|---------------|------------------|
-| **06:00-07:00**  | BREAKFAST        | BREAKFAST        | BREAKFAST        | BREAKFAST        | BREAKFAST        |                  |                  |
-| **07:30-08:30**  | Quiet Time | Quiet Time | Quiet Time | Quiet Time | Quiet Time |               |                |
-| **08:30-09:45**  | Welcome, Intro's, Worship | Intercession | Worship   | Devotional /Tohoku / UUPG  | Intercession  | REST DAY      |  CHURCH / Meet with locals  |
-| **09:45-10:45**  | Orientation Session | Orientation Session | Orientation Session | God's Big Story | God's Big Story |               |                     |
-| **10:45-11:15**   | BREAK       | BREAK        | BREAK       | BREAK        | BREAK        |               |                     |
-| **11:15-12:30**   | Orientation Session | Orientation Session | Orientation Session | God's Big Story | God's Big Story |               |                     |
-| **12:30-14:00**   | LUNCH       | LUNCH        | LUNCH       | LUNCH        | LUNCH / Clean Up        |      |             |
-| 
-| **14:00-17:00**   | Spectacular SEND(ai) RACE!!! | Team Building | FREE (Meet at 16:40 to go to worship event) | Clean up & move to seminary | Work duties, book reports & journalling |               |                     |
-| **17:00-18:00**  | DINNER      | DINNER       | Worship event      | WELCOME DINNER       | DINNER      |               |                     |
-| **19:00-21:00**  | Small Group / Fun Night (Social) | FREE           |   |  | Fun Night       |               |                     |
+| **06:00-07:00**  | 朝食             | 朝食              | 朝食             | 朝食              | 朝食              |                  |                  |
+| **07:30-08:30**  | 個人的な祈りの時間        | 個人的な祈りの時間         | 個人的な祈りの時間        | 個人的な祈りの時間         | 個人的な祈りの時間         |               |                |
+| **08:30-09:45**  | 歓迎、イントロ、礼拝 | 取りなし          | 礼拝              | デボーション / 東北 / UUPG  | 取りなし          | 休息日          | 教会 / 地元の人々と会う |
+| **09:45-10:45**  | オリエンテーション | オリエンテーション | オリエンテーション | 神の大きな物語     | 神の大きな物語     |               |                     |
+| **10:45-11:15**   | 休憩              | 休憩               | 休憩              | 休憩               | 休憩               |               |                     |
+| **11:15-12:30**   | オリエンテーション | オリエンテーション | オリエンテーション | 神の大きな物語     | 神の大きな物語     |               |                     |
+| **12:30-14:00**   | 昼食              | 昼食               | 昼食              | 昼食               | 昼食 / 片付け        |      |             |
+| **14:00-17:00**   | スペクタキュラーSEND(ai)レース | チームビルディング | 無料（16:40に集まり礼拝イベントへ行く） | 片付け & 神学校への移動 | 作業、読書レポート、日誌  |               |                     |
+| **17:00-18:00**  | 夕食              | 夕食               | ワーシップイベント       | 歓迎ディナー         | 夕食              |               |                     |
+| **19:00-21:00**  | 小グループ / FUN NIGHT | 自由              |                   |                   | FUN NIGHT           |               |                     |
 
-## Lecture Phase Schedule
 
-|                   | **MONDAY**            | **TUESDAY**          | **WEDNESDAY**                      | **THURSDAY**                         | **FRIDAY**         | **SATURDAY**               |  **SUNDAY**           |
+## 講義期間スケジュール
+
+|                   | **月曜日**            | **火曜日**          | **水曜日**                      | **木曜日**                         | **金曜日**         | **土曜日**               |  **日曜日**           |
 |-----------------------------|------------------------|--------------------------------------|-----------------------------------|------------------------------------|----------------------|--------------------------|----------------------|
-| **7:00**               | BREAKFAST      | BREAKFAST     | BREAKFAST    | BREAKFAST        |  BREAKFAST        |                          |
-| **7:30-8:30**          | Quiet Time         | Quiet Time | Quiet Time | Quiet Time | Quiet Time  |   |   |
-| **8:30-9:30**          | Worship                | Intercession                         | Worship                           | Devotional / Tohoku / UUPG              | Intercession                     |   REST DAY      | CHURCH / Meet with locals  |
-| **9:30-10:45**         | TEACHING           | TEACHING                         | TEACHING                      | TEACHING                       | TEACHING          |                          |    |
-| **10:45-11:15**        | BREAK              | BREAK                            | BREAK                         | BREAK                          | BREAK             |                          |    |
-| **11:15-12:15**        | TEACHING           | TEACHING                         | TEACHING                      | TEACHING                      | TEACHING          |                          |    |
-| **12:15-12:30**        | Process Time / Q&A       | Process Time / Q&A                     | Process Time / Q&A                  | Process Time / Q&A                   | Process Time / Q&A      |                          |    |
-| **12:30-14:00**        | LUNCH / Clean Up  | LUNCH / Clean Up         | LUNCH / Clean Up     | LUNCH / Clean Up     | LUNCH / Clean Up |                          |    |
-| **14:00-15:00**        | Tohoku Project     | Local Outreach / One on Ones / Book Reports / Work Duties | FREE | Local Outreach / One on Ones / Book Reports / Work Duties | Small Group (Process)   |                          |    |
-| **15:00-16:00**        | One on Ones / FREE |  | Japanese Language & Culture / Outreach Prep |  | Book reports / Journalling        |            |    |
-| **16:00-17:30**        | Work Duties |  | Work duties |  | Work Duties |                    |    |
-| **17:30-19:00**        | DINNER / Clean Up    | DINNER / Clean Up            | DINNER / Clean Up               | DINNER / Clean Up                | DINNER / Clean Up   |                          |    |
-| **19:00~**             | Small Group / Fun Night (Social) | FREE          | Prayer for the City / Evangelism    | Community Worship & Word   | TBA                  |                          |    |
-| **22:00**              | REST / QUIET HOURS   | REST / QUIET HOURS                 | REST / QUIET HOURS              | REST / QUIET HOURS               | REST / QUIET HOURS  |                          |    |
+| **7:00**               | 朝食      | 朝食     | 朝食    | 朝食        |  朝食        |                          |
+| **7:30-8:30**          | 個人的な祈りの時間         | 個人的な祈りの時間 | 個人的な祈りの時間 | 個人的な祈りの時間 | 個人的な祈りの時間  |   |   |
+| **8:30-9:30**          | 賛美                | とりなしの祈り                         | 賛美                           | ディボーション / 東北 / UUPG              | とりなしの祈り                     |   休息日      | 教会 / 地元の人々と会う  |
+| **9:30-10:45**         | 教え           | 教え                         | 教え                      | 教え                       | 教え          |                          |    |
+| **10:45-11:15**        | 休憩              | 休憩                            | 休憩                         | 休憩                          | 休憩             |                          |    |
+| **11:15-12:15**        | 教え           | 教え                         | 教え                      | 教え                      | 教え          |                          |    |
+| **12:15-12:30**        | 処理時間 / Q&A       | 処理時間 / Q&A                     | 処理時間 / Q&A                  | 処理時間 / Q&A                   | 処理時間 / Q&A      |                          |    |
+| **12:30-14:00**        | 昼食 / 片付け  | 昼食 / 片付け         | 昼食 / 片付け     | 昼食 / 片付け     | 昼食 / 片付け |                          |    |
+| **14:00-15:00**        | 東北プロジェクト     | 地域奉仕 / 1対1 / 本のレポート / 作業義務 | 自由時間 | 地域奉仕 / 1対1 / 本のレポート / 作業義務 | 小グループ (プロセス)   |                          |    |
+| **15:00-16:00**        | 1対1 / 自由時間 |  | 日本語と文化 / 奉仕の準備 |  | 本のレポート / 日記        |            |    |
+| **16:00-17:30**        | 作業義務 |  | 作業義務 |  | 作業義務 |                    |    |
+| **17:30-19:00**        | 夕食 / 片付け    | 夕食 / 片付け            | 夕食 / 片付け               | 夕食 / 片付け                | 夕食 / 片付け   |                          |    |
+| **19:00~**             | 小グループ / FUN NIGHT | 自由時間          | 街のための祈り / 福音伝道    | 共同礼拝 & 御言葉   | 後日発表                  |                          |    |
+| **22:00**              | 休息 / 静かな時間   | 休息 / 静かな時間                 | 休息 / 静かな時間              | 休息 / 静かな時間               | 休息 / 静かな時間  |                          |    |
 
-*Submit Journals by Monday Morning before Worship
+
+**月曜朝の礼拝前にジャーナルを提出してください**

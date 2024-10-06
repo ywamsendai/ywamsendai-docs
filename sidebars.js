@@ -57,6 +57,6 @@ module.exports = {
     }
   ],
   studentsSidebar: [
-    'students/welcome', 'students/guidelines', 'students/assignments', 'students/churches', 'students/emergency', 'students/helpfulphrases', 'students/passfail', 'students/faq', 'students/apply', 'students/dtsfundraising'
+    'students/welcome', 'students/schedule', 'students/guidelines', 'students/assignments', 'students/churches', 'students/emergency', 'students/helpfulphrases', 'students/passfail', 'students/faq', 'students/apply', 'students/dtsfundraising'
   ]
 }

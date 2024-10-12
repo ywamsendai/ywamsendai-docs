@@ -28,7 +28,7 @@ Primarily, we look to the Bible for how we should live in community that loves o
 Though we keep each other to the above standards, we do have some guidelines to help facilitate a healthy community and space.
 
 1. To encourage everyone to be an active part of the DTS community, as well as to give focus to God, **exclusive relationships (especially romantic) are strongly discouraged** during DTS.
-2. To encourage good rest and sleep during this intense season, aim to be **quiet and have lights off by 10pm**.
+2. To encourage good rest and personal time with God during this intense season, aim to be **quiet and have lights off by 10pm, and wake up by 7am**.
 3. To encourage focus and intentionality, **refrain from using electronic devices** (besides note taking and Bible) during all DTS schedule (lectures & breaks, mealtimes, worship, intercession, small groups, outreach etc.). Also be mindful of excessive use of electronic devices in communal areas in free time.
 
 ## Facility Guidelines

@@ -3,13 +3,15 @@ id: intercession
 title: Principles for Effective Intercession
 ---
 
-## 1. Praise God for who He is, and for the privilege of engaging in the same wonderful ministry as the Lord Jesus.
+Joy Dawson
+
+### 1. Praise God for who He is, and for the privilege of engaging in the same wonderful ministry as the Lord Jesus.
 
 *Hebrews 7:25* – “He ever lives to make intercession for them (His own).”
 
 Praise God for the privilege of cooperating with Him in the affairs of men through prayer.
 
-## 2. Make sure your heart is clean before God, by having given the Holy Spirit time to convict, should there be any unconfessed sin.
+### 2. Make sure your heart is clean before God, by having given the Holy Spirit time to convict, should there be any unconfessed sin.
 
 *Psalm 66:18* – “If I regard iniquity in my heart, the Lord will not hear me.”
 
@@ -36,7 +38,7 @@ Job had to forgive his friends for their wrong judging of him, before he could p
 
 *Galatians 5:6* – “Faith works through love.”
 
-## 3. Acknowledge you can’t really pray without the direction and energy of the Holy Spirit.
+### 3. Acknowledge you can’t really pray without the direction and energy of the Holy Spirit.
 
 *Romans 8:26* – “The Spirit helps us in our weakness: for we know not how to pray as we ought.”
 
@@ -46,11 +48,11 @@ Ask God to utterly control you by His Spirit, receive by faith that He does, and
 
 *Hebrews 11:6* – “Without faith it is impossible to please Him.”
 
-## 4. Deal aggressively with the enemy. Come against him in the all-powerful Name of the Lord Jesus Christ and with the “sword of the Spirit”—the Word of God.
+### 4. Deal aggressively with the enemy. Come against him in the all-powerful Name of the Lord Jesus Christ and with the “sword of the Spirit”—the Word of God.
 
 *James 4:7* – “Submit yourselves therefore to God. Resist the devil and he will flee from you.”
 
-## 5. Die to your own imaginations, desires, and burdens for what you feel you should pray.
+### 5. Die to your own imaginations, desires, and burdens for what you feel you should pray.
 
 *Proverbs 3:5, 6* – “Lean not unto your own understanding.”
 
@@ -58,9 +60,9 @@ Ask God to utterly control you by His Spirit, receive by faith that He does, and
 
 *Isaiah 55:8* – “My thoughts are not your thoughts.”
 
-## 6. Praise God now in faith for the remarkable prayer meeting you’re going to have. He’s a remarkable God and will do something consistent with His character.
+### 6. Praise God now in faith for the remarkable prayer meeting you’re going to have. He’s a remarkable God and will do something consistent with His character.
 
-## 7. Wait before God in silent expectancy, listening for His direction.
+### 7. Wait before God in silent expectancy, listening for His direction.
 
 *Psalm 62:5* – “For God alone my soul waits in silence, for my hope is from Him.”
 
@@ -68,7 +70,7 @@ Ask God to utterly control you by His Spirit, receive by faith that He does, and
 
 *Psalm 81:11-13* – “But My people did not listen to My voice; Israel would have none of Me. So I gave them over to their stubborn hearts, to follow their own counsels. 0, that My people would listen to Me, that Israel would walk in My ways!”
 
-## 8. In obedience and faith, utter what God brings to your mind, believing.
+### 8. In obedience and faith, utter what God brings to your mind, believing.
 
 *John 10:27* – “My sheep hear My voice . . . and they follow Me.”
 
@@ -80,13 +82,13 @@ Make sure you don’t move on to the next subject until you’ve given God time 
 
 Be encouraged from the lives of Moses, Daniel, Paul, and Anna, that God gives revelation to those who make intercession a way of life.
 
-## 9. If possible have your Bible with you should God want to give you direction or confirmation from it.
+### 9. If possible have your Bible with you should God want to give you direction or confirmation from it.
 
 *Psalm 119:105* – “Thy Word is a lamp to my feet and a light to my path.”
 
-## 10. When God ceases to bring things to your mind to pray for, finish by praising and thanking Him for what He has done, reminding yourself of Romans 11:36, “For from Him and through Him and to Him are all things. To Him be the glory forever! Amen.”
+### 10. When God ceases to bring things to your mind to pray for, finish by praising and thanking Him for what He has done, reminding yourself of Romans 11:36, “For from Him and through Him and to Him are all things. To Him be the glory forever! Amen.”
 
-## A WARNING
+#### A WARNING
 
 God knows the weakness of the human heart towards pride, and if we speak of what God has revealed and done in intercession, it may lead to committing this sin.
 

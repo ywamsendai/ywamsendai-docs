@@ -36,7 +36,7 @@ module.exports = {
      'about/ywam', 'about/ywamsendai', 'about/values', 'about/covenants', 'about/history', 'about/act', 'about/whyjapan', 'about/payment'
   ],
   communitySidebar: [
-     'community/communication', 'community/culture', 'community/biblepoverty', 'community/friendshipwithgod', 
+     'community/communication', 'community/culture', 'community/biblepoverty', 'community/friendshipwithgod', 'community/intercession',
     {
        type: 'category',
        label: 'Japanese Language',

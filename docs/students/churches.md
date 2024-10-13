@@ -5,6 +5,8 @@ title: Churches in Sendai
 
 Here is a list of churches some of our staff attend. It is a required part of the DTS schedule to attend and commit to a local church.
 
+- [Ikoinomigiwa Church](https://ikoinomigiwa.weebly.com/) - Conservative Baptist church based in the seminary (Japanese-only)
+
 - [Ayashichuo Christ Church](https://ayashi.clbj.org/) - Lutheran Brethern church in Ayashi (Japanese-only)
 
 - [Faith Community Baptist Church (FCBC) Sendai](https://fcbcsendai.org/) - A G12 movement church in central Sendai (bilingual)

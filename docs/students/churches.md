@@ -9,7 +9,7 @@ Here is a list of churches some of our staff attend. It is a required part of th
 
 - [Faith Community Baptist Church (FCBC) Sendai](https://fcbcsendai.org/) - A G12 movement church in central Sendai (bilingual)
 
-- [Freedom Life Church](https://www.freedomlifesendai.org/) - An Alliance Church Network church in northern Sendai (bilingual)
+- [Freedom Life Church](https://www.freedomlifesendai.org/) - An Alliance Church Network church in northern Sendai (Japanese-only)
 
 - [Grace Center Sendai](https://www.gracecentersendai.com/worship) - Presbyterian church in central Sendai (bilingual)
 

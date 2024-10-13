@@ -17,6 +17,6 @@ Here is a list of churches some of our staff attend. It is a required part of th
 
 - [Mustard Seed Sendai](https://www.mustardseedsendai.com/) - A Mustard Seed Network church in central Sendai (bilingual)
 
-- [Praise Community Church (PCC) Sendai](https://www.pccsendai.com/) - A pentecostal church in central Sendai (bilingual)
+- [Praise Community Church (PCC) Sendai](https://www.pccsendai.com/) - A pentecostal church in central Sendai (Japanese)
 
 - [Victory Family Centre](https://www.victoryjapan.jp/sendai) - A Singaporean church plant in central Sendai (bilingual)

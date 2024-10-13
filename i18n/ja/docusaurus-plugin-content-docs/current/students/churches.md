@@ -9,7 +9,7 @@ title: 仙台の教会
 
 - [フェイス・コミュニティ・バプテスト教会 (FCBC) 仙台](https://fcbcsendai.org/) - 仙台中心部にあるG12ムーブメントの教会（バイリンガル）
 
-- [フリーダム・ライフ・チャーチ](https://www.freedomlifesendai.org/) - 仙台北部にあるアライアンス・チャーチ・ネットワークの教会（バイリンガル）
+- [フリーダム・ライフ・チャーチ](https://www.freedomlifesendai.org/) - 仙台北部にあるアライアンス・チャーチ・ネットワークの教会（日本語）
 
 - [グレース・センター仙台](https://www.gracecentersendai.com/worship) - 仙台中心部にある日本長老教会（バイリンガル）
 

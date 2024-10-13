@@ -39,12 +39,14 @@ Please note that the facility we use for the DTS belongs to the Sendai Baptist S
 
 - Keep ALL areas (both communal & bedroom) clean and tidy.
 - Alcohol, tobacco, or vapes cannot be consumed nor stored on site.
+- On the ground/first floor of the main building, you can only enter the kitchen/dining hall area, toilets, and shower room. All other areas are off-limits.
 - The wifi details are displayed on the wall by the office door.
 - If you are given keys, do not lose them! (This would only apply for those staying in the apartment or house.)
 
 ### Entrance Area (Genkan)
 
-- After taking off your shoes at the entrance, move them to the shoe-rack on the side (keep the entrance area shoe-free).
+- After taking off your shoes at the entrance, move them to the shoe storage on the side (keep the entrance area shoe-free).
+- Keep the entrance doors closed to keep insects out.
 - Don't hang out outside the main entrance to the main building.
 
 ### Bedrooms

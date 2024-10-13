@@ -45,7 +45,7 @@ Some of the weeks we will give you additional questions that will help you proce
 
 During your time in the DTS you have the opportunity to be a part of the local body of Christ and this is part of your full learning week and a requirement for this DTS. You can find different options of the various churches in Sendai [here](churches.md). Feel free to visit different ones in the first few weeks and then commit to going to one regularly. 
 
-For this part of your journal assignment, write the name of the preacher and a paragraph summary of the message and what God has encouraged and challenged you with from the message or through any significant conversations you have in the people you met at church.
+For this part of your journal assignment, write a paragraph about what God has spoken to you through the sermon, through conversations you had, or just by being at the church. If the church was in Japanese and you didn't understand the sermon, ask God what he is teaching or encouraging you by being in that setting.
 
 ## Book Reports
 

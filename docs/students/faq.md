@@ -1,13 +1,13 @@
 ﻿---
 id: faq
-title: DTS FAQ
+title: Course FAQ
 ---
 
 ## Applications
 
 ### How do I apply?
 
-You can apply by filling out the [DTS student application form](https://www.ywamsendai.org/en/dtsapp/).
+You can apply by filling out the [student application form](https://www.ywamsendai.org/en/dtsapp/).
 
 For more details about the application process, [click here](apply.md).
 
@@ -17,7 +17,7 @@ You will be required to pay a non-refundable application fee of ¥1,500 in order
 
 ### When is the application deadline?
 
-Applications are generally open up to one month before the DTS's Start Date.
+Applications are generally open up to one month before the course's Arrival Date.
 
 Please note that the application process may take some time, i.e. to receive your reference back.
 
@@ -27,11 +27,11 @@ We’ll let you know via email, and this will contain any further additional inf
 
 ### Why haven’t I heard back about my application?
 
-It can take up to 2 weeks for your application to be processed once it’s been submitted. If it’s already been this long and you haven’t heard back, we’re sorry! Please email us at people@ywamsendai.org
+It can take up to 2 weeks for your application to be processed once it’s been submitted. If it’s already been this long and you haven’t heard back, we’re sorry! Please email us at [ywamsendai.students@gmail.com](mailto:ywamsendai.students@gmail.com)
 
 ### Is there an age requirement to attend?
 
-You need to be at least 18 years old by the end of the DTS. In this case, you can apply when you are 17.
+You need to be at least 18 years old by the end of the course. In this case, you can apply when you are 17.
 
 ### Are there any language requirements to attend?
 
@@ -39,31 +39,33 @@ You need to be able to communicate in either English or Japanese comfortably.
 
 ### Do I need a visa to attend?
 
-As a short-term missionary training programme, the YWAM Sendai DTS may be undertaken either without a visa if you are already a resident of Japan or a national/citizen of the [visa exemption measures countries](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) (those that specify 90 days), or by applying for an [eVisa](https://www.evisa.mofa.go.jp/index). You may not take DTS on a visa of less than 90 days. Once you are accepted, we’ll send you further information, specific to you.
+A course may be undertaken either without a visa if you are already a resident of Japan or a national/citizen of the [visa exemption measures countries](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) (those that specify 90 days), or by applying for an [eVisa](https://www.evisa.mofa.go.jp/index). Regrettably, you may not attend one of our courses on a visa of less than 90 days. Once you are accepted, we’ll send you further information, specific to you.
 
 ## Finances
 
-### What do school fees cover?
+### What do course fees cover?
 
-#### Training Phase
+#### Training Fee
 
-The published Training Phase fee covers registration, lectures, weekday meals & snacks, accommodation, and necessary transportation expenses during the phase.
+The published Training fee covers accommodation, internet, course content, course-related travel, and refreshments.
 
-Personal expenses, weekend food, and airfare to and from Japan are not included in published Training Phase fees.
+Weekday meals are charged separately in cash. 
 
-**Note:** You will be issued with a transporation IC card (icsca) for use for DTS-related travel. This is not to be used for personal travel (e.g. on weekends). It is your responsibility to ensure that this card is not lost. In the case that the card is lost, there will be a **fee of ¥2,500 to replace it**. 
+All other personal expenses are not included in published Training fees.
 
-#### Outreach Phase
+**Note:** You will be issued with a transporation IC card (icsca) for use for course-related travel. This is not to be used for personal travel (e.g. on weekends). It is your responsibility to ensure that this card is not lost. In the case that the card is lost, there will be a **fee of ¥2,500 to replace it**. 
 
-The published Outreach Phase amount varies according to the cost of living in the nation where it occurs. This covers flights to and from overseas locations, main meals, accommodation, and necessary transportation expenses during the phase.
+#### Outreach Costs
 
-Personal expenses and any vaccination costs are not included in published Outreach Phase amount.
+For courses that include an Outreach Phase, the estimated cost will be communicated with you ahead of time. This varies according to the location and length of the Outreach. This generally covers transportation, main meals, accommodation, and any other necessary expenses.
+
+Personal expenses and any vaccination costs are not included in communicated Outreach Cost.
 
 ### How do I pay?
 
-You can find details on how to make registration fee and Training Phase fee payments on the [Payment page](../about/payment.md).
+You can find details on how to make Training Fee payments on the [Payment page](../about/payment.md).
 
-**Please note that the Outreach Phase amount is to be given in cash to a designated Outreach leader**
+**Please note that the Outreach Cost is to be given in cash to a designated Outreach leader**
 
 ### When are payments due?
 
@@ -97,7 +99,7 @@ You can find details on how to make registration fee and Training Phase fee paym
 
 ### Is housing provided?
 
-Yes. Housing nearby many of the DTS staff is provided and included in your school fees.
+Yes. Housing nearby many of the YWAM Sendai staff is provided and included in your Training fees.
 
 ### What is housing like?
 
@@ -111,17 +113,17 @@ The housing includes a washing machine and space to hang dry. There is also coin
 
 ### Can I live in my own housing if I want to?
 
-We are sorry, but no. As the DTS programme is a “live-learn environment,” attendees may not live outside of the DTS community.
+DTS: We are sorry, but no. As the DTS programme is a “live-learn environment,” attendees may not live outside of the DTS community.
 
-## DTS Living
+## School Life
 
-### Where is the DTS located?
+### Where is the school located?
 
-Located in the largest city in the Tohoku (North-East) region called Sendai, the DTS is located in the quiet suburbs of Ayashi. On one side is the Zao mountain range, on the other side is the bustling central downtown of Sendai. Further past downtown is the ocean. So mountains, forests, city, and ocean are all within easy access!
+Located in the largest city in the Tohoku (North-East) region called Sendai, the school is located in the quiet suburbs of Ayashi. On one side is the Zao mountain range, on the other side is the bustling central downtown of Sendai. Further past downtown is the ocean. So mountains, forests, city, and ocean are all within easy access!
 
 ### How many hours of class do I have?
 
-If it is a bilingual DTS, lecture time is around 16 hours per week. If monolingual, lecture is around 12 hours. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
+Generally, if it is a bilingual course, lecture time is around 16 hours per week. If monolingual, lecture is around 12 hours. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
 
 ### What is work duty and how much of it do I have?
 
@@ -133,11 +135,11 @@ Within walking distance (20 to 30min) from the DTS housing are convenience store
 
 ### Is food provided for me?
 
-Yes. Breakfast, snacks, lunch, and dinner are provided daily on weekdays. You will also have access to any leftovers during the weekend. The cost of food on lecture days is included in your training fees. Meals will be prepared both by staff and students (work duties).
+Weekday breakfast, lunch, and dinner are provided at an additional cost during Training. Meals will be prepared both by staff and students (work duties).
 
-### Does the DTS have food available for people with dietary restrictions and/or allergies?
+### Will food be available for people with dietary restrictions and/or allergies?
 
-Please tell us any dietary restrictions and/or allergies when registering for the DTS so we can keep this in mind when meals are prepared.
+Please tell us any dietary restrictions and/or allergies when applying for a course so we can keep this in mind when meals are prepared.
 
 ### How do I receive mail?
 
@@ -145,7 +147,7 @@ We will provide you with a postal address you can use to receive mail or package
 
 ### Are there any Health Care facilities?
 
-There are multiple health care facilities in the local area that can be accessed by walking, bus, train, or taxi. We can provide more information on arrival. If you have a medical emergency while here, please call 119 immediately, tell them *kyūkyū*, and then tell your DTS staff when possible.
+There are multiple health care facilities in the local area that can be accessed by walking, bus, train, or taxi. We can provide more information on arrival. If you have a medical emergency while here, please call 119 immediately, tell them *kyūkyū*, and then tell YWAM Sendai staff when possible.
 
 ### What can I do during free time?
 
@@ -159,7 +161,7 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
-You will need to pack your belongings in a way that you will be able to personally carry them to the DTS Training location, as well as throughout Outreach Phase. **You will not be able to leave anything in Sendai during Outreach Phase.**
+You will need to pack your belongings in a way that you will be able to personally carry them to the Training location, as well as throughout any Outreach. **You will not be able to leave anything in Sendai during Outreach Phase.**
 
 Especially because of carrying the luggage around during Outreach, we ask that you carry no more than two pieces of luggage:
 

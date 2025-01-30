@@ -13,7 +13,7 @@ For more details about the application process, [click here](apply.md).
 
 ### Are there any fees involved with applying?
 
-It is free to apply for the DTS, but you will be required to pay a deposit of ¥100,000 once you have been accepted. You will only be registered for the DTS once we have received this deposit.
+You will be required to pay a non-refundable application fee of ¥1,500 in order to submit your application.
 
 ### When is the application deadline?
 
@@ -45,11 +45,13 @@ As a short-term missionary training programme, the YWAM Sendai DTS may be undert
 
 ### What do school fees cover?
 
-#### Lecture Phase
+#### Training Phase
 
-The published Lecture Phase fee covers registration, lectures, weekday meals & snacks, accommodation, and necessary transportation expenses during the phase.
+The published Training Phase fee covers registration, lectures, weekday meals & snacks, accommodation, and necessary transportation expenses during the phase.
 
-Personal expenses, weekend food, and airfare to and from Japan are not included in published Lecture Phase fees.
+Personal expenses, weekend food, and airfare to and from Japan are not included in published Training Phase fees.
+
+**Note:** You will be issued with a transporation IC card (icsca) for use for DTS-related travel. This is not to be used for personal travel (e.g. on weekends). It is your responsibility to ensure that this card is not lost. In the case that the card is lost, there will be a **fee of ¥2,500 to replace it**. 
 
 #### Outreach Phase
 
@@ -59,25 +61,25 @@ Personal expenses and any vaccination costs are not included in published Outrea
 
 ### How do I pay?
 
-You can find details on how to make registration fee and Lecture Phase fee payments on the [Payment page](../about/payment.md).
+You can find details on how to make registration fee and Training Phase fee payments on the [Payment page](../about/payment.md).
 
 **Please note that the Outreach Phase amount is to be given in cash to a designated Outreach leader**
 
 ### When are payments due?
 
-#### Lecture Phase
+#### Training Phase
 
 - After acceptance: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: Remaining balance for the DTS’s Lecture Phase is due (27 September 2024).
+- 10 days before Start Date: Remaining balance is due.
 
 #### Outreach Phase
 
-- 28 days after Start Date: ¥150,000 deposit (per person) is due (4 November 2024).
-- 56 days after Start Date: Remaining amount is due (2 December 2024). 
+- 28 days after Start Date: ¥100,000 deposit (per person) is due.
+- 56 days after Start Date: Remaining balance is due. 
 
 ### What is the refund policy?
 
-#### Lecture Phase
+#### Training Phase
 
 - Before Arrival Day: 100%
 - Leave on or before the 2nd Sunday of the school: 85%
@@ -85,12 +87,6 @@ You can find details on how to make registration fee and Lecture Phase fee payme
 - Leave on or before the 4th Sunday of the school: 60%
 - Leave on or before the 5th Sunday of the school: 50%
 - Any time after the 5th Sunday is non-refundable.
-
-### What if I lose my transportation IC card?
-
-You will be issued with a transporation IC card (icsca) for use for DTS-related travel. This is not to be used for personal travel (e.g. on weekends).
-
-It is your responsibility to ensure that this card is not lost. In the case that the card is lost, there will be a **fee of ¥2,500 to replace it**. 
  
 #### Outreach Phase
 
@@ -163,32 +159,31 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
-You will need to pack your belongings in a way that you will be able to personally carry them to the DTS Lecture location, as well as throughout Outreach Phase. **You will not be able to leave anything in Sendai during Outreach Phase.**
+You will need to pack your belongings in a way that you will be able to personally carry them to the DTS Training location, as well as throughout Outreach Phase. **You will not be able to leave anything in Sendai during Outreach Phase.**
 
 Especially because of carrying the luggage around during Outreach, we ask that you carry no more than two pieces of luggage:
 
 - A small everyday backpack
-- A hiking backpack at a size you can comfortably carry, or a small to medium-sized case with a volume of no more than 80L (no large cases please!)
+- A hiking backpack at a size you can comfortably carry, or a small to medium-sized case with a volume of no more than 80L (**no large cases please!**)
 
 Here’s a basic list of things that you’ll **need** for your time here at YWAM Sendai:
 
-- Passport (must be valid for at least six months after DTS has graduated)
+- Passport (must be valid for at least six months after the school's Departure Date)
 - Proof of health insurance (must be valid for Japan)
 - Bible
 - Something to take notes with
 - Towel
 - Personal toiletry items
-- Winter clothing
-- Warm coat
-- Sleeping bag & pillow for outreach
+- Clothing suited for season
+- Sleeping bag & travel pillow for outreach
  
 Here’s an additional list of recommended items:
 
-- Small packaged snacks for gifts representing your nation (This is beneficial for meeting Japanese people after you arrive, including at church)
+- Small packaged snacks or gifts representing your nation (Beneficial for meeting Japanese people after you arrive, including at church)
 - Travel mug for hot drinks
 - Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
 - Foldable umbrella
-- Small mirror (limited use of shared bathroom in mornings)
+- Small mirror (limited use of shared bathroom)
 
 ### Do I need to buy health insurance?
 
@@ -206,8 +201,10 @@ Make sure you have paid any fees due, prior to any deadlines.
 
 If you don't know already, it is probably worth learning a bit about [Japanese culture](../community/culture.md) and learning some basic [Japanese](../community/language.md) before arrival!
 
+### When can I plan on arriving and departing?
+
+You will be provided with accommodation from the school's Arrival Date up until the Departure Date. Any accommodation outside of these dates will be your responsibility.
+
 ### To where and when shall I book my transport tickets?
 
-If you are coming from overseas, we highly recommend choosing a flight route that arrives in Sendai International Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
-
-The arrival and departure days will be advertised on the DTS page on the YWAM Sendai website. If you arrive earlier, or depart later, please be aware that you will need to find your own accommodation.
+If you are coming from overseas, we recommend choosing a flight route that arrives at Sendai International Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.

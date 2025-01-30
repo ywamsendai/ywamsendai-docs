@@ -3,6 +3,7 @@
     "",
     "\\docs",
     "\\docs\\about",
+    "\\docs\\community",
     "\\docs\\dts",
     "\\i18n",
     "\\i18n\\ja",
@@ -10,5 +11,6 @@
     "\\i18n\\ja\\docusaurus-plugin-content-docs\\current",
     "\\i18n\\ja\\docusaurus-plugin-content-docs\\current\\dts"
   ],
+  "SelectedNode": "\\docs\\community\\visaApply.md",
   "PreviewInSolutionExplorer": false
 }

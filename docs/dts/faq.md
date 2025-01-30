@@ -11,11 +11,11 @@ You can apply by filling out the [DTS student application form](https://www.ywam
 
 For more details about the application process, [click here](apply.md).
 
-### Are there any fees involved with applying or registering?
+### Are there any fees involved with applying?
 
-It is free to apply for a DTS, but there is a registration fee of ¥5,000 once you have been accepted.
+There is an application fee of ¥1,500 in order to apply for any of our schools.
 
-Registration fees are non-refundable. In the case of a change of plans, the fee may be transferred to a later course – for up to 2 years.
+Application fees are non-refundable. In the case of a change of plans, the fee may be transferred to a later course – for up to 2 years.
 
 ### When is the application deadline?
 
@@ -29,7 +29,7 @@ We’ll let you know via email, and this will contain any further additional inf
 
 ### Why haven’t I heard back about my application?
 
-It can take up to 2 weeks for your application to be processed once it’s been submitted. If it’s already been this long and you haven’t heard back, we’re sorry! Please email us at people@ywamsendai.org
+It can take up to 2 weeks for your application to be processed once it’s been submitted. If it’s already been this long and you haven’t heard back, we’re sorry! Please email us at ywamsendai.students@gmail.com
 
 ### Is there an age requirement to attend?
 
@@ -47,37 +47,40 @@ As a short-term missionary training programme, the YWAM Sendai DTS may be undert
 
 ### What do school fees cover?
 
-#### Lecture Phase
+#### Training Phase
 
-The Lecture Phase fee covers lectures, main meals (besides weekends), accommodation, and necessary transportation expenses during the phase.
+The Training Phase fee covers accommodation, internet, course content, course-related travel, and refreshments.
 
-Personal expenses, weekend lunches, and airfare to and from Japan are not included in published Lecture Phase fees.
+Meals during the Training Phase will have an additional cost and will be paid for separately in cash.
+Each student will be responsible for all other personal expenses.
 
 #### Outreach Phase
 
-The outreach phase fee varies according to the cost of living in the nation where it occurs. This generally covers flights to and from overseas locations, main meals, accommodation, and necessary transportation expenses during the phase.
+The cost of the outreach phase varies depending on the costs of the location where it will take place. An estimate of the cost of flights to and from overseas locations, main meals, accommodation, and necessary transportation expenses during the phase will be communicated ahead of time. The Outreach Phase will be paid for separately in cash.
 
-Personal expenses and any vaccination costs are not included in published outreach phase fees.
+Each student will be responsible for all other personal expenses.
 
 ### How do I pay?
 
-You can find details on how to make payments on the [Payment page](../community/payment.md).
+You can find details on how to make payments for the Training Phase on the [Payment page](../community/payment.md).
+
+Training Phase meals and all Outreach Phase costs will be paid for in **cash only**. 
 
 ### When are payments due?
 
-#### Lecture Phase
+#### Training Phase
 
 - 75 days before Start Date: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: The remaining balance for the DTS’s Lecture Phase is due.
+- 10 days before Start Date: The remaining balance for the DTS’s Training Phase is due.
 
 #### Outreach Phase
 
-- 28 days after Start Date: ¥150,000 deposit (per person) is due.
-- 56 days after Start Date: All remaining fees are due for the DTS’s Outreach Phase. 
+- 28 days after Start Date: ¥100,000 deposit (per person) is due.
+- 56 days after Start Date: The remaining balance for the DTS’s Outreach Phase is due.
 
 ### What is the refund policy?
 
-#### Lecture Phase
+#### Training Phase
 
 - Before Arrival Day: 100%
 - Leave on or before the 2nd Sunday of the school: 85%
@@ -131,7 +134,7 @@ Within walking distance (20 to 30min) from the DTS housing are convenience store
 
 ### Is food provided for me?
 
-Yes. Breakfast, lunch, and dinner are provided daily on weekdays, while breakfast and dinner are optionally provided over weekends. The cost of food is included in your training fees. Meals will be prepared both by staff and students (work duties).
+Breakfast, lunch, and dinner will be available on weekdays at an additional cost. Meals will be prepared both by staff and students (work duties).
 
 ### Does the DTS have food available for people with dietary restrictions and/or allergies?
 
@@ -157,28 +160,27 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
-Here’s a basic list of things that you’ll **need** for your time here at YWAM Sendai:
+Here’s a basic list of **essential** things for your time here at YWAM Sendai:
 
-- Passport (must be valid for at least six months after DTS has graduated)
+- Passport (must be valid for at least six months after the school End Date)
 - Proof of health insurance (must be valid for Japan)
 - Bible
 - Something to take notes with
-- Stationery (pencil, ruler, colouring pens/pencils)
 - Towel
 - Personal toiletry items
-- Winter clothing
-- Warm coat
-- Sleeping bag
-- Backpack or suitcase for outreach
-- Pillow for outreach
+- Clothing suited to the season
+- Backpack or small suitcase for outreach
+- Sleeping bag for outreach
+- Travel pillow for outreach
  
 Here’s an additional list of recommended items:
 
-- Small packaged snacks for gifts representing your nation (This is beneficial for meeting Japanese people after you arrive, including at church)
+- Small packaged snacks or gifts representing your nation (Beneficial for meeting Japanese people after you arrive, including at church)
 - Travel mug for hot drinks
 - Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
+- Stationery (pencil, ruler, colouring pens/pencils)
 - Foldable umbrella
-- Small mirror (limited use of shared bathroom in mornings)
+- Small mirror (limited use of shared bathroom)
 
 ### Do I need to buy health insurance?
 
@@ -190,6 +192,10 @@ Make sure you have paid any fees due, prior to any deadlines.
 
 If you don't know already, it is probably worth learning a bit about [Japanese culture](../lifeinjapan/culture.md) and learning some basic [Japanese](../lifeinjapan/language.md) before arrival!
 
+### When should I plan to arrive and depart?
+
+School accommodation will be available from the published Start date until the End date. Any accommodation needed around these times will be the responsibility of each student.
+
 ### Where shall I book my transport tickets to?
 
-If you are coming from overseas, we highly recommend choosing a flight route that arrives in either Sendai International Airport, or Yamagata Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
+If you are coming from overseas, we recommend choosing a flight route that arrives at Sendai International Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.

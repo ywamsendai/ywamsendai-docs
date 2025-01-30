@@ -1,16 +1,16 @@
 ---
 id: communication
-title: Communication
+title: コミュニケーション
 ---
 
-This page describes how YWAMers in Sendai communicate with each other.
+このページでは、仙台ワイワムのスタッフと学生がどのようにコミュニケーションを取るかについて説明しています。
 
-## Chat
+## チャット
 
-The backbone of YWAM Sendai (and Japan) communication is [Discord](https://discord.com/).
+仙台ワイワム（そして日本全体）のコミュニケーションの中心は[Discord](https://discord.com/)です。
 
-To connect with our community, [click here to join our server](https://discord.gg/djmCF4DBaV).
+私たちのコミュニティに参加するには、[こちらをクリックしてサーバーに参加してください](https://discord.gg/djmCF4DBaV)。
 
-### Support
+### サポート
 
-If you run into any problems, or need to ask a question, let Gary know!
+問題が発生した場合や質問がある場合は、ギャリーに知らせてください！

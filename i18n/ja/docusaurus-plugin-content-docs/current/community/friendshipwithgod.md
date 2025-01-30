@@ -5,7 +5,7 @@ title: Friendship With God
 
 Our relationship with God is the most precious gift we have as believers. This relationship should never be negatively affected by being too busy with ministries or other YWAM scheduled events and meetings. We want to foster a culture of going deeper with God, both as individuals and as a community. We want to be a community that moves out of a place of rest, filled with joy and peace. Plus, we will only replicate in Japan what we ourselves carry!
 
-As individuals, each staff is encouraged to invest time daily in fostering friendship with God through intimacy with the Holy Spirit. Since everyone relates with God in different ways depending on personality and Christian background, there is no prescription for how to foster this friendship. But sometimes we need help and guidance, so we wanted to share a few ways to help.
+As individuals, each staff and student is encouraged to invest time daily in fostering friendship with God through intimacy with the Holy Spirit. Since everyone relates with God in different ways depending on personality and Christian background, there is no prescription for how to foster this friendship. But sometimes we need help and guidance, so we wanted to share a few ways to help.
 
 As a community, we try to incorporate different forms of worship and prayer during weekly corporate times. But try also to explore different ways that can assist you in deepening your friendship with God, personally.
 

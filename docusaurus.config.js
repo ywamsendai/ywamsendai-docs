@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'YWAM Sendai Docs',
-  tagline: 'Making God Known to the Japanese, Documented',
+  title: 'YWAM UofN Sendai Handbook',
+  tagline: 'Know God and Make Him Known in Tohoku, Japan, and Beyond!',
   url: 'https://docs.ywamsendai.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -73,10 +73,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'YWAM Sendai Documentation',
+        title: 'HANDBOOK',
         logo: {
           alt: 'YWAM Sendai Logo',
-            src: 'img/ywamsendailogo.png',
+            src: 'img/ywamsendailogoblk.png',
+            srcDark: 'img/ywamsendailogo.png',
         },
         items: [
           {
@@ -93,15 +94,15 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'lifeinjapan/gettingsettled',
+            docId: 'staff/join',
             position: 'left',
-            label: 'Life in Japan',
+            label: 'Staff',
           },
           {
             type: 'doc',
-            docId: 'dts/faq',
+            docId: 'students/welcome',
             position: 'left',
-            label: 'DTS',
+            label: 'Students',
           },
           {
             type: 'localeDropdown',
@@ -130,12 +131,12 @@ const config = {
                 to: '/docs/community/communication',
               },
               {
-                label: 'Life in Japan',
-                to: '/docs/lifeinjapan/gettingsettled',
+                label: 'Staff',
+                to: '/docs/staff/join',
               },
               {
-                label: 'DTS',
-                to: '/docs/dts/faq',
+                label: 'Students',
+                to: '/docs/students/welcome',
               },
             ],
           },
@@ -148,7 +149,7 @@ const config = {
               },
               {
                 label: 'X',
-                href: 'https://www.twitter.com/ywamsendai',
+                href: 'https://www.x.com/ywamsendai',
               },
             ],
           },
@@ -156,8 +157,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Join',
-                to: '/docs/community/join',
+                label: 'Apply for DTS',
+                to: '/docs/students/apply',
               },
               {
                 label: 'GitHub',

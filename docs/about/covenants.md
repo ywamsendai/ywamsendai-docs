@@ -37,10 +37,3 @@ Words specific to YWAM Sendai
 5. Christian unity (bridge between islands, Eph 4:1-16, John 17:20-23)
 6. Rebuilding and restoring (Sendai, broken people)
 7. Pioneer all prefectures of Tohoku
-
-## Words for YWAM Japan
-
-1. Speaking the truth in love
-2. We are the temple
-3. Building the altar of worship
-4. Culture of honour

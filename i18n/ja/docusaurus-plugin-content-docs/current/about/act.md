@@ -35,4 +35,9 @@ On top of these responsibilities, any YWAMer who has issues with the leadership 
 
 ### Current Members
 
-Coming soon!
+- Sandy Gibbard (YWAM Taito, Tokyo) - Convener
+- JP & Katie Corhern (YWAM Tokyo)
+- Jose & Maegan Diaz (YWAM Oita)
+- Greg & Rachel Lilley (YWAM Niseko)
+- Gary & Naoko Seddon (YWAM Sendai)
+- Eric & Plemena Williamson (YWAM Osaka)

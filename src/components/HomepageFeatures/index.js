@@ -18,25 +18,25 @@ const FeatureList = [
     address: '/docs/community/communication',
     description: (
       <>
-        All you need to know about being a part of the YWAM Sendai community.
+        All you need to know about being a part of the YWAM Sendai community - for both staff and students!
       </>
     ),
   },
   {
-    title: 'Life in Japan',
-    address: '/docs/lifeinjapan/gettingsettled',
+    title: 'Staff',
+    address: '/docs/staff/join',
     description: (
       <>
-        Some helpful tips and advice on life in Japan.
+        All you need to know about staffing at YWAM Sendai!
       </>
     ),
   },
   {
-    title: 'DTS',
-    address: '/docs/dts/faq',
+    title: 'Students',
+    address: '/docs/students/apply',
     description: (
       <>
-        All you need to know about DTS in Sendai--for both students and staff!
+        All you need to know about being a student at YWAM UofN Sendai!
       </>
     ),
   },

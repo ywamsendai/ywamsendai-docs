@@ -1,20 +1,20 @@
 ---
 id: ywam
-title: About YWAM International
+title: 国際ワイワムについて
 ---
 
-**Youth With A Mission is a global movement of Christians from many cultures, age groups and Christian traditions, dedicated to serving Jesus throughout the world.**
+**「Youth With A Mission（ユース・ウィズ・ア・ミッション）は、さまざまな文化、年齢層、クリスチャンの伝統に属する人々からなる、世界中でイエスに仕えることを使命としたグローバルなクリスチャン運動です。**
 
-Also known as YWAM (pronounced “WHY-wham”), we unite in a common purpose to know God and to make Him known.
+YWAM（「ワイワム」と発音します）とも呼ばれ、神を知り、神を伝えることを共通の目的として団結しています。
 
-Back when we began in 1960, our main focus was to help youth get involved in missions.
+1960年に私たちが始まった当初は、若者が宣教に関わる手助けをすることに重点を置いていました。
 
-Today, we still focus on youth and we also include people of all ages. We currently have tens of thousands of staff (called “YWAMers”) from nearly every country, including places like Indonesia, Nepal, Mozambique, and Colombia.
+今日では、依然として若者に重点を置きつつ、すべての年齢層の人々も含めています。現在、インドネシア、ネパール、モザンビーク、コロンビアなどを含む、ほぼすべての国から数万人のスタッフ（「ワイワマー」と呼ばれます）がいます。
 
-## A Family of Ministries
+## ミニストリーのファミリー
 
-We reach out in 180+ countries through three main areas — Evangelism, Training and Mercy Ministry.
+私たちは、宣教、訓練、慈善事業という3つの主要分野を通じて、180を超える国々で活動しています。
 
-Our ministries cover every sphere of society, including ship-based medical care, performing arts teams, Bible training programs, business coaching, sports ministries, anti-trafficking work, and many more.
+私たちのミニストリーは、船を使った医療活動、パフォーミングアーツのチーム、聖書訓練プログラム、ビジネスコーチング、スポーツミニストリー、人身売買防止活動など、あらゆる社会分野に及んでいます。
 
-YWAM functions as a family of ministries rather than a centralized agency.
+ワイワムは、中央集権的な機関ではなく、ミニストリーのファミリーとして機能しています。

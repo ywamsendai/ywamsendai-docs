@@ -1,46 +1,46 @@
 ---
 id: ywamsendai
-title: About YWAM Sendai
+title: 仙台ワイワムについて
 ---
 
-This page outlines some of the main values we share as a pioneering missional community in Sendai. We are praying for more people to join us, so please read our values and we welcome you to prayerfully consider joining us!
+このページでは、仙台にある私たちの開拓的なミッショナルコミュニティが共有する主な価値観をいくつかご紹介します。私たちはさらに多くの仲間が加わることを祈っているので、ぜひこれらの価値観をお読みいただき、祈りつつ参加をご検討ください。
 
-## Where is Sendai?
+## 仙台はどこにありますか？
 
-Tohoku is the northernmost region of Honshu, the main island of Japan, and includes 6 prefectures. The total population is just over 9 million. It is one of the least reached areas of Japan by the gospel. 
+東北は日本の本州の最北端に位置し、6つの県から成り立っています。総人口は約900万人で、福音が最も届いていない地域の一つです。
 
-The vision to pioneer YWAM in Tohoku has been growing since the 2011 earthquake and tsunami. Since then, we have been taking vision trips there to seek God’s guidance, and sense that Sendai city in Miyagi prefecture is the place to start!
+2011年の東日本大震災と津波以来、東北におけるワイワムの開拓のビジョンは成長してきました。それ以来、神の導きを求めてビジョントリップを行い、宮城県の仙台市がスタート地点であると感じています。
 
-Sendai, populated by over a million people, is the ‘hub’ of Tohoku. We feel Sendai is to be a springboard to pioneering further Operating Locations and ministries in the rest of Tohoku. YWAM Sendai was officially established in Summer/Autumn 2018.
+仙台は100万人以上の人口を持つ東北の「ハブ」とされており、私たちは仙台が東北の他の地域にも開拓地やミニストリーを広げるための出発点となると感じています。仙台ワイワムは2018年の夏から秋にかけて正式に設立されました。
 
-## Distinctive Values
+## 独自の価値観
 
-Building on YWAM’s Foundational Values and a desire to worship God in all that we do, we feel that the following values are also foundational to what God wants us to do in Sendai.
+ワイワムの基本的な価値観に基づき、私たちはすべての行動で神を礼拝したいという願いを持っています。そして、以下の価値観が仙台で神が私たちに与えてくださっているビジョンの基盤となるものだと感じています。
 
-### Authentic Japanese Christianity
+### 本物の日本的キリスト教
 
-Japanese identity is deeply entangled with Shinto and Buddhist related culture and customs, being especially strong in rural Tohoku. Because Christianity is relatively new to Japan, and that it often looks and feels Western, the Japanese tend to view it as being a “Western religion”. It is common to hear someone say “I would love to be a Christian, but I am Japanese.” We long for this to change!
+日本のアイデンティティは、特に東北の農村部において、神道や仏教に関連する文化や慣習と深く結びついています。キリスト教は日本では比較的新しいものであり、しばしば西洋的に見られるため、日本人はキリスト教を「西洋の宗教」と見なすことが多いです。「キリスト教徒になりたいけれど、私は日本人です」と言う人も珍しくありません。この状況を変えたいと私たちは強く願っています。
 
-We believe that for the gospel to truly take root in Japan, we as missionaries need to communicate the gospel in a Japanese way. For this reason, as a community, we will be intentional in functioning bilingually in English and Japanese, and doing our best to be culturally fluent. All foreign staff will be expected to study the Japanese language and culture. (Having said that, our hope is for YWAM Sendai to become an international mission ‘hub’ for YWAM in Tohoku, so we also acknowledge the importance of English!)
+福音が日本で本当に根付くためには、私たち宣教師が日本的な方法で福音を伝える必要があると信じています。したがって、私たちのコミュニティでは、英語と日本語のバイリンガルで活動することを意識し、文化的に流暢になるために最善を尽くします。外国人スタッフは全員、日本語と日本文化を学ぶことが求められます。（それでも、仙台ワイワムが東北における国際的なミッションの「ハブ」となることを目指しているため、英語の重要性も認識しています！）
 
-### Church Unity
+### 教会の一致
 
-Churches and mission organisations in Japan struggle to communicate, pray for, and work with each other. But we believe that church unity holds the key to true revival in Japan. Therefore, we wish to actively seek relationship with believers from every church and mission organisation. We want our lifestyle and work to reflect our desire for church unity. Having said that, we must not be afraid to offend the ‘status-quo’ and be all that God wants us to be. This is because we also believe we are called to radically live out the Bible in 21st-century Japan- however way that looks!
+日本の教会や宣教団体は、互いに連絡を取り合ったり、祈り合ったり、協力することが難しい現状です。しかし、私たちは教会の一致が日本での真のリバイバルの鍵であると信じています。したがって、私たちはすべての教会や宣教団体の信者たちとの関係を積極的に求めたいと考えています。私たちのライフスタイルや働きが、教会の一致を求める私たちの願いを反映させるものにしたいのです。しかし、同時に「現状維持」を恐れずに、神が私たちに望まれる姿を大胆に生きることも重要です。なぜなら、私たちは21世紀の日本で聖書の教えを徹底的に生きるように召されていると信じているからです。
 
-### Always Pioneering
+### 常に開拓者であること
 
-As Tohoku is a large region that is mostly unreached by the gospel, we want to see a YWAM community pioneered in all of the other prefectures. Therefore, it is our heart to not only grow as a community in Sendai, but also to champion and release our members to spread God’s work through YWAM in surrounding areas from an early stage. Many smaller YWAM communities are more effective than just one large base!
+東北は福音がほとんど届いていない広大な地域であるため、私たちは他の県にもワイワムのコミュニティを開拓することを目指しています。そのため、仙台でコミュニティとして成長するだけでなく、メンバーを早い段階から周辺地域に送り出し、ワイワムの働きを広げていくことも私たちの願いです。多くの小さなワイワムのコミュニティが、一つの大きな基地よりも効果的であることが多いのです！
 
-## Ministries
+## ミニストリー
 
-### Evangelism
+### 福音宣教
 
-A vast majority of people in Tohoku do not know Jesus. We should seek the creativity of the Holy Spirit in order to share the gospel by means of media, arts, preaching and supernatural manifestation, as well as simply sharing our lives with people. Looking ahead, we want to be involved in outreach during the 2019 Rugby World Cup which will include one town in Tohoku: Kamaishi. We also want to intercede for and send a team down to the 2020 Tokyo Olympics!
+東北の大多数の人々はイエスを知りません。私たちはメディア、アート、説教、超自然的な現象、そして単に人々と生活を共にすることなどを通じて、聖霊の創造性を求めて福音を伝えるべきだと考えています。
 
-### Training
+### 訓練
 
-We are committed to disciple the Japanese, and those who God places in our community, through teaching the Word, helping them realise their original design, encouraging them to wholeheartedly pursue God and to receive all He has for them. In the future, we would love to have a bilingual DTS ran in Sendai, as well as other YWAM schools and discipleship programmes aimed especially at the Japanese.
+私たちは、御言葉を教え、神がデザインされた本来の姿を理解させ、心から神を追い求め、神が用意してくださるすべてを受け取るように促すことで、日本人や私たちのコミュニティに置かれた人々を弟子化することにコミットしています。現在、私たちはバイリンガルのDTSを運営しています。将来的には、特に日本人を対象とした、または日本人にアプローチする他のワイワムUofNの学校や弟子訓練プログラムも提供したいと考えています。
 
-### Mercy
+### メルシー
 
-Just as Jesus walked in love and mercy, we also seek to respond to the physical and spiritual needs of the area. Although Japan is a wealthy nation, there are many areas of need in society such as depression, loneliness, and homelessness. We also want to play an active part in the work of bringing healing and restoration among the victims of the 2011 earthquake and tsunami.
+イエスが愛と憐れみをもって歩まれたように、私たちもこの地域の肉体的および霊的なニーズに応えたいと願っています。日本は豊かな国ですが、うつ、孤独、ホームレスなど、多くの社会的な問題があります。また、2011年の震災と津波の被害者たちに癒しと回復をもたらす働きにも積極的に参加したいと考えています。

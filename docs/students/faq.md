@@ -103,7 +103,7 @@ Yes. Housing nearby many of the YWAM Sendai staff is provided and included in yo
 
 ### What is housing like?
 
-Housing is generally basic, but comfortable! All students will live in shared housing with other students and have access to a small kitchen and bathroom. There will also be heating, as it will be Winter!
+Housing is generally basic, but comfortable! All students will live in shared housing with other students and have access to a small kitchen and bathroom. There will also be air-conditioning or heating, depending on the season.
 
 Surrounding the housing are rice fields and views of the mountains, which facilitates quiet times. The one downside is it is around a 20min walk to the nearest convenience store and train station (which has easy access to central Sendai), and 30mins to the supermarket.
 

@@ -1,7 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-import {themes as prismThemes} from 'prism-react-renderer';
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -53,20 +54,18 @@ const config = {
   ],
 
   themes: [
+    // ... Your other themes.
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
+      {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-
-        // For Docs using Chinese, it is recomended to set:
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
         // language: ["en", "zh"],
-
-        // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
-        // forceIgnoreNoIndex: true,
-      }),
+        // ```
+      },
     ],
   ],
 
@@ -171,10 +170,10 @@ const config = {
         copyright: `${new Date().getFullYear()} no rights reserved - made with ❤️ by YWAMSendai.org`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
       },
     }),
 };
 
-export default config;
+module.exports = config;

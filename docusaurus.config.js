@@ -1,8 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -33,7 +32,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -47,25 +46,27 @@ const config = {
             'https://github.com/ywamsendai/ywamsendai-docs/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
   ],
 
   themes: [
-    // ... Your other themes.
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        // For Docs using Chinese, The `language` is recommended to set to:
-        // ```
+
+        // For Docs using Chinese, it is recomended to set:
         // language: ["en", "zh"],
-        // ```
-      },
+
+        // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
+        // forceIgnoreNoIndex: true,
+      }),
     ],
   ],
 
@@ -170,10 +171,10 @@ const config = {
         copyright: `${new Date().getFullYear()} no rights reserved - made with ❤️ by YWAMSendai.org`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
 
-module.exports = config;
+export default config;

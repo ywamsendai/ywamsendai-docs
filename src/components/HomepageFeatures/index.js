@@ -1,6 +1,5 @@
-import React from 'react';
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
+import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [

@@ -2,6 +2,10 @@
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// @ts-check
+
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
 /**
  * Creating a sidebar enables you to:
  - create an ordered group of docs

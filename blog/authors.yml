@@ -7,6 +7,10 @@ yangshun:
   socials:
     x: yangshunz
     github: yangshun
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
 
 slorber:
   name: Sébastien Lorber

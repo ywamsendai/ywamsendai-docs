@@ -1,7 +1,8 @@
 ---
-id: waste
-title: Waste System
+sidebar_position: 8
 ---
+
+# Waste System
 
 The waste system in Japan tends to be confusing to foreigners, and each town, city, or prefecture has their own rules. This page outlines the waste system rules for Sendai city.
 

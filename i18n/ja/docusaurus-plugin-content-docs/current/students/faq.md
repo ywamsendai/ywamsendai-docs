@@ -1,7 +1,8 @@
 ﻿---
-id: faq
-title: DTSよくある質問
+sidebar_position: 6
 ---
+
+# DTSよくある質問
 
 ## 出願について
 

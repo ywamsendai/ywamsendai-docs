@@ -1,7 +1,8 @@
 ---
-id: welcome
-title: 仙台ワイワムへようこそ！
+sidebar_position: 1
 ---
+
+# 仙台ワイワムへようこそ！
 
 こんにちは！仙台ワイワムUofN生徒ハンドブックへようこそ！
 
@@ -23,7 +24,7 @@ title: 仙台ワイワムへようこそ！
 
 - [課題](assignments.md)
 
-- [教会](churches.md)
+- [教会](../community/churches.md)
 
 - [DTS合格](passfail.md)
 
@@ -31,9 +32,9 @@ title: 仙台ワイワムへようこそ！
 
 ## コミュニティー生活
 
-- [緊急の場合](emergency.md)
+- [緊急の場合](../community/emergency.md)
 
-- [役に立つ英語フレーズ](helpfulphrases.md)
+- [役に立つ英語フレーズ](../community/helpfulphrases.md)
 
 
 左のメニュー、または画面左上のメニューボタンをタッチして、各ページにアクセスできます。

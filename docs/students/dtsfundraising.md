@@ -1,7 +1,8 @@
 ---
-id: dtsfundraising
-title: Fundraising for DTS
+sidebar_position: 8
 ---
+
+# Fundraising for DTS
 
 If you are planning on attending a DTS in Sendai, but you don't have the finances for it, you're in good company! People have done DTSes all over the world throughout the years not knowing how they will afford it. But God is our provider! If He is leading you to do a DTS in Japan, He is more than capable of providing all you need!
 

@@ -1,7 +1,8 @@
 ---
-id: welcome
-title: Welcome to YWAM Sendai!
+sidebar_position: 1
 ---
+
+# Welcome to YWAM Sendai!
 
 Hello! Welcome to the YWAM UofN Sendai Student Handbook!
 
@@ -23,7 +24,7 @@ Whether you are a current DTS student, or you're interested in attending the DTS
 
 - [Assignments](assignments.md)
 
-- [Churches](churches.md)
+- [Churches](../community/churches.md)
 
 - [How to successfully complete a DTS](passfail.md)
 
@@ -31,9 +32,9 @@ Whether you are a current DTS student, or you're interested in attending the DTS
 
 ## Community Life
 
-- [What to do in an emergency](emergency.md)
+- [What to do in an emergency](../community/emergency.md)
 
-- [Helpful Japanese phrases](helpfulphrases.md)
+- [Helpful Japanese phrases](../community/helpfulphrases.md)
 
 - [Japanese culture](../community/culture.md)
 

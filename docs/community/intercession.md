@@ -1,7 +1,8 @@
 ---
-id: intercession
-title: Principles for Effective Intercession
+sidebar_position: 5
 ---
+
+# Principles for Effective Intercession
 
 Joy Dawson
 

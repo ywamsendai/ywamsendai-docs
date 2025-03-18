@@ -1,7 +1,8 @@
 ---
-id: intercession
-title: 有効なとりなしのための原則
+sidebar_position: 5
 ---
+
+# 有効なとりなしのための原則
 
 ジョイ・ドーソン
 

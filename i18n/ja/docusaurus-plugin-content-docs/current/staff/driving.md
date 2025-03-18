@@ -1,7 +1,8 @@
 ---
-id: driving
-title: Getting A Japanese Driving Licence
+sidebar_position: 4
 ---
+
+# Getting A Japanese Driving Licence
 
 This page details what is necessary in order to receive a Japanese driving licence if you already have one in your home country.
 

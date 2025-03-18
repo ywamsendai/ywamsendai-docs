@@ -1,7 +1,8 @@
 ---
-id: friendshipwithgod
-title: Friendship With God
+sidebar_position: 4
 ---
+
+# Friendship With God
 
 Our relationship with God is the most precious gift we have as believers. This relationship should never be negatively affected by being too busy with ministries or other YWAM scheduled events and meetings. We want to foster a culture of going deeper with God, both as individuals and as a community. We want to be a community that moves out of a place of rest, filled with joy and peace. Plus, we will only replicate in Japan what we ourselves carry!
 

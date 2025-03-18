@@ -1,7 +1,8 @@
 ---
-id: payment
-title: Payments & Donations
+sidebar_position: 8
 ---
+
+# Payments & Donations
 
 The preferred method of making staff contributions, school fee payments, or donations is a bank transfer from your bank account to YWAM Sendai's Japan Post Bank account. The easiest way to send money is via your own Japan Post Bank account. The payment can be done either online via Japan Post Bank Direct (ゆうちょダイレクト) or via a Japan Post Bank ATM.
 

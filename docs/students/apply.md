@@ -1,7 +1,8 @@
 ﻿---
-id: apply
-title: Apply!
+sidebar_position: 7
 ---
+
+# Apply!
 
 If you feel you may be called to reach and love the Japanese in Japan, and you desire to grow in your love for God, we would love for you to enroll on our DTS!
 

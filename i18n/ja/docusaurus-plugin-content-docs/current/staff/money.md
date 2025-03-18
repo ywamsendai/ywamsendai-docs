@@ -1,7 +1,8 @@
 ---
-id: money
-title: Money
+sidebar_position: 5
 ---
+
+# Money in Japan
 
 ## Financial Records & Budgeting
 

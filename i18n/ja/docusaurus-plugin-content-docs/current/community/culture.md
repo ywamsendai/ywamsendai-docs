@@ -1,7 +1,8 @@
 ---
-id: culture
-title: Japanese Culture
+sidebar_position: 2
 ---
+
+# Japanese Culture
 
 We encourage all Sendai YWAMers to take special care to observe life in Japan in order to learn about Japanese culture, and to apply the Japanese way of life to our own lives. Though we expect each staff member to learn these things intentionally first-hand, we have compiled a list of some things to be aware of. It is as important to learn Japanese culture as it is to learn the language. But don't take yourself too seriously in the process! You will make mistakes! But the Japanese will be encouraged by your efforts to learn.
 

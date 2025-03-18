@@ -1,7 +1,8 @@
 ---
-id: whyjapan
-title: Why Japan and Tohoku?
+sidebar_position: 7
 ---
+
+# Why Japan and Tohoku?
 
 So why does Japan and Tohoku need missionaries? Isn’t it a developed country? Here are some reasons why we are here and why you may want to be involved in partnering with us.
 

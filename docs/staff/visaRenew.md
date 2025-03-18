@@ -1,7 +1,8 @@
 ---
-id: visaRenew
-title: Religious Activities Visa Renewal
+sidebar_position: 8
 ---
+
+# Religious Activities Visa Renewal
 
 If you are currently residing in Japan with a YWAM Japan issued visa, you can start the process of renewing your Religious Activities Visa from **3 months** prior to it expiring. We recommend starting the process of gathering the required documents prior to this. This page details this process. **Please follow this process carefully.**
 
@@ -29,7 +30,7 @@ Please find below a list of what you need in order to apply for your visa extens
 
 * If any of these documents are in another language other than English or Japanese, please also provide English or Japanese translations.
 
-* We have provided template documents for the church letters and you can ask your church to copy and paste the text of the correct wording into each letter and fill in the necessary information, such as your name, your church name, length of visa requested, and your pastorÅfs signature, into the relevant blank spaces. We standardised the wording to simplify the process because each of the letters must contain certain information and specific wording.
+* We have provided template documents for the church letters and you can ask your church to copy and paste the text of the correct wording into each letter and fill in the necessary information, such as your name, your church name, length of visa requested, and your pastorÔøΩfs signature, into the relevant blank spaces. We standardised the wording to simplify the process because each of the letters must contain certain information and specific wording.
 
-* The second church letter states that your sending church or organisation provides financial support of you during your time in Japan. This assurance is very important for Japanese Immigration, who would be concerned that immigrants become stranded or destitute while in Japan. It isnÅft that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, Japanese Immigration will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. **This letter is not a legally binding document requiring your church to meet your every need.** You can give [this letter](https://docs.google.com/document/d/1KKXTho_OyYNvdtzujvbaIqfp9yFA8uI2LY-5PyZIj2o/edit?usp=sharing) to the church or organisation leader to help explain this. If they are extremely uncomfortable with this, please let us know and we can try an alternate wording.
+* The second church letter states that your sending church or organisation provides financial support of you during your time in Japan. This assurance is very important for Japanese Immigration, who would be concerned that immigrants become stranded or destitute while in Japan. It isnÔøΩft that your church must technically promise to support your every need, because your missionary support will most likely come from many supporters. But in the spirit of the law, if one organisation will officially vouch for you, Japanese Immigration will be more comfortable to grant the visa. YWAM Japan must also vouch for you in this way. **This letter is not a legally binding document requiring your church to meet your every need.** You can give [this letter](https://docs.google.com/document/d/1KKXTho_OyYNvdtzujvbaIqfp9yFA8uI2LY-5PyZIj2o/edit?usp=sharing) to the church or organisation leader to help explain this. If they are extremely uncomfortable with this, please let us know and we can try an alternate wording.
 

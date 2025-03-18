@@ -1,7 +1,8 @@
 ---
-id: language2
-title: Japanese Language Stage 1 | Building a Foundation (Beginner)
+sidebar_position: 10
 ---
+
+# Japanese Language Stage 1 | Building a Foundation (Beginner)
 
 * **Defined by:** Study and memorisation
 * **Purpose:** Help you feel comfortable *enough* with the language to begin immersion

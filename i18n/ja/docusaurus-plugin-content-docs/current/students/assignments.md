@@ -1,7 +1,8 @@
 ---
-id: assignments
-title: DTS課題
+sidebar_position: 4
 ---
+
+# DTS課題
 
 DTSを成功裏に修了するためには、学校全体でいくつかの課題を完了する必要があります。
 

@@ -1,7 +1,8 @@
 ---
-id: disaster
-title: Disaster Preparation
+sidebar_position: 7
 ---
+
+# Disaster Preparation
 
 Japan is a country that experiences natural phenomena on a regular basis, such as earthquakes and typhoons. Sometimes, these can cause damage which can lead to emergency situations. This page details some ways we can be prepared.
 

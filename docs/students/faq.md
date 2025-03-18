@@ -1,7 +1,8 @@
 ﻿---
-id: faq
-title: Course FAQ
+sidebar_position: 6
 ---
+
+# Course FAQ
 
 ## Applications
 

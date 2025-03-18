@@ -1,7 +1,8 @@
 ---
-id: gettingsettled
-title: Getting Settled
+sidebar_position: 3
 ---
+
+# Getting Settled
 
 Settling into life in Japan can be a lot of work (and *paper*work!). It may feel like a lot, but please be assured your local YWAM community will assist you in each step to make sure you are settling well (and legally) into life in Japan.
 

@@ -1,7 +1,8 @@
 ---
-id: ywamsendailife
-title: Life at YWAM Sendai
+sidebar_position: 2
 ---
+
+# Life at YWAM Sendai
 
 Here is a glimpse of what life is like as a Sendai YWAMer on a weekly basis.
 

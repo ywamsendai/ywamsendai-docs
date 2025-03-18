@@ -1,7 +1,8 @@
 ﻿---
-id: passfail
-title: Successful Completion of the DTS
+sidebar_position: 5
 ---
+
+# Successful Completion of the DTS
 
 As the YWAM DTS is a programme registered with the University of the Nations, students receive a grade. For the DTS, this is either "Successful" (S) or "Unsuccessful" (U). This page outlines how to successfully complete the DTS, as well as the process for being unsuccessful.
 

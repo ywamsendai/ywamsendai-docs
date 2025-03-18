@@ -1,7 +1,8 @@
 ---
-id: covenants
-title: YWAM's Legacy Words and Covenants
+sidebar_position: 4
 ---
+
+# YWAM's Legacy Words and Covenants
 
 ## YWAM Legacy Words
 

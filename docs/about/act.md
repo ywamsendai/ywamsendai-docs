@@ -1,7 +1,8 @@
 ---
-id: act
-title: YWAM Japan Area Circle Team (ACT)
+sidebar_position: 6
 ---
+
+# YWAM Japan Area Circle Team (ACT)
 
 ## Areas and their Omega Zones
 

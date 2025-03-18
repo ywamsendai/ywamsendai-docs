@@ -1,7 +1,8 @@
 ---
-id: communication
-title: Communication
+sidebar_position: 1
 ---
+
+# Communication
 
 This page describes how both staff and students at YWAM Sendai communicate with each other.
 

@@ -1,7 +1,8 @@
 ---
-id: ywamsendai
-title: About YWAM Sendai
+sidebar_position: 2
 ---
+
+# About YWAM Sendai
 
 This page outlines some of the main values we share as a pioneering missional community in Sendai. We are praying for more people to join us, so please read our values and we welcome you to prayerfully consider joining us!
 

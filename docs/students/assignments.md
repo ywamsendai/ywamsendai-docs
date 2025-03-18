@@ -1,7 +1,8 @@
 ---
-id: assignments
-title: DTS Assignments
+sidebar_position: 4
 ---
+
+# DTS Assignments
 
 In order to successfully complete the DTS, there are assignments that need to be completed throughout the school.
 
@@ -43,7 +44,7 @@ Some of the weeks we will give you additional questions that will help you proce
 
 ### 5. Church
 
-During your time in the DTS you have the opportunity to be a part of the local body of Christ and this is part of your full learning week and a requirement for this DTS. You can find different options of the various churches in Sendai [here](churches.md). Feel free to visit different ones in the first few weeks and then commit to going to one regularly. 
+During your time in the DTS you have the opportunity to be a part of the local body of Christ and this is part of your full learning week and a requirement for this DTS. You can find different options of the various churches in Sendai [here](../community/churches.md). Feel free to visit different ones in the first few weeks and then commit to going to one regularly. 
 
 For this part of your journal assignment, write a paragraph about what God has spoken to you through the sermon, through conversations you had, or just by being at the church. If the church was in Japanese and you didn't understand the sermon, ask God what he is teaching or encouraging you by being in that setting.
 

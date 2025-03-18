@@ -1,7 +1,8 @@
 ---
-id: language
-title: Japanese Language Introduction
+sidebar_position: 9
 ---
+
+# Japanese Language Introduction
 
 As we want to reach the Japanese people with the gospel and speak heart-to-heart, we need to communicate fluently in Japanese. This is a high value for our community and we aim to transition YWAM Sendai to function bilingually in Japanese and English as soon as possible (though, as we are still in the stages of pioneering YWAM Sendai, we currently function mostly in English).
 

@@ -1,7 +1,8 @@
 ---
-id: biblepoverty
-title: End Bible Poverty Now
+sidebar_position: 3
 ---
+
+# End Bible Poverty Now
 
 We desire to end Bible poverty in Japan! Here are a few resources we can use in order to do this.
 

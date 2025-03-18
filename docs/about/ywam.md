@@ -1,7 +1,8 @@
 ---
-id: ywam
-title: About YWAM International
+sidebar_position: 1
 ---
+
+# About YWAM International
 
 **Youth With A Mission is a global movement of Christians from many cultures, age groups and Christian traditions, dedicated to serving Jesus throughout the world.**
 

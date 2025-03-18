@@ -1,7 +1,8 @@
 ---
-id: staffing
-title: Staffing Agreement
+sidebar_position: 1
 ---
+
+# Staffing Agreement
 
 This agreement lists the terms and conditions ("particulars") of all full-time Staff (simply referred to as 'Staff' throughout this statement) serving with Youth With A Mission (YWAM) Sendai.
 

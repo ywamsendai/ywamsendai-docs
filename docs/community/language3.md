@@ -1,7 +1,8 @@
 ---
-id: language3
-title: Japanese Language Stage 2 | Immersion (Intermediate)
+sidebar_position: 11
 ---
+
+# Japanese Language Stage 2 | Immersion (Intermediate)
 
 * **Defined by:** Exploring and immersing
 * **Purpose:** Learn through native content

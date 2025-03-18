@@ -1,7 +1,8 @@
 ﻿---
-id: guidelines
-title: DTS Guidelines
+sidebar_position: 3
 ---
+
+# DTS Guidelines
 
 In order to make the most of this short but intense DTS season, we have some guidelines to help us to honour and love each other as a community.
 

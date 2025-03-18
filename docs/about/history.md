@@ -1,7 +1,8 @@
 ---
-id: history
-title: The History of YWAM
+sidebar_position: 5
 ---
+
+# The History of YWAM
 
 From a late-night vision given to a 20-year-old in the Bahamas to a global ministry with over 20,000 workers, the growth of YWAM is the story of God’s inspiration, God’s grace for many mistakes, and the creativity of the Holy Spirit’s leading.
 

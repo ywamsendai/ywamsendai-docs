@@ -1,27 +1,36 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
+
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'YWAM UofN Sendai Handbook',
   tagline: 'Know God and Make Him Known in Tohoku, Japan, and Beyond!',
-  url: 'https://docs.ywamsendai.org',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+
+  // Set the production url of your site here
+  url: 'https://docs.ywamsendai.org',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ywamsendai', // Usually your GitHub org/user name.
-  projectName: 'ywamsendai-docs', // Usually your repo name.
+  // organizationName: 'facebook', // Usually your GitHub org/user name.
+  // projectName: 'docusaurus', // Usually your repo name.
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ja'],
@@ -37,14 +46,22 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ywamsendai/ywamsendai-docs/',
+            'https://github.com/ywamsendai/ywamsendaidocs/',
         },
         blog: {
           showReadingTime: true,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ywamsendai/ywamsendai-docs/',
+            'https://github.com/ywamsendai/ywamsendaidocs/',
+          // Useful options to enforce blogging best practices
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -53,67 +70,35 @@ const config = {
     ],
   ],
 
-  themes: [
-    // ... Your other themes.
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        // ... Your options.
-        // `hashed` is recommended as long-term-cache of index file is possible.
-        hashed: true,
-        // For Docs using Chinese, The `language` is recommended to set to:
-        // ```
-        // language: ["en", "zh"],
-        // ```
-      },
-    ],
-  ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Replace with your project's social card
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'HANDBOOK',
         logo: {
           alt: 'YWAM Sendai Logo',
-            src: 'img/ywamsendailogoblk.png',
-            srcDark: 'img/ywamsendailogo.png',
+          src: 'img/ywamsendailogoblk.png',
+          srcDark: 'img/ywamsendailogo.png',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'about/ywam',
+            type: 'docSidebar',
+            sidebarId: 'handbookSidebar',
             position: 'left',
-            label: 'What is YWAM Sendai?',
-          },
-          {
-            type: 'doc',
-            docId: 'community/communication',
-            position: 'left',
-            label: 'Community',
-          },
-          {
-            type: 'doc',
-            docId: 'staff/join',
-            position: 'left',
-            label: 'Staff',
-          },
-          {
-            type: 'doc',
-            docId: 'students/welcome',
-            position: 'left',
-            label: 'Students',
+            label: 'Handbook',
           },
           {
             type: 'localeDropdown',
             position: 'right',
-          },
-        //  {to: '/blog', label: 'Blog', position: 'left'},
-        //  {
-        //    href: 'https://github.com/facebook/docusaurus',
-        //    label: 'GitHub',
-        //    position: 'right',
-        //  },
+          }
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          //{
+          //  href: 'https://github.com/facebook/docusaurus',
+          //  label: 'GitHub',
+          //  position: 'right',
+          //},
         ],
       },
       footer: {
@@ -162,18 +147,18 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ywamsendai/ywamsendai-docs',
+                href: 'https://github.com/ywamsendai/ywamsendaidocs',
               },
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()} no rights reserved - made with ❤️ by YWAMSendai.org`,
+        copyright: `Copyright © ${new Date().getFullYear()} YWAM Sendai. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
 
-module.exports = config;
+export default config;
